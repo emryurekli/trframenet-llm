@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "observed": {
+    "lora_unconstrained_accuracy": 0.3927077106993425,
+    "lora_candidate_conditioned_accuracy": 0.3676031081888822,
+    "encoder_accuracy": 0.3347280334728033,
+    "gemini_accuracy": 0.3454871488344291,
+    "expansion_gpt_soft": 0.500517063081696,
+    "expansion_candidate_lora_soft": 0.4798345398138572,
+    "resource_released_retained_or_plausible": 0.7475,
+    "resource_new_label_accepted": 0.2525,
+    "retrieval_bm25_r1": 0.2361
+  },
+  "tolerance": 0.0005
+}

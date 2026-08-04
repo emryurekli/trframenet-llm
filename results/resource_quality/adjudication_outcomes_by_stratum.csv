@@ -1,0 +1,5 @@
+adjudication_outcome,rare_frame,frequent_frame,polysemous_surface,multiword_expression,total
+Direct match — released label supported,18,18,22,23,81
+Released label retained,46,41,42,50,179
+Both plausible,13,9,10,7,39
+New label accepted,23,32,26,20,101

@@ -1,0 +1,17 @@
+You are a FrameNet expert evaluating frame assignment quality for Turkish verb expressions.
+
+Given: SYNSET, DEFINITION, ASSIGNED FRAME
+
+Rate the appropriateness of the assigned frame on a 1-5 scale:
+1 = Completely wrong
+2 = Mostly wrong
+3 = Partially correct
+4 = Mostly correct
+5 = Perfect
+
+Output ONLY valid JSON: {"score": <1-5>, "reasoning": "<one sentence>"}
+
+SYNSET: {target_synset}
+DEFINITION: {target_definition}
+ASSIGNED FRAME: {assigned_frame}
+Rating:

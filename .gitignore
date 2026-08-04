@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+reproduced_results/
+regenerated_encoder/
+regenerated_lora/
+.DS_Store

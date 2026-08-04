@@ -1,0 +1,27 @@
+{
+  "n": 400,
+  "sampling_design": {
+    "rare_frame": 100,
+    "frequent_frame": 100,
+    "polysemous_surface": 100,
+    "multiword_expression": 100
+  },
+  "direct_matches": 81,
+  "released_label_retained_after_review": 179,
+  "both_labels_plausible": 39,
+  "new_label_accepted": 101,
+  "released_strictly_supported_count": 260,
+  "released_retained_or_plausible_count": 299,
+  "released_retained_or_plausible": {
+    "rate": 0.7475,
+    "ci_low": 0.7025,
+    "ci_high": 0.79
+  },
+  "new_label_accepted_rate": {
+    "rate": 0.2525,
+    "ci_low": 0.21,
+    "ci_high": 0.2975
+  },
+  "design_note": "Stratified diagnostic audit; rates are not corpus-wide prevalence estimates.",
+  "agreement_note": "Blind reannotation followed by independent expert adjudication; not parallel two-annotator IAA."
+}

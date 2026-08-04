@@ -1,0 +1,135 @@
+{
+  "judge_scores": [
+    {
+      "model": "qwen2.5:7b",
+      "type": "local",
+      "n_valid": 1000,
+      "n_failed": 0,
+      "mean_score": 2.655,
+      "score_dist": {
+        "1": 71,
+        "2": 500,
+        "3": 155,
+        "4": 251,
+        "5": 23
+      }
+    },
+    {
+      "model": "llama3:8b",
+      "type": "local",
+      "n_valid": 1000,
+      "n_failed": 0,
+      "mean_score": 3.958,
+      "score_dist": {
+        "2": 22,
+        "3": 3,
+        "4": 970,
+        "5": 5
+      }
+    },
+    {
+      "model": "gemma3:12b",
+      "type": "local",
+      "n_valid": 1000,
+      "n_failed": 0,
+      "mean_score": 3.828,
+      "score_dist": {
+        "1": 5,
+        "2": 5,
+        "3": 286,
+        "4": 565,
+        "5": 139
+      }
+    },
+    {
+      "model": "gpt-4o-mini",
+      "type": "api",
+      "n_valid": 1000,
+      "n_failed": 0,
+      "mean_score": 3.47,
+      "score_dist": {
+        "1": 21,
+        "2": 252,
+        "3": 140,
+        "4": 410,
+        "5": 177
+      }
+    },
+    {
+      "model": "gemini-2.0-flash (colab.ai)",
+      "type": "api",
+      "n_valid": 1000,
+      "n_failed": 0,
+      "mean_score": 3.366,
+      "score_dist": {
+        "1": 176,
+        "2": 173,
+        "3": 129,
+        "4": 153,
+        "5": 369
+      }
+    }
+  ],
+  "kappa_results": [
+    {
+      "model1": "qwen2.5:7b",
+      "model2": "llama3:8b",
+      "n": 1000,
+      "kappa": 0.0325
+    },
+    {
+      "model1": "qwen2.5:7b",
+      "model2": "gemma3:12b",
+      "n": 1000,
+      "kappa": 0.2156
+    },
+    {
+      "model1": "qwen2.5:7b",
+      "model2": "gpt-4o-mini",
+      "n": 1000,
+      "kappa": 0.4682
+    },
+    {
+      "model1": "qwen2.5:7b",
+      "model2": "gemini-2.0-flash (colab.ai)",
+      "n": 1000,
+      "kappa": 0.4361
+    },
+    {
+      "model1": "llama3:8b",
+      "model2": "gemma3:12b",
+      "n": 1000,
+      "kappa": 0.1357
+    },
+    {
+      "model1": "llama3:8b",
+      "model2": "gpt-4o-mini",
+      "n": 1000,
+      "kappa": 0.0814
+    },
+    {
+      "model1": "llama3:8b",
+      "model2": "gemini-2.0-flash (colab.ai)",
+      "n": 1000,
+      "kappa": 0.0485
+    },
+    {
+      "model1": "gemma3:12b",
+      "model2": "gpt-4o-mini",
+      "n": 1000,
+      "kappa": 0.4697
+    },
+    {
+      "model1": "gemma3:12b",
+      "model2": "gemini-2.0-flash (colab.ai)",
+      "n": 1000,
+      "kappa": 0.3841
+    },
+    {
+      "model1": "gpt-4o-mini",
+      "model2": "gemini-2.0-flash (colab.ai)",
+      "n": 1000,
+      "kappa": 0.6626
+    }
+  ]
+}

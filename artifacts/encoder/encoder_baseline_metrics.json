@@ -1,0 +1,9 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "classifier": "LinearSVC(C=1.0, class_weight=None)",
+  "N": 1673,
+  "accuracy": 0.33472803347280333,
+  "kappa": 0.3305589290375185,
+  "macro_f1": 0.1866795212057591,
+  "weighted_f1": 0.28357768083520957
+}

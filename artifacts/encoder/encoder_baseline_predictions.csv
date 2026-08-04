@@ -1,0 +1,1674 @@
+ID,SYNSET,DEFINITION,FRAME1,encoder_mmpnet_linearsvc_pred
+TUR10-1155950,tedbir almak,Önlem almak,Preventing_or_letting,Preventing_or_letting
+TUR10-1110480,ortam yaratmak,İmkân sağlamak,Creating,Intentionally_create
+TUR10-0303750,yerleşmek gömülmek kurulmak,Rahat bir biçimde oturmak,Change_posture,Burying
+TUR10-0610840,paketlemek kutuya koymak,"Bir veya birkaç şeyi kâğıda sararak, kutuya koyarak bağlamak",Attaching,Processing_Materials
+TUR10-0969740,bir işi başından kesmek,Yapılması istenmeyen bir işi baştan engellemek,Preventing_or_letting,Preventing_or_letting
+TUR10-0213400,doğmak dünyaya gelmek,Memelilerde ana rahminden canlı halde çıkmak,Being_born,Giving_birth
+TUR10-0335620,haykırmak,Bir durum veya nitelik çok belirgin olarak görünmek,Obviousness,Change_Of_Consistency
+TUR10-0783980,parayı basmak toslamak parayı bastırmak,Para vermek,Commerce_Pay,Commerce_Pay
+TUR10-0218750,donmak,"Yaşamını yitirmek, soğuktan ölmek",Death,Death
+TUR10-0055880,atıştırmak,Acele olarak yemek veya içmek,Ingestion,Ingestion
+TUR10-0477580,koşmak,"Birini, bir işte görevlendirmek",Employing,Forward_Motion
+TUR10-1056360,iliğine işlemek iliğine geçmek içi titremek donmak buz kesmek çivi kesmek iliği kemiği donmak buymak titremek,Çok üşümek,Perception_Body,Change_Of_Phase
+TUR10-1176070,yakışık almamak,Yerinde olmamak; uygun düşmemek,Suitability,Suitability
+TUR10-0778410,titreşmek,Her yanı titremek,Moving_In_Place,Moving_In_Place
+TUR10-1106840,nikâh tazelemek,Bir işe yeniden başlamak,Activity_resume,Activity_Start
+TUR10-0974450,boş durmamak,Birinin yaptığına karşılık olarak bir harekette bulunmak,Response,Intentionally_act
+TUR10-0204440,dikmek,Beklemek için birini bir şeyin başına getirmek,Being_located,Waiting
+TUR10-0852650,yetişmek,Eğitim görmüş olmak; öğrenmek; gelişmek,Education_teaching,Education_teaching
+TUR10-0056870,atmak,Kullanılması gelenek haline gelmiş bir şeyi kullanmaktan vazgeçmek,Process_stop,Cause_motion
+TUR10-0794540,tütsülenmek,Tütsüye benzeyen dumana tutulmak,Ingest_substance,Ingest_substance
+TUR10-1105370,nefis muhasebesi yapmak,"İnsan isteklerini, hırslarını ve yaptıklarını gözden geçirmek, doğru veya yanlışlarını vicdanının süzgecinden geçirip bir değerlendirme yapmak",Assessing,Cogitation
+TUR10-0178360,dağıtmak feshetmek,Bir topluluğun varlığına son vermek,Position_on_a_scale,Position_on_a_scale
+TUR10-0934270,altında kalmak,Karşılığını verememek,Success_or_failure,Ground_up
+TUR10-0480810,köklemek,"Minder, şilte ve benzerinin iki yüzünü yer yer dikişlerle tutturmak",Attaching,Attaching
+TUR10-1116260,pansuman yapmak,Yaranın temizlik ve bakımını yapmak,Cure,Emptying
+TUR10-0138980,cıvatalamak,Cıvata ile tutturmak,Attaching,Processing_Materials
+TUR10-0294670,germek,"Kol, bacak, uzatmak",Body_movement,Change_posture
+TUR10-0251770,ermek,Yetişip dokunmak,Motion,Perception_Active
+TUR10-0486670,kritik etmek,Eleştirmek,Judgement,Judgement_Communication
+TUR10-0072990,bakmak,Tedavi etmek için ilgilenmek,Attending,Cure
+TUR10-0037560,anlamak,Yeni bilgileri eskileriyle bir araya getirerek sonuç niteliğinde başka bir bilgi edinmek,Coming_to_believe,Awareness
+TUR10-0959940,baygın baygın bakmak,Hayranlıkla seyretmek,Perception_Active,Perception_Active
+TUR10-1183150,yerini bulmak,"Kendine yakışan makamı, durumu bulmak",Suitability,Suitability
+TUR10-0901420,ıkınıp sıkınmak,Bir iş yapabilmek için kendini çok zorlamak,Hit_or_miss,Attempt
+TUR10-1094350,mahkeme açmak,Mahkemede dava açmak,Activity_Start,Sending
+TUR10-0914720,vücuda getirmek,"Meydana getirmek, var etmek",Intentionally_create,Transfer
+TUR10-0448710,kılmak,Namazı yerine getirmek,Rite,Rite
+TUR10-0888240,ceza görmek azap çekmek,Kendisine ceza verilmek; cezalandırılmak,Being_incarcerated,Judgement_Direct_Address
+TUR10-0074870,ballamak,Bal sürmek,Manipulate_into_doing,Body_movement
+TUR10-0946420,ayağına dolanmak ayağına dolaşmak,İş yapmakta olan birine engel olmak ya da yürümesine engel olmak,Hindering,Preventing_or_letting
+TUR10-0983920,cin cin bakmak,Uykusuz gözlerle bakmak,Perception_Active,Perception_Active
+TUR10-0896470,gadre uğramak,Haksız davranışlarla karşı karşıya gelmek,Confronting_problem,Judgement_Direct_Address
+TUR10-1103390,zor alıma çarpmak müsadere etmek,Kişi mallarına devlet adına yasal olarak el koymak,Removing,Procurance
+TUR10-0909670,lanet okumak,Bir kimsenin Tanrı'nın merhametinden yoksun kalmasını dilemek,Desiring,Desiring
+TUR10-0914160,takla attırmak,Bir şeyi dilediği gibi beceriyle kullanabilmek,Expertise,Cause_motion
+TUR10-1205510,geride bırakmak,,Abandonment,Abandonment
+TUR10-0798430,ulumak,"Köpek, kurt, çakal vb. hayvanlar uzun, iniltili, ağlar gibi bir ses çıkarmak",Vocalizations,Make_noise
+TUR10-1088890,kupkuru kesilmek,Çok kurumak,Becoming_dry,Perception_Body
+TUR10-0585910,olmak,"Bir görev, makam, san veya nitelik kazanmak",Getting,Activity_Start
+TUR10-0880270,çıkmak,Bir konu yetkililerce karara bağlanmak,Deciding,Change_Of_Leadership
+TUR10-0629840,pişmek,Isıtma sonucu belirli bir kullanıma uygun duruma gelmek,Cause_temperature_change,Processing_Materials
+TUR10-0714970,sülfürlemek,Kükürtle birleştirmek,Cause_to_amalgamate,Processing_Materials
+TUR10-0288440,geçmek,Bulunduğu yeri veya konumu değiştirmek,Replacing,Traversing
+TUR10-0790080,tutmak,Hedef olarak almak,Aiming,Aiming
+TUR10-1169880,uzun etmek,Tartışmayı sürdürmek,Activity_Ongoing,Discussion
+TUR10-0476830,korumak,"Bir şeyin eskimesini, yıpranmasını önlemek için gereken dikkat ve özeni göstermek",Preserving,Protecting
+TUR10-1178210,yara almak,İtibar kaybetmek,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0080050,basmak bürümek,"Sarmak, kaplamak, örtmek, istila etmek",Distributed_position,Damaging
+TUR10-0674260,sekmek,Tek veya iki ayak üzerinde sıçramak,Self_motion,Self_motion
+TUR10-0790910,tutulmak,Birine tutkun olmak; sevmek,Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0412210,kapamak,"Üzerinde durmamak, bir şey üzerinde konuşmayı bırakmak",Process_End,Becoming_silent
+TUR10-0269410,fethetmek,Bir yeri veya ülkeyi savaşarak almak; ülke açmak,Claim_Ownership,Claim_Ownership
+TUR10-1182970,yerin dibine girmek yerin dibine geçmek yerin dibine batmak,Çok utanıp sıkılmak,Experiencer_focused_emotion,Stimulate_emotion
+TUR10-0980060,büyük oynamak,Çok para koyarak kumar oynamak,Game_Jargon,Game_Jargon
+TUR10-0903630,irtibat kurmak,Bağlantı sağlamak,Social_connection,Contacting
+TUR10-1166940,uğur getirmek,"İyilik, şans, talih, bereket getirmek",Experiencer_focused_emotion,Cause_Benefit_Or_Detriment
+TUR10-0478470,kovalamak,"Kaçanın arkasından koşmak, yakalamaya çalışmak",Forward_Motion,Forward_Motion
+TUR10-0339450,hercümerç etmek altüst etmek,"Çok karışık duruma getirmek, düzenini bozmak, karıştırmak",Bungling,Stimulate_emotion
+TUR10-1201850,vidalarını gevşetmek,Vidaları sıkıca sokulu olduğu yerden bollaştırmak,Detaching,Change_Of_Consistency
+TUR10-0338000,öldürmek helak etmek,"Canlılığına son vermek, ortadan kaldırmak",Killing,Killing
+TUR10-0968420,bir biçimine getirmek,Çözüm yolu bulmak,Seeking,Coming_Up_With
+TUR10-0421360,karışmak,"Açıklığını yitirmek, anlaşılması güçleşmek",Stimulate_emotion,Stimulate_emotion
+TUR10-0646440,çizmek resmetmek,Bir şeyin resmini yapmak,Depict,Create_representation
+TUR10-0885330,ana rahmine düşmek,Döl yatağında cenin oluşmak,Being_pregnant,Change_posture
+TUR10-0543220,mırıldanmak,Alçak sesle şarkı söylemek,Make_noise,Make_noise
+TUR10-0899330,hatırını sormak hatır sormak,Hâl hatır sormak,Questioning,Questioning
+TUR10-1085890,koza çekmek,Kozayı temizleyip ayıklamak,Separating,Emptying
+TUR10-1116510,para çekmek,Bir yere yatırılmış paradan bir bölümünü geri almak,Removing,Earnings_And_Losses
+TUR10-1040130,gül gibi bakmak,"İyi, temiz bakmak",Perception_Active,Perception_Active
+TUR10-0895550,ferahlık duymak,"İçinin açıklığını, rahatlığını hissetmek",Perception_Active,Experiencer_focused_emotion
+TUR10-0262530,ezmek,"Üzmek, sıkıntıya sokmak",Stimulate_emotion,Arranging
+TUR10-1005420,dıbır dıbır yürümek,Hafif ve düzenli biçimde ses çıkararak yürümek,Forward_Motion,Forward_Motion
+TUR10-0900030,hazıra konmak,Başkasının emeğiyle ortaya çıkmış bir şeyden yararlanmak,Cause_Benefit_Or_Detriment,Cause_Benefit_Or_Detriment
+TUR10-1083630,komik bulmak,Gülünç olmak,Mental_property,Chatting
+TUR10-0901690,icazet almak onay almak,"Onaylanmasını sağlamak, kabul veya tasdik ettirmek",Deny_or_grant_permission,Deny_or_grant_permission
+TUR10-1118800,pencere açmak,Görüş açısı kazandırmak,Awareness_change_scenario,Perception_Active
+TUR10-0795870,uçmak,Hava yolu ile gitmek,Motion,Motion
+TUR10-0402390,kaldırmak,Bir şeyden çokça satın almak,Commerce_Buy,Commerce_Buy
+TUR10-1182980,yerin dibine girmek yerin dibine batmak yerin dibine geçmek yitmek yitip gitmek gömülmek,"Görünmez olmak, kaybolmak",Departing,Forward_Motion
+TUR10-0438380,kekelemek,Ne söyleyeceğini şaşırıp kelimeleri birbirine karıştırmak,Communication_manner,Communication_manner
+TUR10-1189990,yürüyüşe geçmek,Bir yerden başka bir yere gitmek için yürümeye başlamak,Departing,Forward_Motion
+TUR10-0221670,gibi olmak dönmek hâline gelmek kesilmek,"Bir şeyi andıracak duruma girmek, benzemek",Being_relevant,Similarity
+TUR10-1054830,iki kat olmak,İki büklüm olmak,Body_movement,Chatting
+TUR10-1121700,puan almak puan kazanmak,Genellikle test biçimindeki sınavda herhangi bir puan elde etmek,Procurance,Assessing
+TUR10-0629860,pişmek,Pişik oluşmak,Experience_bodily_harm,Dispersal
+TUR10-1125070,saçı başı birbirine karışmak,Bakımsız olmak,State_of_entity,Perception_Active
+TUR10-0065810,azmak,"Taşkınlıkta ileri gitmek, kötülüğünü artırmak",Emotion_directed,Change_Position_On_A_Scale
+TUR10-0748240,tartmak hesaplamak,Bir şeyin bütün sonuçlarını veya bir durumu ayrıntılı bir biçimde düşünmek,Cogitation,Cogitation
+TUR10-0493000,kurnazlık etmek kurnazlaşmak şeytanlık etmek,Şeytanca veya kurnazca bir davranışta bulunmak,Intentionally_act,Becoming
+TUR10-1123210,rencide olmak,"İncinmek, kalbi kırılmak",Emotion_directed,Experiencer_focused_emotion
+TUR10-0795820,uçmak,Yüksek yerden düşmek veya yuvarlanmak,Motion,Motion_directional
+TUR10-0961290,belaya çatmak belaya girmek belaya uğramak,Beklenmedik bir bela ile karşılaşmak,Encounter,Encounter
+TUR10-1110150,ortadan kaldırmak hıfzetmek,Saklamak,Hiding_objects,Hiding_objects
+TUR10-1154620,tavaf etmek,İslam dininde hac ve umre sırasında Kâbe'nin çevresini dolaşmak,Forward_Motion,Rite
+TUR10-1143380,susta durmak,Köpek arka ayakları üzerinde durmak,Posture,Change_posture
+TUR10-1138910,sondaj yapmak,"Bir durum, bir düşünceyle ilgili olarak yoklama yapmak; araştırmak",Scrutiny,Scrutiny
+TUR10-1113310,ölüm sessizliği çökmek,Yoğun ve derin bir sessizlik kaplamak,Containment_scenario,Becoming_silent
+TUR10-0881090,düşmek dökülmek boylamak sukut etmek,"Yer çekiminin etkisiyle boşlukta, yukarıdan aşağıya inmek",Motion_directional,Change_Position_On_A_Scale
+TUR10-0907760,kısa kesmek,Sözü uzatmamak,Change_Event_Duration,Change_Event_Duration
+TUR10-0204420,dikmek,Yetiştirmek için bir bitkiyi toprağa yerleştirmek,Planting,Planting
+TUR10-1154270,tatil etmek,"Okul, iş yeri ve benzerini kapatmak, çalışmasına ara vermek",Activity_Pause,Activity_Pause
+TUR10-1123900,robot resmini çizmek robot resmini yapmak,Adli olaylarda tanığın tarifiyle şüphelinin görünümünü yansıtan resmini çizmek,Depict,Create_representation
+TUR10-0442830,kerpiçleşmek,Çok sert ve kuru bir duruma gelmek,Change_Of_Consistency,Change_Of_Consistency
+TUR10-0132520,canlanmak hararetlenmek,"Etkinliği artmak, hareketlilik kazanmak",Progression,Change_Position_On_A_Scale
+TUR10-1164850,turşusu çıkmak,Ezilmek; parçalanmak,Reshaping,Dispersal
+TUR10-0295850,gezdirmek,"Sürterek, değdirerek hareket ettirmek",Mass_motion,Forward_Motion
+TUR10-0250370,erimek çözünmek,"Çözülme işine konu olmak, dağılmak",Change_Of_Phase,Dispersal
+TUR10-1202530,şeytan çıkarmak,Kötü ruhları bir yerden ya da kimseden defetmek,Removing,Involuntary_reaction
+TUR10-1137510,siper olmak,Birini veya bir şeyi korumak amacıyla kendini siper olarak kullanmak,Protecting,Protecting
+TUR10-0885950,burnunu sokmak,Gerekmeden her işe karışmak,Hindering,Intentionally_act
+TUR10-0856320,yırtmak,Bir işi yapmaktan kurtulmak,Avoiding,Expulse
+TUR10-0754130,canlanmak tazeleşmek gençleşmek,"Gücü artmak, diri duruma gelmek ve canlılık kazanmak",Age,Rejuvenation
+TUR10-1099640,miadı dolmak,Bir şeyin kullanım süresi bitmek; eskimek,Process_End,Process_End
+TUR10-0969470,erimek bir iğne bir iplik olmak kemikleri sayılmak iskeleti çıkmak bal mumu gibi erimek eti kemiğine yapışmak boynu armut sapına dönmek iğne ipliğe dönmek çöpe dönmek avurdu avurduna geçmek tazıya dönmek iskelete dönmek derisi kemiklerine yapışmak süzülmek hayalî fenere dönmek çirozlaşmak,Çok zayıflamak,Change_Of_Consistency,Forward_Motion
+TUR10-0596570,tehlikeye düşürmek oynamak,"Sıkıntı, üzüntü veya zarar oluşturacak bir duruma sokmak",Endangering,Stimulate_emotion
+TUR10-0914460,uzak durmak alarga gitmek alarga durmak,"Karışmak istememek, ilgisiz davranmak ya uzak durmak",Avoiding,Avoiding
+TUR10-0648650,romanlaştırmak,Bir konuyu roman biçiminde yazmak,Text_creation,Text_creation
+TUR10-0123580,keşfetmek bulmak,Varlığı bilinmeyen bir şeyi ortaya çıkarmak,Coming_Up_With,Scrutiny
+TUR10-0493990,kurtlanmak,Sürekli kımıldanmak,Self_motion,Moving_In_Place
+TUR10-1152120,tanzim olunmak,Düzen verilmek; düzenlenmek,Arranging,Arranging
+TUR10-0912650,pervane gibi dönmek,Bir kimsenin yanından hiç ayrılmamak,Cotheme,Experiencer_focused_emotion
+TUR10-0900420,hesabı temizlemek eda etmek borçtan kurtulmak,Borcunu ödemek,Commerce_Pay,Lending
+TUR10-0302020,göğüslemek,Göğsünü dayayarak zorlamak,Cause_motion,Body_movement
+TUR10-0898990,hamur açmak,Yoğrulmuş hamuru inceltip yufka durumuna getirmek,Reshaping,Change_Of_Consistency
+TUR10-1067730,kaleme sarılmak kaleme kâğıda sarılmak kâğıt kaleme sarılmak kâğıtkaleme sarılmak,Hemen yazmaya başlamak,Text_creation,Text_creation
+TUR10-0667330,sarmalamak,Sıkı sıkı sarmak,Filling,Filling
+TUR10-0500760,kükremek,"Aslan, bağırmak",Make_noise,Make_noise
+TUR10-0955760,zorlamak baskı yapmak tazyik etmek yakasına çökmek zor kullanmak sıkıştırmak mecbur etmek sıkılamak cebretmek yırtmak mahkûm etmek zorunlu kılmak,"Birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak",Imposing_obligation,Manipulation
+TUR10-0766640,terazilenmek,Düşmemek için dengeyi korumak,Precariousness,Precariousness
+TUR10-1178090,yaprak gibi titremek,Aşırı titremek,Moving_In_Place,Moving_In_Place
+TUR10-0853120,yetmek,Yeterli sebep olmak,Sufficiency,Causation
+TUR10-1103130,münasip bulmak,"Uygun olduğunu, yerinde görüldüğünü kabul etmek",Suitability,Suitability
+TUR10-1120130,pireyi deve yapmak,Önemsiz bir olayı büyütmek,Emphasizing,Coming_Up_With
+TUR10-0886540,burnunun ucunu görmemek alkol duvarını aşmak küfelik olmak zom olmak dut gibi olmak bulut olmak,Çok sarhoş olmak,Intoxication,Intoxication
+TUR10-0069090,bağırmak,Yüksek sesle azarlamak,Judgement_Direct_Address,Make_noise
+TUR10-0320270,ezberlemek hafızlamak ineklemek bellemek hıfzetmek aklında tutmak öğrenmek,"Bir şeyi olduğu gibi akılda tutmak, öğrenip akılda tutmak",Memorization,Remembering_Information
+TUR10-0494790,kurulanmak,Kendini kurulamak,Cause_to_be_dry,Intentionally_create
+TUR10-0463550,kişilik kazanmak kişileşmek kendini bulmak,"Bir kişinin öz yapısı, kişiliği belirginleşmek",Coming_to_believe,Change_Of_Quantity_Of_Possession
+TUR10-0202110,dışlamak üvey evlat muamelesi yapmak burunlamak kırmızı kart göstermek,"Bir kimse veya bir toplum, bir kimse, bir durum, bir düşünce ve benzerini yok saymak, ilgilenmemek",Exclude_member,Exclude_member
+TUR10-1187040,dinlenmek yorgunluğunu çıkarmak yorgunluğunu atmak istirahat etmek nefes almak soluk almak yorgunluk çıkarmak yorgunluk atmak soluklanmak,"Güç kazanmak için çalışmaya ara vermek, yorgunluğunu gidermek",Activity_Pause,Biological_urge
+TUR10-0021690,akşamlamak,Akşamı bir yerde geçirmek,Temporary_stay,Temporary_stay
+TUR10-1121080,postuna oturmak,Bir başkasının makamına geçmek,Change_Of_Leadership,Change_Of_Leadership
+TUR10-1172380,vakit geçirmek oyalanmak kalmak siftinmek,Boş boş vakit harcamak,Frugality_Time,Frugality_Time
+TUR10-0901750,içi kabul etmemek,Bir şeyden midesi bulanmak,Perception_Body,Judgement
+TUR10-1098270,meslek edinmek,Bir işi meslek olarak yapacak bilgi ve beceriyi kazanmak,Change_Of_Quantity_Of_Possession,Education_teaching
+TUR10-1025000,ev ev gezmek ev ev dolaşmak kapı kapı gezmek kapı kapı dolaşmak,Her eve uğrayarak dolaşmak,Forward_Motion,Forward_Motion
+TUR10-0296350,gezmek,"Hava alma, hoş vakit geçirme vb. amaçlarla bir yere gitmek; seyran etmek",Self_motion,Forward_Motion
+TUR10-0325100,hamlamak,"Uzun zaman idman yapmamak, hareket etmemek yüzünden gücünü veya çevikliğini yitirmek",Change_Of_Quantity_Of_Possession,Sports_Play
+TUR10-0441220,kenet etmek,Kenetle birbirine bağlamak,Attaching,Attaching
+TUR10-1094090,maç yapmak,İki takım veya iki kişi kazanmak amacıyla aralarında karşılaşma yapmak,Competition,Sports_Jargon
+TUR10-1242560,geçmek,"Tükenmek, bitmek",Process_End,Process_End
+TUR10-0088910,bedirlenmek,Parlak ve sağlıklı görünmek,Thriving,Give_impression
+TUR10-0951200,bacaklarını uzatmak,"Hiçbir şey yapmadan, hiçbir şeyle ilgilenmeden oturmak, tembel tembel zaman öldürmek",Stimulus_focus,Change_Event_Duration
+TUR10-1034170,rahatsızlık vermek gönül bulandırmak,"Rahatını bozmak, rahatını ve keyfini kaçırmak",Emotions_of_mental_activity,Stimulate_emotion
+TUR10-0923070,ağız değiştirmek,Önce söylediğini başka türlü anlatmak,Statement,Cognitive_Change
+TUR10-1173420,velveleye vermek,Gereksiz telaşa ve heyecana düşürmek,Stimulate_emotion,Emotion_directed
+TUR10-0889380,dili dolaşmak,"Korku, heyecan, hastalık, utangaçlık, sarhoşluk gibi sebeplerle şaşırarak söyleyeceğini karıştırmak",Communication_manner,Stimulate_emotion
+TUR10-1172510,vals yapmak,Vals müziği ile dans etmek,Self_motion,Competition
+TUR10-1039560,gurka yatmak,Tavuk civciv çıkarmak için yumurta üzerine oturmak,State,Apply_Heat
+TUR10-1087260,kötü olmak,Olumsuz bir durum almak,Attitude_description,Bungling
+TUR10-0985800,çalışıp çabalamak cehdetmek,"Çok çaba harcamak, başarmak için çok çalışmak",Attempt,Work
+TUR10-1101970,mum kesilmek,"Sessiz, uslu, doğru düzgün durmak",Conduct,Becoming_silent
+TUR10-0009740,affetmek,Görev veya işten çıkarmak,Cause_Benefit_Or_Detriment,Firing
+TUR10-0587630,onarmak,"İşlenen bir kusuru, yapılan bir yanlışlığı giderecek veya önleyecek davranışlarda bulunmak",Resolve_problem,Resolve_problem
+TUR10-0388340,itmek,Bir şeyi güç uygulayarak ileri götürmek,Cause_change_of_position_on_a_scale,Cause_motion
+TUR10-1203980,ümidini kaybetmek umudunu kaybetmek,"Hiç umudu kalmamak, ümit beslememek",Change_Of_Quantity_Of_Possession,Experiencer_focused_emotion
+TUR10-1035740,gözden ırak tutulmak,"Önem verilmemek, değersiz bulmak",Importance,Importance
+TUR10-0503920,küstahlık etmek,Küstahça davranışlarda bulunmak,Statement,Intentionally_act
+TUR10-0564830,müstehcenleşmek,Müstehcen duruma gelmek,Becoming,Becoming
+TUR10-1055630,ilan etmek,Bir durumu yaymak,Communication,Statement
+TUR10-1070530,kapıyı büyük açmak,Çok masraflı bir işe girişmek veya hesapsız harcamak,Commerce_Pay,Commerce_Pay
+TUR10-0680220,sertleşmek,"Gücü artmak, zorlu bir durum almak",Difficulty,Cause_change_of_strength
+TUR10-1000010,dem çekmek,Kuşlar uzun ve güzel ezgiler çıkarmak,Make_noise,Stimulate_emotion
+TUR10-0298770,girmek,"İncelemek, ayrıntılara inmek",Scrutiny,Scrutiny
+TUR10-1097610,merak olmak,Anlamak veya öğrenmek isteği olmak,Mental_stimulus_exp_focus,Desiring
+TUR10-0845270,yazmak,Bir göreve almak,Hiring,Text_creation
+TUR10-0781210,toplamak,Devşirip kaldırmak,Gathering_up,Change_Position_On_A_Scale
+TUR10-0855450,yıllamak yerini ısıtmak,Bir yerde uzun süre kalmak,State_continue,Temporary_stay
+TUR10-0116480,boylamak,İstemeyerek bir yere gitme durumunda kalmak,Experiencer_focused_emotion,Emotion_directed
+TUR10-1186690,yolunu değiştirmek,Gittiği yoldan ayrılarak başka yola geçmek,Change_Direction,Change_Direction
+TUR10-0946380,ayağına çelme takmak,Birinin işinde yükselmesine engel olmak,Preventing_or_letting,Preventing_or_letting
+TUR10-1131630,sempatisini kazanmak gönlünü çelmek,"Birinin sevgisini, ilgisini ve yakınlığını kazanmak",Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0943720,coşmak ateş almak galeyan etmek çalkanmak çağlamak,Duygu ve düşünceleri güçlü bir tepki ile dışarı vurmak,Expressing_publicly,Subjective_influence
+TUR10-0801470,uyanmak,Bitkiler canlanıp yeşermeye başlamak,Process_Start,Ontogeny
+TUR10-1150280,takım yapmak,Değişik parçaları bir araya getirerek bir bütün oluşturmak,Amalgamation,Cause_to_amalgamate
+TUR10-1134560,sıkı tutmak,"Sürekli olarak denetlemek, kontrol altında bulundurmak",Control,Control
+TUR10-0689870,sıvazlamak,"Bir şeyin üstünde yavaş yavaş, hafifçe el gezdirmek",Manipulation,Body_movement
+TUR10-1035510,göz açamamak,Yoğun işler yüzünden bir şeyle ilgilenme imkânı bulamamak,Work,Attention
+TUR10-0652930,sabunlaşmak,Sabun durumuna gelmek,Change_Of_Consistency,Grooming
+TUR10-0890290,dönüp geriye bakmak,Eskiyi hatırlamak; geçmişi gözden geçirmek,Remembering_Information,Remembering_Information
+TUR10-1056270,ilham kaynağı olmak,Hayal dünyasını beslemek,Mental_activity,Subjective_influence
+TUR10-1203770,sinir etmek kızdırmak,"Kızmasına sebep olmak, kızmasını sağlamak",Stimulate_emotion,Emotion_directed
+TUR10-1200710,görev yapmak,Bir pozisyonda hizmet etmek,Usefulness,Appointing
+TUR10-1003180,dernek kurmak dernekleşmek,Belirli ve ortak bir amacı gerçekleştirmek için yasal topluluk oluşturmak,Intentionally_create,Collaboration
+TUR10-0846040,yedirmek,Bir şeyi azar azar başka bir şeyin içine karıştırarak belli olmayacak duruma getirmek,Cause_to_amalgamate,Amalgamation
+TUR10-0206730,dinceltmek,"Canlılığını, dinçliğini, zindeliğini sağlamak",Cause_bodily_experience,Rejuvenation
+TUR10-1185490,yoğurt çalmak,Yoğurt yapmak için süte yoğurt mayası koymak,Placing,Placing
+TUR10-0898650,haklı çıkmak,"Davasının, iddiasının, düşüncesinin veya davranışının doğru olduğu anlaşılmak",Becoming_aware,Regard
+TUR10-1175270,yağma etmek yağmalamak talanlamak talan etmek alan talan etmek,"Birçok kimse, zor kullanarak bir malı alıp kaçmak",Robbery,Theft
+TUR10-0374190,indirmek,"Yağmur, sis, birdenbire bastırmak",Weather,Precipitation
+TUR10-0428050,katılmak paylaşmak,"Ortak olmak, benimsemek",Adopt_selection,Participation
+TUR10-0505330,laf etmek söz etmek lafını etmek sözünü etmek yer vermek ilişmek değinmek,"Birinden veya bir konudan söz etmek, onunla ilgili olarak konuşmak",Statement,Statement
+TUR10-1208210,gönüllü olmak,Bir işi yapmayı hiçbir yükümlülüğü yokken isteyerek üstlenen,Commitment,Assistance
+TUR10-0907910,kıymet vermek,"Değerli olarak kabul etmek, değerlendirmek",Regard,Assessing
+TUR10-0056490,atlatmak,Basında başka ilgililerden önce bir haberin yayımlanmasını sağlamak,Cause_change,Success_or_failure
+TUR10-1156550,uslu durmak tek durmak doğru oturmak uslu oturmak,"Yasaklanan şeylere uyup söz dinlemek, çevreyi rahatsız etmemek",Conduct,Change_posture
+TUR10-0914430,uyku kestirmek kestirmek,Kısa bir süre uyumak,Sleep,Sleep
+TUR10-0672700,seçmek görmek,Göz yardımıyla bir şeyin varlığını algılamak,Cognitive_Comprehension,Perception_Active
+TUR10-1243200,çıkmak,Olmak,Event,Departing
+TUR10-0727180,şekerlenmek,"Şekerli eriyiklerin içindeki şeker, billur durumuna gelip ayrılmak",Dispersal,Change_Of_Consistency
+TUR10-1033790,gönlünü almak gönül almak sevindirmek hatırını hoş etmek memnun etmek,"Sevinmesine yol açmak, sevinmesini sağlamak",Emotions_of_mental_activity,Stimulate_emotion
+TUR10-1130860,seferber olmak,"Birçok kimse bir iş, bir amaç için bütün olanaklarıyla girişmek",Collaboration,Attempt
+TUR10-0307160,göstermek çıkarmak teşhir etmek,"Görülmesini sağlamak, görmesine yol açmak",Cause_to_perceive,Cause_to_perceive
+TUR10-0569330,nakşetmek,Kalıcı ve etkili olmasını sağlamak,Cause_impact,Usefulness
+TUR10-0375710,inmek,Değeri düşmek,Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0610980,temizlemek paklamak arıtmak temizlik yapmak almak,Temiz duruma getirmek,Emptying,Emptying
+TUR10-0693250,silkmek,"Üstündeki şeyleri düşürmek veya temizlemek için bir şeyi kuvvetle sallamak, sarsmak",Moving_In_Place,Moving_In_Place
+TUR10-0659850,saldırmak,Yıkıcı ve sert eleştiriler yapmak,Judgement_Communication,Judgement_Communication
+TUR10-0089100,beğenilmek zevki çıkmak ruhu okşamak hoşa gitmek sevilmek çekmek,Bir kişiden veya bir şeyden hoşlanmak,Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0207410,dinlendirmek,Durulmaya bırakmak,Abandonment,Activity_Pause
+TUR10-0126570,buyurmak,Birinden ikram edilen bir şeyi almak,Receiving,Giving
+TUR10-1102950,mülaki olmak,Buluşmak; kavuşmak; görüşmek,Meet_with,Come_together
+TUR10-0295940,gezelemek,"Sıkıntılı bir durumda dolaşmak, gezinmek",Forward_Motion,Forward_Motion
+TUR10-0906800,kendi hâlinde bırakmak,Üzerinde çalışmayarak geliştirmemek veya bakımsız bırakmak; işlememek,Abandonment,Abandonment
+TUR10-0790020,tutmak,"Ağrımak, sancımak, musallat olmak",Perception_Body,Cause_change
+TUR10-0005730,açılmak,Deniz aracı kıyıdan uzaklaşmak,Self_motion,Arriving
+TUR10-0973360,borç harç etmek,Sürekli borç alıp vermek,Lending,Lending
+TUR10-1194510,tekrar etmek,"Bir iş, olay vb. yeniden ortaya çıkmak; tekrarlanmak",Coming_to_be,Statement
+TUR10-0252680,selamlaşmak esenleşmek,Birbirine selam vermek,Social_interaction_evaluation,Attention_getting
+TUR10-1158760,tepeden tırnağa süzmek,Herhangi bir sebeple birine dikkatlice bakmak,Perception_Active,Perception_Active
+TUR10-0898220,göğsünü kabartmak,Bir olay dolayısıyla kıvanç duygusunu ortaya koymak; övünmek,Expressing_publicly,Body_movement
+TUR10-0718420,sürüklemek sürümek,"Bir şeyi yerden kaldırmaksızın çekerek, iterek götürmek",Forward_Motion,Bringing
+TUR10-0596480,oynamak,Film gösterilmek,Performers_and_roles,Performers_and_roles
+TUR10-0298660,girişmek,Kalkışmak,Attempt,Attempt
+TUR10-1183380,yerlerde sürünmek,"Çok perişan, acınacak bir durumda bulunmak",Endeavor_failure,Stimulate_emotion
+TUR10-0580410,numaralamak kotlamak kodlamak,"Bir veya daha fazla sıra numarasıyla göstermek, numara koymak",Appointing,Categorization
+TUR10-1133730,sıcak basmak,Hava çok ısınmak,Change_Of_Temperature,Change_Of_Temperature
+TUR10-0865130,yüklenmek,"Üstüne düşmek, zorlamak",Statement,Change_Position_On_A_Scale
+TUR10-1007790,dilini tutmak,Sonunu düşünmeden gelişigüzel konuşmaktan sakınmak,Avoiding,Becoming_silent
+TUR10-0956670,baş döndürmek,"Başarıdan, gururdan, sevinçten çok mutlu duruma getirmek, aşırı heyecanlandırmak",Stimulate_emotion,Stimulate_emotion
+TUR10-0801020,utanmak,"Onursuz sayılacak veya gülünç olacak bir duruma düşmekten üzüntü duymak, korkmak; mahcup olmak",Fear,Stimulate_emotion
+TUR10-0968170,bir araya gelmek birikişmek birleşmek buluşmak yüz yüze gelmek doluşmak,Bir yerde toplanmak,Come_together,Come_together
+TUR10-1152830,tartışmaya girmek,Münakaşa etmeye başlamak,Discussion,Discussion
+TUR10-0808910,ürkmek,Ağaç meyve vermemek,Cause_to_start,Experiencer_focused_emotion
+TUR10-0664880,sapmak,Doğruluktan ayrılmak,Undergo_transformation,Similarity
+TUR10-0204170,özen göstermek dikkat etmek içi titremek itina etmek,Bir şeyi özenerek elden geldiğince iyi olmasına gayret ederek yapmak,Achieving_first,Emphasizing
+TUR10-1033230,gölgesine sığınmak,Birinin emri altına girmek,Giving_in,Location_of_light
+TUR10-0834550,yapmak,Dışkı çıkarmak,Excreting,Intentionally_act
+TUR10-1171720,üzerine almak,Bir işi görev edinmek; deruhte etmek,Commitment,Activity_Start
+TUR10-0587290,omuzlamak,Destek vermek,Supporting,Assistance
+TUR10-1072520,karmakarışık olmak karmakarış olmak altüst olmak iç içe girmek iç içe geçmek allak bullak olmak karman çorman olmak sarmaş dolaş olmak,Aşırı karışık duruma gelmek,Stimulate_emotion,Becoming
+TUR10-1037340,gözü olmak gözleri olmak,Dikkati bir yerde toplanmak,Emphasizing,Perception_Active
+TUR10-1121000,posta yapmak,Bir yere gidip gelmek; sefer yapmak,Travel,Sending
+TUR10-1091860,küpe dönmek,Çok şişmanlamak,Body_description_holistic,Change_Size
+TUR10-0822220,vurulmak,Âşık olmak; gönül kaptırmak; sevdalanmak,Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0448960,kımlanmak,Kalkacakmış gibi kıpırdamak,Body_movement,Moving_In_Place
+TUR10-0912140,özür dilemek,"Özrünü ileri sürerek bir işi yapmayı istememek, bir işten bağışlanmasını istemek",Avoiding,Atonement
+TUR10-0469990,komalık olmak,Yediği dayaktan sonra kıpırdayamayacak duruma gelmek,Medical_conditions,Medical_conditions
+TUR10-1150630,taksit ödemek taksit vermek,Belli zamanlarda ödeme şartlarına bağlanmış bir paranın bir bölümünü vermek,Commerce_Pay,Commerce_Pay
+TUR10-1015910,düşüncesini açmak,Görüşünü bildirmek,Communication,Statement
+TUR10-1183620,yer tutmak,İşlevi ve etkisi olmak,Objective_influence,Intentionally_create
+TUR10-0793210,tünemek,"Kuşlar, kanatlı evcil hayvanlar, uyumak için bir dala veya sırığa konmak",Placing,Change_posture
+TUR10-0271470,fırlamak,"Hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak",Quitting_a_place,Forward_Motion
+TUR10-0387020,itaat etmemek itaatsizlik etmek uymamak,"Boyun eğmemek, söz dinlememek",Compliance,Compliance
+TUR10-1160420,teşebbüs etmek,"Girişmek, el atmak",Attempt,Body_movement
+TUR10-0847410,yelpirdemek,"Kımıldamak, hafif sallanmak",Moving_In_Place,Moving_In_Place
+TUR10-0908590,kökünden halletmek,Herhangi bir konuyu veya sorunu temelden çözümlemek,Resolve_problem,Coming_Up_With
+TUR10-1043150,hâkim olmak,Buyruğunu yürütmek; egemenliğini sürdürmek,Being_in_control,Being_in_control
+TUR10-0629160,pisletmek,Pis duruma getirmek; kirletmek,Bungling,Emitting
+TUR10-1066800,kahkahayı basmak kahkahayı koparmak kahkahayı salıvermek kahkaha basmak kahkaha koparmak kahkaha salıvermek,Kendini tutamayıp yüksek sesle gülmek,Make_noise,Make_noise
+TUR10-0452450,kırmak,Daha iyi bir sonuç elde etmek,Surpassing,Win_Prize
+TUR10-0485510,közlemek,"Et, sebze, meyve, hamur ve benzerini köz üzerinde pişirmek",Apply_Heat,Apply_Heat
+TUR10-1092870,lakırtıya boğmak,Gereksiz ve boş sözlerle konuşmayı uzatmak,Activity_Ongoing,Chatting
+TUR10-0832370,yanmak,Yanık acısına benzer bir acı duymak,Cause_To_Burn,Perception_Body
+TUR10-0392270,jurnallemek ispiyonlamak şikâyet etmek şikayet etmek,"Şikâyet etmek, ispiyonlamak, ihbar etmek",Reporting,Complaining
+TUR10-1207090,kar elde etmek kazanç elde etmek kazanç sağlamak,"Kazanç elde etmek, yarar sağlamak",Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0023990,alalamak maskelemek peçelemek,"Beneklerle, çizgilerle veya renklerle bezeyerek bir şeyi bulunduğu çevreye uydurmak ve böylece görünmemesini sağlamak",Cause_to_perceive,Processing_Materials
+TUR10-1173150,vazifesinden olmak,"Görevinden, işinden uzaklaştırılmak",Lose_Possession,Firing
+TUR10-0094890,berkitmek kavileştirmek pekiştirmek perçinlemek perçinleştirmek sağlamlaştırmak tahkim etmek takviye etmek tarsin etmek tekit etmek esaslandırmak,Sağlam bir duruma getirmek,Change_Resistance,Cause_to_make_progress
+TUR10-0863800,yutkunmak,Tükürüğü yutmak veya bir şey yutuyormuş gibi gırtlağı hareket ettirmek,Ingestion,Ingestion
+TUR10-0097600,beyazlanmak,Ağarmak,Change_of_state_scenario,Change_Position_On_A_Scale
+TUR10-0743930,tanımak,Bilip ayırmak; seçmek; ayırt etmek,Becoming_aware,Becoming_aware
+TUR10-0595780,oyalanmak sallanmak,Vaktini boş ve yararsız işlerle uğraşarak geçirmek,Expend_resource,Frugality_Time
+TUR10-0901730,içinden çıkmak,Karışık bir işin güçlüklerini yenebilmek; üstesinden gelmek,Conquering,Accomplishment
+TUR10-1129120,sarıp sarmalamak,Sıkıca sarmak,Filling,Clothing
+TUR10-1098590,meteliğe kurşun atmak,Parası kalmamak,Earnings_And_Losses,Earnings_And_Losses
+TUR10-0148590,vurmak çalmak ses vermek,"Ses çıkarmak, herhangi bir sesi çıkarmak",Cause_to_make_noise,Make_noise
+TUR10-0769800,tespit etmek,Bir durumu kuşkuya düşürmeyecek biçimde göstermek,Becoming_aware,Awareness
+TUR10-1152820,tartışma götürmek,Bir konu tartışmaya açık olmak,Certainty,Discussion
+TUR10-1155190,içermek tazammun etmek,"Bir şey, başka bir şeyin varlığını gerektirmek, biri ötekini ister istemez düşündürmek",Inclusion,Cogitation
+TUR10-0182570,damlamak,İçindekini damla damla akıtmak,Fluidic_motion,Filling
+TUR10-1116530,para çıkarmak,Başka yerde bulunan kimseye posta veya banka ile para göndermek,Commerce_Pay,Commerce_Pay
+TUR10-0042580,aramak,Birini veya bir şeyi bulmaya çalışmak,Scrutiny,Scrutiny
+TUR10-0889120,dargın durmak dudak sarkıtmak yüzü düşmek yüzü asılmak çehresi bozulmak somurtmak şişinmek surat asmak ekşimek sorutmak,"Küskünlüğünü, bir şeye sıkıldığını, keyifsizliğini anlatacak biçimde yüzünü buruşturmak",Making_faces,Stimulate_emotion
+TUR10-0100230,bırakmak,"Uğraşmaz olmak, artık uğraşmamak",Abandoned_State,Abandonment
+TUR10-0652880,sabunlamak,Bir nesneyi sabun sürerek kaygan duruma getirmek,Grooming,Grooming
+TUR10-0901150,hükme varmak,İyice düşündükten sonra karar vermek,Deciding,Deciding
+TUR10-0022190,aktarmak,"Bir dilden başka bir dile çevirmek, tercüme etmek",Cause_change,Translating
+TUR10-0705990,söndürmek,"Ateş ve ışık için, yanmasına, aydınlatmasına son vermek",Change_Operational_State,Change_Operational_State
+TUR10-0132470,canlandırmak,"Bir karakteri oynamak, ona kişilik vermek",Performers_and_roles,Performers_and_roles
+TUR10-1203170,demonte etmek,"Kurulu bir makine, cihaz ya da mobilyanın parçalarını ayırmak; sökmek",Change_Operational_State,Change_Operational_State
+TUR10-1147470,şiar edinmek,Benimsemek; ilke olarak kabul etmek,Adopt_selection,Adopt_selection
+TUR10-0664720,saplanmak,"Batma sonucu hareket edemez olmak, batıp kalmak",Being_attached,Being_attached
+TUR10-0739520,takılmak çakışmak,Birbirine geçip kenetlenmek,Inhibit_movement,Attaching
+TUR10-0496620,kuşatmak ortalığı ... almak ortalığı ... götürmek ortalığı bok götürmek,Çepeçevre sarmak,Change_Of_Accessibility,Claim_Ownership
+TUR10-0287880,giymek geçirmek giyinmek kullanmak kuşanmak,Örtünüp korunmak için bir şeyi vücuduna geçirmek,Dressing,Wearing
+TUR10-0117890,bozmak,"Dokunmak, zarar vermek",Cause_harm,Cause_harm
+TUR10-1091080,kuyusunu kazmak,"Birinin yıkımına çalışmak, kötü duruma düşmesini istemek",Desiring,Seeking
+TUR10-0998610,değersizleşmek değer düşümüne uğramak pula dönmek arka planda kalmak geri planda kalmak,"Değersiz duruma gelmek, önemini yitirmek",Losing,Change_Of_Quantity_Of_Possession
+TUR10-1129540,kırıp geçirmek,"Yakıp yıkarak, öldürerek, baskı veya etki yaparak büyük zarar vermek",Destroying,Cause_harm
+TUR10-1073290,kasnak işlemek,Kasnakta nakış işlemek,Create_physical_artwork,Processing_Materials
+TUR10-1108490,ok yaydan çıkmak ok yayından çıkmak,Geri dönülemeyecek bir iş yapmak,Cause_change,Departing
+TUR10-0912160,parmağı olmak,"Bir işi olumsuz yönde etkilemek, bir işe karışmış olmak",Hindering,Causation
+TUR10-1132430,sersefil olmak,"Perişan, zavallı durumda olmak",Living_conditions,Becoming
+TUR10-0911480,omuzları çökmek,"Bitkin, perişan ve yıkılmış bir durumda olmak",Used_up,Abandonment
+TUR10-0690230,sıyırmak,Bir şeyin üstündeki örtüyü çekerek almak veya açmak,Removing,Removing
+TUR10-1209900,zaman geçirmek,Oyalanmak; vakit geçirmek,Frugality_Time,Frugality_Time
+TUR10-0266930,bilincine varmak fehmetmek intikal etmek derk etmek içine çekmek,"Anlamak, kavramak",Awareness,Awareness
+TUR10-1013010,dramatize etmek,"Bir olayı olduğundan daha acıklı, abartılı bir biçimde ortaya koymak",Behind_the_scenes,Telling
+TUR10-1164250,treni kaçırmak,"Bir şeyi elde etme, bir işi gerçekleştirme fırsatını ve imkânını yitirmek",Lose_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0428530,katileşmek kesinleşmek,Kesin bir durum almak,Process_End,Change_Of_Consistency
+TUR10-1033880,aşık olmak gönlünü kaptırmak gönlü düşmek aşka düşmek deli bayrağı açmak âşık olmak sevdalanmak bağlı olmak gönül akıtmak tutkun olmak gönlünü düşürmek bağlanıp kalmak gönül vermek meftun olmak,"Sevmek, tutulmak",Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-1247400,anlatmak,"Bilgi vermek, izah etmek",Statement,Telling
+TUR10-0744220,tanışmak,Birbirini tanır duruma gelmek,Familiarity,Encounter
+TUR10-0279940,frenlemek,"Bir taşıtın, mekanizmanın hareketini fren yardımıyla yavaşlatmak veya durdurmak",Process_stop,Change_Operational_State
+TUR10-0810850,üşütmek soğuklamak soğuk almak,Üşüyerek hastalanmak,Come_down_with,Perception_Body
+TUR10-0341180,hıçkırmak,Boğazdan hıçkırık sesi çıkarmak,Make_noise,Make_noise
+TUR10-0906110,karaya oturmak,Gemi denizin sığ bölümüne saplanıp kalmak,Being_attached,Activity_paused_state
+TUR10-0492760,inşa etmek kurmak bina etmek dikmek,Yapı yapmak,Building,Building
+TUR10-0197400,ders olmak ibret olmak,"Bir olay deneyim kazandırmak, öğretici örnek olmak",Education_teaching,Education_teaching
+TUR10-0486570,kristallenmek,Kristal duruma gelmek,Change_Of_Consistency,Change_Of_Phase
+TUR10-0740260,takip etmek,"Uymak, bir şeyi izlemek",Cotheme,Cotheme
+TUR10-0213810,doğrulamak,Bir önermenin doğruluğunu veya yanlışlığını belirlemek amacıyla olayları inceleyip araştırmak,Affirm_or_deny,Reasoning
+TUR10-0866900,yürümek işlemek,"Hesapları, kayıtları düzenli olarak tutmak veya gereken yere aktarmak",Leadership,Forward_Motion
+TUR10-0897160,gelin gibi süzülmek,"Geline yakışır biçimde edalı, nazlı yürümek",Forward_Motion,Forward_Motion
+TUR10-1160990,tevil götürmek,Söz veya davranışa başka bir anlam verebilmek,Categorization,Judgement
+TUR10-1061680,iş bitirmek,Bir işi iyi bir sonuca ulaştırmak,Activity_Done,Activity_Done
+TUR10-0768420,geri dönmek tersinmek çark etmek rücu etmek,Geldiği yere gitmek,Change_Direction,Forward_Motion
+TUR10-0732690,şişirmek,Şişkin bir duruma getirmek,Cause_expansion,Cause_change
+TUR10-0265750,faş etmek,"Gizli olanı açığa vurmak, duyurmak, ortaya dökmek, dile vermek",Reveal_secret,Reveal_secret
+TUR10-1064370,izin vermek,Birine bir iş yapması için müsaade etmek,Deny_or_grant_permission,Deny_or_grant_permission
+TUR10-0960120,bayrak asmak bayrak çekmek,Bayrağı bir direğe veya ipe takmak,Attaching,Attaching
+TUR10-0924110,demediğini bırakmamak ağzına geleni söylemek demediğini koymamak veriştirmek,Nezaket dışına çıkarak ağır ve kırıcı sözler söylemek,Judgement_Direct_Address,Judgement_Direct_Address
+TUR10-1160060,etkilemek tesir etmek etki etmek elektriklemek müessir olmak,Etkiye uğratmak,Subjective_influence,Subjective_influence
+TUR10-0601610,ölmek,"Değerini, geçerliğini, gücünü yitirmek, kullanılmamak",Process_End,Change_Of_Quantity_Of_Possession
+TUR10-0515020,lütfetmek,Müsaade etmek; izin vermek,Preventing_or_letting,Deny_or_grant_permission
+TUR10-0804730,uzatmak,"Başı, kolları veya bacakları bir yere yöneltmek",Body_movement,Change_posture
+TUR10-1194560,elinde tutmak,Bir malı satmayıp bekletmek,Possession,Commerce_Sell
+TUR10-0375570,inlemek,"Gür, uğultulu, yankılı ses çıkarmak",Sounds,Make_noise
+TUR10-1181550,yeğlemek yeğ tutmak tercih etmek,Diğerlerinden daha üstün görüp bir şeye yönelmek,Choosing,Choosing
+TUR10-0909170,leblebiden nem kapmak,En küçük bir olay veya davranıştan olumsuz etkilenmek,Subjective_influence,Stimulate_emotion
+TUR10-0764710,tenkit etmek,Eleştirmek,Judgement,Cause_to_perceive
+TUR10-1006570,dikkat çekmek,İlgi toplamak,Attention,Attention
+TUR10-1171290,üstüne yaptırmak üstüne geçirmek üzerine yaptırmak,Bir malın tapusunu kendi adına yazdırmak,Taking,Text_creation
+TUR10-0227410,duymak hissetmek sezmek,"Açık bir kanıt olmaksızın, olmuş veya olacak bir şeyi anlamak, kestirmek",Awareness,Awareness
+TUR10-1122600,rampa etmek,"Taşıt bir yere, bir şeye veya bir başka taşıta yanaşmak",Arriving,Placing
+TUR10-0133220,bağırmak carlamak car etmek nara basmak nara atmak haykırmak böğürmek bağırarak konuşmak,"(Telaş, şikâyet vb. sebeplerle) yüksek ve gür ses çıkarmak",Make_noise,Make_noise
+TUR10-1021050,endişeye düşmek,Tasaya kapılmak; kaygılanmak,Worry,Worry
+TUR10-1095090,mana çıkarmak,"Bir söze, söyleyenin aklından geçmeyen bir anlam vermek",Judgement,Judgement
+TUR10-0858180,yoklamak,"Durum, bilgi, niyet ve benzerini belirlemeye veya anlamaya çalışmak",Inspecting,Telling
+TUR10-1084350,kontrpiyede kalmak,Futbolda kaleci ters tarafa gitmek veya hamle yapmak,Sports_Jargon,Sports_Jargon
+TUR10-0430880,kavramak,"Bir nesne veya düşünceyi her yönünü anlamak, iyice anlamak",Cognitive_Comprehension,Awareness
+TUR10-0414870,kaptırmak,"Yanlış bir davranış sonucu birine uygun imkânı sağlamak, fırsat vermek",Lose_Possession,Cause_Benefit_Or_Detriment
+TUR10-0939120,araya girmek,Bir iş yapılırken ona engel olacak başka bir şey çıkmak,Interrupt_process,Hindering
+TUR10-1173100,vazıh olmak,"Açık durumda bulunmak, anlaşılır biçimde görünmek",Perception,Obviousness
+TUR10-0690860,sızmak sıvışmak palamarı koparmak palamarı çözmek,"Haber vermeden sessizce gidivermek, kaçmak",Forward_Motion,Forward_Motion
+TUR10-0456250,kıvırmak,Kalçalarını iki yana sallayarak oynamak veya yürümek,Forward_Motion,Forward_Motion
+TUR10-0170960,çizgilenmek,Çizgi meydana gelmek,Distributed_position,Processing_Materials
+TUR10-0454610,kısmak,"Masraf, harcama ve benzerini azaltmak",Cause_change_of_position_on_a_scale,Change_Position_On_A_Scale
+TUR10-1001580,denizdeki balığın karada komisyonculuğunu yapmak,"Gerçekte bulunmayan bir konu üzerinde varmış gibi savunuculuğunu yapmak, hayalî konularda gereksiz söz söylemek",Statement,Statement
+TUR10-1183640,saygı göstermek yer vermek hürmet etmek tazim etmek secde etmek iplemek saymak keyif sormak itibar etmek,"Değeri, üstünlüğü, yaşlılığı, yararlılığı dolayısıyla bir kimseye veya bir şeye karşı dikkatli, özenli, ölçülü davranmak",Judgment,Social_interaction_evaluation
+TUR10-0056880,atmak,"Çıkarmak, dışarıya vermek",Emitting,Cause_motion
+TUR10-1006690,dikkatli olmak,"Dikkat etmek, dikkat göstermek",Judgment,Perception_Active
+TUR10-0782580,topraklamak,Üzerini toprakla örtmek,Burying,Processing_Materials
+TUR10-0728650,şereflendirmek onurlandırmak teşrif etmek şeref vermek,"Kendisine saygı duyulan bir kimse, bir yere gelerek oradakileri mutlu etmek",Stimulate_emotion,Compliance
+TUR10-0907210,kepenkleri indirmek,İşi tatil etmek,Activity_Pause,Activity_Pause
+TUR10-0351050,hükmetmek kontrol etmek çiğnemek,"Egemenliği altında bulundurmak, egemenliği altına almak",Control,Being_in_control
+TUR10-1076900,kemer sıkmak kemerini sıkmak,Sıkı para politikası anlayışıyla daha az tüketmek,Frugality,Earnings_And_Losses
+TUR10-1159620,tersim etmek,Resmetmek,Create_representation,Processing_Materials
+TUR10-1108830,oldu bilmek oldu saymak,Sorunu çözülmüş bilmek,Cogitation,Awareness
+TUR10-1162880,topa çıkmak,Rakibin topu rahatça kullanmasına engel olmak için topa hamle etmek,Sports_Jargon,Sports_Jargon
+TUR10-0888070,cepten vermek,"Kendi kesesinden, kendi malından ödemek",Change_Of_Quantity_Of_Possession,Commerce_Pay
+TUR10-1168900,uykusu gelmek,Uyuma isteği duymak,Sensation,Sleep
+TUR10-0653610,saçmak,"Bir şeyi ortalığa dağıtmak, dökmek",Mass_motion,Dispersal
+TUR10-1038090,gözyaşına boğulmak gözünden yaş boşanmak ağlayıp sızlamak gözünden yaşlar boşanmak yaşlara boğulmak boşanmak gözlerinden yaş boşanmak gözlerinden yaşlar boşanmak,Çok ağlamak,Make_noise,Experiencer_focused_emotion
+TUR10-0606540,ötmek,Herhangi bir nesne sürekli ses çıkarmak,Motion_noise,Make_noise
+TUR10-0178370,dağıtmak,Kurulu bir düzeni bozmak,Subversion,Dispersal
+TUR10-0307460,götürmek,Yerinden ayırıp uzağa atmak veya yok etmek,Cause_motion,Cause_motion
+TUR10-0718540,süründürmek,Güçlük ve sıkıntıya uğratmak,Causation,Stimulate_emotion
+TUR10-0686890,denemek sınamak tecrübe etmek imtihana çekmek,"Değerini anlamak, gerekli niteliği taşıyıp taşımadığını bulmak için birini, bir nesneyi veya bir düşünceyi yoklamak",Assessing,Attempt
+TUR10-0989620,çığır açmak,"Bir alanda yeni bir yol, yöntem başlatmak",Process_Start,Activity_Start
+TUR10-0943230,aşka gelmek,"Bir şeyi yapmak için büyük bir istek duymak, coşkunluk göstermek; coşmak",Emotion_directed,Desiring
+TUR10-1242310,almak,"Yol gitmek, yol almak",Motion,Arriving
+TUR10-0435840,kazanmak,"Çıkmak, isabet etmek",Win_Prize,Change_Of_Quantity_Of_Possession
+TUR10-0109190,bitirmek,"Güçsüz düşürmek, bitkin duruma getirmek, yormak",Expend_resource,Process_End
+TUR10-1141800,starta geçmek start almak,Başlamak,Process_Start,Activity_Start
+TUR10-1036400,gözleri berraklaşmak,Bakışları daha canlı ve parlak olmak,Body_parts,Perception_Experience
+TUR10-1169030,uyruğuna girmek,"Bir kimsenin etkisi altında kalmak, ona bağlanmak",Distance_scenario,Stimulate_emotion
+TUR10-0669610,savulmak kaçılmak,Bir şeyden çekinerek bulunduğu yerden uzaklaşmak,Departing,Avoiding
+TUR10-0932360,alkollemek,Alkol sürmek,Intoxication,Intoxication
+TUR10-0029450,almak,Tat veya koku duymak,Perception_Experience,Perception_Experience
+TUR10-0900340,hesaba çekmek,"Bir kişiden, bir kuruldan yaptığı işler için açıklama ve savunma istemek",Request,Request
+TUR10-1143370,susta durdurmak,Bir kimseyi veya birilerini yıldırmak,Stimulate_emotion,Preventing_or_letting
+TUR10-0612290,pancarlaşmak,Pancar rengini almak,Processing_Materials,Processing_Materials
+TUR10-0492740,kurmak,Gereken şartları hazırlayıp kendi kendine olmaya bırakmak,Making_arrangements,Activity_prepare
+TUR10-1061080,istihsal etmek,Elde etmek,Procurance,Desiring
+TUR10-0623590,perdelemek,"Bir şeyin önüne perde çekmek, perde ile örtmek",Hiding_objects,Obscurity
+TUR10-0596790,oynatmak ırgamak yerinden oynatmak kıpırdatmak kımıldatmak,"Hafifçe hareket ettirmek, hareketlendirmek",Cause_motion,Moving_In_Place
+TUR10-0266560,fazlalaşmak ziyadeleşmek,Sayısı artmak; çoğalmak,Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-1045200,ortaya çıkarmak hasıl etmek,"Delilleriyle göstermek, kanıtla ortaya koymak",Evidence,Cause_to_perceive
+TUR10-1181200,yazıyı çıkarmak yazıyı sökmek okuyabilmek,Okuma imkanı bulunmak,Reading_Activity,Reading_Activity
+TUR10-1142340,çiş yapmak su dökmek küçük abdest bozmak küçük abdestini yapmak,İdrar torbasında biriken sidiği dışarı atmak,Excreting,Excreting
+TUR10-1193420,zihnini altüst etmek,Düşüncelerini karmakarışık duruma getirmek,Improvement_or_decline,Stimulate_emotion
+TUR10-0814860,varsayılmak farz olunmak,Bir şeyin var olduğu kabul edilmek,Categorization,Estimating
+TUR10-0970720,bir tek atmak,Bir kadeh içki içmek,Ingestion,Ingestion
+TUR10-1132160,serilip yatmak serilip serpilmek,Rahat bir biçimde yatmak,Change_posture,Change_posture
+TUR10-1148310,şut çekmek şut atmak,Topu sert ve hızlı bir biçimde kaleye atmak,Sports_Jargon,Sports_Jargon
+TUR10-1121890,pul pul olmak pullanmak,Küçük ve ince tabakalar halinde olmak,Attributes,Processing_Materials
+TUR10-0634020,postalamak,Herhangi bir sebeple birini yanından uzaklaştırmak,Cause_motion,Communication
+TUR10-1090740,kuvvet almak,"Herhangi bir yardımla gücü artmak, kuvvetlenmek",Biological_mechanisms,Cause_change_of_strength
+TUR10-0906780,kendi derdine düşmek,Kendi sorunu sebebiyle başka şeyle ilgilenememek,Capability,Cogitation
+TUR10-0885730,avaz avaz bağırmak,Var gücüyle bağırmak,Communication_noise,Make_noise
+TUR10-0405130,kalmak,"İşlemez, yürümez duruma gelmek",Using,Forward_Motion
+TUR10-0818310,vermek,Herhangi bir duruma yol açmak,Causation,Causation
+TUR10-1105200,nefes almak,"Ferahlamak, rahatlamak, sıkıntılı bir durumdan kurtulmak",Emotion_directed,Breathing
+TUR10-0368230,ilgilendirmek taalluk etmek ait olmak,İlişkin olmak,Intentionally_act,Being_relevant
+TUR10-0832060,yankılanmak yankılamak inikâs etmek aksetmek,Ses bir yere çarpıp geri dönmek,Sound_movement,Moving_In_Place
+TUR10-1119470,peşinde dolaşmak peşinde gezmek,"Bir amaçla birisini izlemek, takip etmek",Forward_Motion,Cotheme
+TUR10-0259800,evirmek döndürmek,"Çevirmek, ... bir duruma getirmek",Motion_directional,Change_Direction
+TUR10-1005830,dibe vurmak,En kötü duruma düşmek,Perception_Experience,Impact
+TUR10-0412820,kapatmak,"Bitirmek, unutturmak, söz edilmesini engellemek",Preventing_or_letting,Becoming_silent
+TUR10-1082830,kocakarılığı tutmak,"Geçimsiz, inatçı, şirret yaşlı bir kadın gibi davranmak",Conduct,Activity_Ongoing
+TUR10-0086930,bayraklaşmak,Bayrak değeri kazanmak,Undergo_transformation,Change_Of_Quantity_Of_Possession
+TUR10-1199310,mutabakata varmak aynı fikirde olmak anlaşmak antant kalmak,"Düşünce, duygu, amaç bakımından birleşmek",Compatibility,Collaboration
+TUR10-0395530,kaçırmak,Yarışan bir koşucu diğeri tarafından hızla geçilip ara açılmak,Forward_Motion,Forward_Motion
+TUR10-0456570,kıvranmak,"Ağrı, sancı gibi bedensel veya korku, heyecan gibi ruhsal sebeplerle vücut eğilip bükülmek",Change_posture,Perception_Body
+TUR10-0589070,operatörleşmek,"Operatör olmak, operatör gibi davranmak",Using,Statement
+TUR10-1019500,elini kolunu sallaya sallaya gelmek,Bitirmeye gittiği işten sonuç alamadan dönmek,Self_motion,Commitment
+TUR10-0906010,kara listeye almak,"Birini, bir grubu, bir ülkeyi sakıncalı veya zararlı görmek",Prohibiting_or_licensing,Perception_Active
+TUR10-0161250,çevirmek,Öteki yüzünü görünür duruma getirmek,Cause_to_move_in_place,Manipulate_into_doing
+TUR10-0132430,canlandırmak kırbaçlamak,"Canlanmasını sağlamak, canlanmasına yol açmak",Cause_bodily_experience,Rejuvenation
+TUR10-1061500,isyan etmek ayaklanmak ayağa kalkmak isyanları oynamak,Toplu biçimde zor ve şiddet kullanarak devlet güçlerine karşı gelmek,Reject_leadership,Reject_leadership
+TUR10-1159790,ters yüz geri dönmek,Gittiği bir yerden istediğini elde edemeden dönmek,Change_Direction,Change_Direction
+TUR10-0022180,aktarmak,"Bir şeyin yolunu, yönünü değiştirmek",Change_Direction,Change_Direction
+TUR10-0029040,allak bullak etmek,Bir yeri veya bir şeyi dağıtmak,Dispersal,Dispersal
+TUR10-0750860,taşmak,"İnsan, nesne vb. çokça bulunmak, sayısı artmak",Cause_Proliferation_In_Number,Change_Position_On_A_Scale
+TUR10-0904080,işinden olmak,"Görevini yitirmek, görevinden atılmak",Expulse,Firing
+TUR10-0034940,analaştırmak,Annedeki özellikleri kazandırmak,Cause_change,Similarity
+TUR10-1048790,hesap kitap yapmak hesap kitap etmek hesaplamak kitaplamak,Ayrıntılarıyla hesap edip düşünmek,Cogitation,Education_teaching
+TUR10-1155420,tebahhur etmek,Buharlaşmak; uçmak,Change_Of_Phase,Motion
+TUR10-1088210,kulağını çekmek,Uyarmak için hafif bir ceza vermek,Judgement_Direct_Address,Judgement_Direct_Address
+TUR10-0482690,körelmek,Keskinliğini yitirmek,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0796360,uçuşmak,Hep birlikte uçmak,Ride_vehicle,Forward_Motion
+TUR10-1061750,işe almak,İş yerinde çalıştırmaya başlatmak,Employing,Activity_Start
+TUR10-0489280,kullanmak dokunmak almak,Bir şeyden belli bir amaçla yararlanmak,Using,Using
+TUR10-0157140,çekiştirmek,Uçlarından tutarak ayrı yönlere doğru çekmek,Cause_motion,Cause_motion
+TUR10-1052220,ibate etmek barınma imkanı sağlamak,Barınmasını sağlamak,Provide_lodging,Cause_Benefit_Or_Detriment
+TUR10-0085530,çökmek batmak inkıraz bulmak inkıraza uğramak inhitat etmek,"Yıkılmak, egemenliği sona ermek",Endeavor_failure,Change_Of_Leadership
+TUR10-0020990,aksetmek,Işık bir yere vurmak,Light_movement,Light_movement
+TUR10-1206890,ticareti yapmak alıp satmak ticaretini yapmak,"Bir ürün, mal ve benzerine ilişkin kazanç amacıyla alım satım etkinliği yürütmek",Commerce_Buy,Commerce_Sell
+TUR10-0904840,kafa sallamak,İkaz etmek için başını iki yana veya öne arkaya hafifçe eğmek,Moving_In_Place,Moving_In_Place
+TUR10-1177400,yanıp tutuşmak,Bir şeyi elde etmek için güçlü bir istek duymak,Experiencer_focused_emotion,Desiring
+TUR10-0766770,terbiyelemek,Çeşitli katkı maddeleriyle yemeği lezzetli duruma getirmek,Cause_to_be_included,Compliance
+TUR10-0230500,düşlemek,"Bir şeyi, bir kimseyi, bir durumu istenilen biçimde tasarlamak, zihinde canlandırmak",Coming_Up_With,Coming_Up_With
+TUR10-0907160,kendini tutamamak,Bir durum karşısında sessiz ve heyecansız kalamamak,Capability,Emotion_directed
+TUR10-0918410,açığa vurmak,"Belli etmek, ortaya çıkarmak",Reveal_secret,Coming_to_be
+TUR10-1158670,aydınlatmak tenvir etmek ışıklandırmak ışıtmak,"Karanlığı giderip görünür duruma getirmek, ışıklı duruma getirmek",Location_of_light,Location_of_light
+TUR10-0191180,demek,Herhangi bir ses çıkarmak,Statement,Make_noise
+TUR10-0609720,özümlemek,"Canlı varlıklar, dışarıdan aldıkları besinleri, değişikliğe uğratarak yeni bir birleşimle, organizmanın gereksinme duyduğu maddeler durumuna getirmek, temsil etmek",Processing_Materials,Rejuvenation
+TUR10-1150160,takdirini kazanmak,Bir kimse veya bir topluluk tarafından beğenilmek,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-1242490,dökmek,Boşaltmak,Emptying,Make_noise
+TUR10-0473870,konuşmak,Düşüncesini herhangi bir araç kullanarak anlatmak,Statement,Statement
+TUR10-1053980,ihraz etmek,"Kazanmak, elde etmek, erişmek",Procurance,Change_Of_Quantity_Of_Possession
+TUR10-0067790,badiklemek badi badi yürümek badi badi gitmek badi badi koşmak,Ördek gibi iki yana sallana sallana yürümek,Forward_Motion,Forward_Motion
+TUR10-1037050,gözleri şıldır şıldır dönmek,Gözleri yaş dolu bir biçimde bakmak,Perception_Active,Perception_Active
+TUR10-0452380,kırmak öldürmek,"Yok olmasına, ortadan kalkmasına, azalmasına yol açmak",Destroying,Killing
+TUR10-1037610,gözü dünyayı görmemek,"Hiç kimseye, hiçbir şeye önem, değer vermemek",Attention,Cogitation
+TUR10-0225690,durmak istop etmek,"İşlemez olmak, çalışmamak",Activity_paused_state,Activity_Pause
+TUR10-1058560,inkâr etmek inkârdan gelmek münkir olmak yadsımak inkar etmek,"Yaptığı bir işi, söylediği sözü veya tanık olduğu bir şeyi yapmadığını, bilmediğini, görmediğini söylemek, yaptığını saklamak",Intentional_deception,Affirm_or_deny
+TUR10-0392930,kabaklaşmak,"Taşıt lastikleri, tırtılları aşınıp yüzeyi düz bir duruma gelmek",Change_Of_Consistency,Processing_Materials
+TUR10-1143600,su almak su yapmak,Gemi veya sandalın içine dibinden su girmek,Filling,Soaking_up
+TUR10-1150900,talim etmek,Bilgi kazandırmak; öğretmek,Education_teaching,Education_teaching
+TUR10-0578580,niyetlenmek niyet etmek,"Bir şeyi yapmayı zihinde tasarlamak, düşünmek",Awareness,Desiring
+TUR10-0615830,parlamak,"Ün, san kazanmak, herkesçe tanınmak",Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0412450,kapanmak,Dışarı ile ilişiğini kesmek,Separating,Body_movement
+TUR10-0064790,azat etmek salıvermek azat eylemek,Özgürlüğü kısıtlanmış birini özgür duruma getirmek,Breaking_out_captive,Preventing_or_letting
+TUR10-0918050,âciz kalmak,Çok uğraşmasına karşın bir işi yapamamak,Thwarting,Work
+TUR10-0818450,vermek,"Kazandırmak, katmak",Giving,Procurance
+TUR10-0850870,yerleşmek,"Alışılmak, kullanılır olmak",Becoming,Placing
+TUR10-0838670,yasalaştırılmak kanunlaştırılmak,Yasa durumuna getirilmek,Legality,Legality
+TUR10-0203760,dikilmek,Göz belli bir noktaya uzun süre bakmak,Perception_Active,Perception_Active
+TUR10-0482340,köpürmek,"Köpük yapmak, köpük oluşmak, köpük çıkararak kabarmak",Processing_Materials,Ingestion
+TUR10-0425550,kasmak,Daraltmak,Change_Size,Processing_Materials
+TUR10-1196500,üstünü değiştirmek üstünü değişmek,Üzerindeki elbiseleri çıkarıp farklı elbiseler giymek,Change_Tool,Change_Tool
+TUR10-0748930,tasdik etmek,Doğrulamak,Verification,Aiming
+TUR10-1103140,uygun düşmek münasip düşmek gelmek denk gelmek yerli yerine oturmak münasebet almak,"Uygun olmak, iyi karşılanmak, yaraşmak, elverişli olmak",Suitability,Suitability
+TUR10-0598790,ödün vermek ödünlemek taviz vermek,"Uzlaşmaya varabilmek için hak, istek veya savlarının bir bölümünden, karşı taraf yararına vazgeçerek anlaşma sağlamak",Prevent_or_allow_possession,Bargaining
+TUR10-0799930,usandırmak,Usanmasına yol açmak,Stimulate_emotion,Stimulate_emotion
+TUR10-1242570,geçmek,"Yazılmak, girmek",Becoming_a_member,Traversing
+TUR10-0904320,iyi gelmek,Yaramak,Cause_Benefit_Or_Detriment,Cause_Benefit_Or_Detriment
+TUR10-1064080,şifa bulmak iyi olmak felah bulmak onmak,"Hastalıktan, dertten kurtulmak, iyileşmek",Recovery,Cure
+TUR10-0913770,şakaya getirmek,Ciddi bir şeyi açıktan açığa söyleyemeyip şaka görünümü vererek söylemek,Chatting,Chatting
+TUR10-0918930,açık söylemek,Çekinmeden söylemek,Candidness,Candidness
+TUR10-0897570,geri kalmak yaya kalmak arkada kalmak,"Geriden gelmek, takip etmekte zorlanmak",Cotheme,Cotheme
+TUR10-0926300,akıl erdirememek akıl ermemek,Ne olduğunu anlayamamak; sırrını çözememek,Stimulate_emotion,Cogitation
+TUR10-0983420,ciddiye almak,İnanmak; gerçek sanmak; önem vermek,Desiring,Importance
+TUR10-0022170,aktarmak,"Bir şeyi bir yerden, bir kaptan başka bir yere veya kaba geçirmek",Transfer,Transfer
+TUR10-0901220,hükûmeti devirmek,Zor kullanarak devlet yönetiminde değişiklik yapmak,Change_Of_Leadership,Change_Of_Leadership
+TUR10-0645630,renklendirmek,Bir şeyin renkli olmasını sağlamak,Cause_change,Processing_Materials
+TUR10-0321590,hak etmek,Layık olduğu kötü karşılığı almak,Deserving,Win_Prize
+TUR10-0869800,zamanlamak,Bir işin sürdürülmesi için zamanı planlamak,Scheduling,Change_Event_Time
+TUR10-1010450,dizlerinin bağı çözülmek,Korkudan ayakta duramayacak duruma gelmek,Cause_change_of_strength,Stimulate_emotion
+TUR10-0488520,kulaçlamak,Kaç kulaç olduğunu ölçmek,Dimension,Perception_Active
+TUR10-0816080,vazgeçmek,Kendi hakkı saydığı bir şeyi artık istemez olmak,Activity_stop,Abandonment
+TUR10-0643980,reddetmek reddeylemek kusmak,Verilen veya yapılması istenen bir şeyi kabul etmemek,Judgement,Judgement
+TUR10-0645400,rendelemek,Rende ile ufak parçalara ayırmak,Cutting,Separating
+TUR10-1039930,güdük kalmak bodur kalmak,"Büyüyememek, boyu uzamamak, kısa kalmak",Expansion,Change_Event_Duration
+TUR10-0542860,mıhlanmak,Olduğu yerde kalıp bir yere kıpırdayamaz olmak,Activity_Pause,Change_posture
+TUR10-0468920,kollamak,"Göz önünde tutmak, gözlemek",Perception_Active,Perception_Active
+TUR10-0946370,ayağına çelme takmak,Biri yürürken ayakları arasına ayak uzatıp düşürmek,Moving_In_Place,Forward_Motion
+TUR10-0894500,eline geçmek sağlamak,"Elde etmek, sahip olmak",Procurance,Procurance
+TUR10-1205280,yana yatmak yatmak,Yatay veya yataya yakın bir duruma gelmek; eğilmek,Change_posture,Change_posture
+TUR10-0927390,aklı ermek anlayabilmek,Anlama imkanı bulunmak,Becoming_aware,Awareness
+TUR10-0219580,doymak,Bir gereksinimini yeteri kadar karşılamak,Satisfying,Desiring
+TUR10-0718440,sürümek,Herhangi bir güçlükle yürümek,Forward_Motion,Forward_Motion
+TUR10-1155850,tedarik etmek,"Bulmak, sağlamak",Carry_Goods,Carry_Goods
+TUR10-0144900,çağırmak seslemek,Birinin gelmesini kendisine yüksek sesle söylemek,Request,Request
+TUR10-0417820,kararlaşmak mukarrer bulunmak,Bir şey için karar verilmek,Deciding,Deciding
+TUR10-1137110,sineye çekmek,"Kötü bir davranış, söz veya olaya ister istemez katlanmak",Tolerating,Stimulate_emotion
+TUR10-0456230,kıvırmak,Kenarından katlamak,Reshaping,Moving_In_Place
+TUR10-1155640,tecavüz etmek atılmak sarmak taarruz etmek üstüne varmak üstüne yüklenmek savlet etmek salmak,"Saldırmak, hücum etmek",Attack,Rape
+TUR10-1181170,yazıya dökmek,Herhangi bir konuyu yazı ile anlatmak,Telling,Telling
+TUR10-0231360,düşürmek sıyırmak,"Sürtünerek veya çekerek bir şeyi yerinden almak, kaldırmak",Moving_In_Place,Removing
+TUR10-0865950,yükseltmek,Değerini olduğundan daha çok göstermek,Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0619650,payandalık etmek,Destek görevinde bulunmak,Change_Resistance,Assistance
+TUR10-1166270,ucundan tutmak,"Bir işi yeterince ilgilenmeden, önemsemeden yapmak",Assistance,Attention
+TUR10-0732530,şişelemek,Şişeye doldurmak,Filling,Filling
+TUR10-0493330,kurşunlamak,"İçinde kurşun bulunan silahla ateş etmek, vurmak",Shoot_projectiles,Shooting_Scenario
+TUR10-0568570,nakavt olmak,Boks maçında nakavtla yenilmek,Render_nonfunctional,Sports_Jargon
+TUR10-0915320,zarar gelmek,Kötülük gelmek,Cause_harm,Damaging
+TUR10-0945520,boş gezmek avare olmak boş gezinmek kaldırımları arşınlamak,İşsiz güçsüz dolaşmak,Self_motion,Forward_Motion
+TUR10-0899210,hasret çekmek,Özlem duymak,Desiring,Perception_Active
+TUR10-0056360,atlanmak,Ata binmek,Board_vehicle,Board_vehicle
+TUR10-1106660,nezaket göstermek,Davranışlarda nazik olmak,Conduct,Social_interaction_evaluation
+TUR10-0058780,palavra atmak avurtlamak mangalda kül bırakmamak tozutmak palavra savurmak palavra sıkmak yüksekten atmak yüksekten uçmak,Yapamayacağı işleri yapabilirmiş gibi söylemek,Bragging,Motion_directional
+TUR10-0232300,düzenlemek,Düzenleme yapmak,Arranging,Arranging
+TUR10-0115050,boşaltmak,Bir silahta ne kadar mermi varsa hepsini arka arkaya patlatmak,Use_firearm,Shooting_Scenario
+TUR10-0902120,içi erimek,Kaygı duymak; çok üzülmek,Worry,Experiencer_focused_emotion
+TUR10-1145110,sütten kesmek,Emzirmeye son vermek,Cause_to_end,Ingestion
+TUR10-0679590,serpiştirmek serpmek,"Yağmur veya kar azar azar, ince ince yağmak",Precipitation,Precipitation
+TUR10-1114090,önlem almak,"Kötü ve yanlış bir şeyi ortadan kaldırmak veya engel olmak amacıyla hazırlık yapmak ve bu amacı gerçekleştirmek için birtakım çarelere başvurmak, tedbir almak",Preventing_or_letting,Activity_prepare
+TUR10-1242550,eylemek,Bir kişiden veya bir şeyden yoksun bırakmak,Deprive,Intentionally_act
+TUR10-0896040,fiile koymak,Eyleme geçirmek,Execute_plan,Self_motion
+TUR10-0907275,kesip atmak,"Kesin olarak çözmek, bitirmek",Activity_Finished,Cutting
+TUR10-0900560,heves etmek yatmak,"Bir şeye karşı istek duymak, eğilimli olmak",Inclination,Desiring
+TUR10-0518810,mahmuzlamak,Hızlanması için hayvana mahmuzla dürtmek,Cause_motion,Cause_motion
+TUR10-0398710,kağıtlamak kâğıtlamak,"Kâğıtla kaplamak, kâğıt yapıştırmak",Processing_Materials,Processing_Materials
+TUR10-0184910,davet etmek,Birinin bir şeye uymasını istemek,Request,Request
+TUR10-0915335,zarar vermek,Birinin parasal kayba uğramasına sebep olmak,Damaging,Change_Of_Quantity_Of_Possession
+TUR10-1168970,uykuya dalmak uyuyakalmak kendinden geçmek,Uyumaya başlamak,Fall_asleep,Sleep
+TUR10-1207630,tamamını ödemek tamamen ödemek,Bir ödemenin tamamını yapıp geriye borç bırakmamak,Commerce_Pay,Commerce_Pay
+TUR10-0750040,taşımak,"Sahip olmak, özellik olarak bulundurmak",Possession,Carry_Goods
+TUR10-0857920,yoğurtlamak,Yoğurt katmak,Cooking_creation,Change_Of_Consistency
+TUR10-1137420,sinyal vermek,Bir şeyi işaretle bildirmek,Indicating,Telling
+TUR10-1022680,esir etmek,Tutsak durumuna getirmek,Taking_captive,Inhibit_movement
+TUR10-1103410,müsamaha etmek,Hoşgörü ile davranmak,Conduct,Social_interaction_evaluation
+TUR10-1053400,ifham etmek,Bildirmek; anlatmak,Telling,Telling
+TUR10-0968180,bir araya getirmek cemetmek dermek dertop etmek devşirmek katmak kurmak toparlamak toplamak toplaştırmak yığmak,Tek tek durumdaki şeyleri bir yerde birlik haline getirmek,Forward_Motion,Come_together
+TUR10-0100140,bırakmak,Bir işi başka bir zamana ertelemek,Change_Event_Time,Change_Event_Time
+TUR10-0830910,yanaşmak,"Karışmak, ilgilenmek, istek göstermek",Arriving,Desiring
+TUR10-0150700,çapraşmak,İki şey birbiriyle çapraz olarak kesişmek,Path_shape,Separating
+TUR10-0893010,el değiştirmek,Bir şeyin kullanımı veya mülkiyeti bir kimseden başka bir kimseye geçmek,Undergo_change,Exchange
+TUR10-0964940,bezini yıkamak,Bebeklerin altına bağlanan bezi temizlemek,Grooming,Grooming
+TUR10-0899130,harekete geçmek,"Bir işi yapmaya başlamak, bitirmek amacı ile bir işe girişmek",Activity_Start,Activity_Start
+TUR10-0161240,çevirmek vermek,"Döndürmek, yöneltmek, bir şeyin yönünü değiştirmek",Change_Direction,Change_Direction
+TUR10-0478260,kotarmak,Pişen yemeği başka kaba boşaltmak,Manipulation,Ingestion
+TUR10-0454560,kısmak,"Sesi azaltmak, alçaltmak",Cause_change_of_position_on_a_scale,Change_Position_On_A_Scale
+TUR10-1118820,pençe atmak,"Yırtıcı hayvan ön ayaklarıyla saldırmak, vurmak",Attack,Cause_harm
+TUR10-0069830,bağlamak,Sona erdirmek; bitirmek; tamamlamak,Activity_Done,Process_End
+TUR10-0902385,içinde olmak,"Hevesli, istekli olmak",Desiring,Experiencer_focused_emotion
+TUR10-1152000,tansiyonu çıkmak tansiyonu fırlamak tansiyonu yükselmek,Kan basıncı aniden yükselmek,Medical_conditions,Change_Position_On_A_Scale
+TUR10-1053740,diken üstünde olmak iğne üstünde oturmak diken üstünde oturmak,Bir yerde tedirginlik duymak,Emotion_directed,Change_posture
+TUR10-0899630,yaşamak hayat geçirmek tütmek durmak,Varlığını sürdürmek,Process_continue,Dead_or_alive
+TUR10-0706610,söylemek,"Türkü, şarkı vb. okumak",Communication_manner,Have_as_translation_equivalent
+TUR10-1171390,üstün gelmek üstün olmak,"Bir kimseden veya bir şeyden daha yüksek, daha değerli olmak",Surpassing,Surpassing
+TUR10-0864440,yuvarlamak,İnanılmayacak yalanlar söylemek,Prevarication,Communication_manner
+TUR10-1060500,ismini cismini almak,"Adını, kimliğini belirleyip kaydetmek",Categorization,Sign_agreement
+TUR10-0996760,darbe yemek darbeyi yemek,"Kötü, olumsuz bir duruma maruz kalmak",Impact,Tolerating
+TUR10-1242830,almak,"Yer almak, arasında bulunmak",Membership,Suitability
+TUR10-0117930,bozmak,Altını paraya çevirmek; bozdurmak,Exchange,Earnings_And_Losses
+TUR10-1183200,yerini tutmak,"Bulunmayan bir nesnenin yerini almak, onu aratmamak",Take_place_of,Take_place_of
+TUR10-0231170,düşünmek,Zihniyle arayıp bulmak,Coming_Up_With,Cogitation
+TUR10-0107260,biriktirmek,"Öğrenme, yarar sağlama vb. sebeplerle bazı nesneleri bir araya getirmek; koleksiyon yapmak",Amassing,Carry_Goods
+TUR10-0808070,ünlemek,Yüksek sesle çağırmak,Communication_noise,Make_noise
+TUR10-1038380,gözünü açmak gözlerini açmak,"Uyanık, dikkatli bulunmak",Awareness,Waking_up
+TUR10-0388350,itmek,"Kapı, pencere ve benzerini güç uygulayarak açmak veya kapamak",Cause_motion,Cause_motion
+TUR10-1184210,yetmezlenmek,Yeterli bulmamak,Capacity,Sufficiency
+TUR10-1138560,sollamak sollama yapmak,"Bir taşıt, önünden gitmekte olan taşıtın solundan geçmek",Traversing,Change_Direction
+TUR10-0684860,sığınmak,Tehlikelerden kaçarak güvenilir bir yere çekilmek,Protecting,Protecting
+TUR10-0575280,yayınlamak neşretmek çıkarmak yayımlamak,"Kitap, gazete, dergi vb. şeyleri basmak ve dağıtmak",Publishing,Publishing
+TUR10-0479040,koymak,"Uyulması gereken kuralları belirlemek, ortaya çıkarmak",Intentionally_create,Preventing_or_letting
+TUR10-0713370,susamak,Su içme gereksinimi duymak,Desiring,Perception_Body
+TUR10-0798050,ulanmak inzimam etmek üstelemek,"Bir şeyin üstüne eklenmek, katılmak",Adding_up,Cause_to_be_included
+TUR10-0905400,kalbini çalmak gönlünü çalmak,"Sevgisini kazanmak, kendine âşık etmek",Change_Of_Quantity_Of_Possession,Experiencer_focused_emotion
+TUR10-1176540,yalaz yalaz yanmak,Yüksek ateş içinde bulunmak,Medical_conditions,Cause_To_Burn
+TUR10-0225430,duralamak,Duraklamak,Progression,Processing_Materials
+TUR10-1186580,yoluna koymak,İstenilen biçime getirmek; düzene koymak,Resolve_problem,Arranging
+TUR10-0375640,inmek,Yüksekten veya yukarıdan aşağıya doğru gelmek,Traversing,Change_Position_On_A_Scale
+TUR10-0288450,geçmek,"Bir yeri aşmak, öbür yana ulaşmak",Passing,Traversing
+TUR10-1076480,kelepçe takmak kelepçeye vurmak kelepçe vurmak kelepçelemek,Bileklere takılan kişinin kaçmasını önleyen bir zincirle tutturulmuş demir halka geçirmek,Attaching,Attaching
+TUR10-0889090,darbe indirmek darbe vurmak,İyi olan bir durumu kötüye dönüştürmek,Cause_change,Cause_harm
+TUR10-0889290,dövmek dayak atmak kötek atmak kötek çekmek marizlemek sıkıdan geçirmek tekme tokat girişmek tepelemek sopa çekmek silkelemek araya almak sopanın altına yatırmak işini görmek sopa atmak benzetmek hırpalamak tozunu almak tozunu atmak tozunu silkelemek tozunu silkmek,"Tokat, yumruk, tekme vurarak canını acıtmak",Cause_harm,Cause_harm
+TUR10-1059630,baskılamak ipotek altında tutmak boyunduruğa vurmak,Baskı altına almak,Attempt_suasion,Attack
+TUR10-0307200,göstermek,Kanıtla inandırmak,Suasion,Evidence
+TUR10-0221090,döndürmek,"Başarısız saymak, geri çevirmek",Categorization,Change_Direction
+TUR10-0901650,icabına bakmak,Gereğini yerine getirmek,Meet_specifications,Intentionally_act
+TUR10-1064200,izah etmek,Ayrıntılı bilgi vermek; açıklamak,Telling,Telling
+TUR10-0227100,duygulandırmak rikkat vermek,"Duygulanmasını sağlamak, duygulanmasına sebep olmak",Cause_emotion,Stimulate_emotion
+TUR10-1114350,önünü kesmek,Akarsuyun akmasına engel olmak,Change_Of_Accessibility,Cutting
+TUR10-0585970,olmak,"Hazırlanmak, hazır duruma gelmek",Activity_prepare,Activity_prepare
+TUR10-0754700,tebelleş etmek,Birini veya bir şeyi birinin başına bela etmek,Causation,Judgement_Direct_Address
+TUR10-0970660,bir tarafa bırakmak bir tarafa koymak,"Önemli saymamak, önem vermemek ve bu yüzden ertelemek",Change_Event_Time,Change_Event_Time
+TUR10-1141770,stabilize etmek,"Kararlı bir duruma getirmek, sağlamlaştırmak",Change_Resistance,Deciding
+TUR10-1117660,parti vermek,Bir şeyi kutlamak veya eğlenmek için birçok kimseyi bir araya toplamak,Social_event,Making_arrangements
+TUR10-1171790,üzerine çekmek üstüne çekmek,Kendi üzerine almak; muhatap olmak,Responsibility,Claim_Ownership
+TUR10-0006000,açınsamak,"Bir yerin özelliklerini ortaya çıkarmak için araştırma ve inceleme yapmak, istikşaf etmek",Scrutinizing_For,Scrutiny
+TUR10-0384260,işaretlemek nişanlamak,"Bir şeye işaret koymak, bir şeyi işaretle belirtmek",Sign,Telling
+TUR10-0468170,kolaylamak,"Bir işi bitirmek üzere olmak, bir işin sonuna yaklaşmak",Activity_finish,Activity_Done
+TUR10-1072400,kâr koymak,Bir şeyin maliyet fiyatı üzerine kâr payını katmak; kazanç koymak,Commerce_Sell,Change_Of_Quantity_Of_Possession
+TUR10-1200300,fotoğraf çekmek fotoğrafını çekmek resmini çekmek,Fotoğraf makinesiyle görüntü tespit etmek,Change_Operational_State,Create_representation
+TUR10-0881300,düşmek,"Isı, basınç, ateş vb. eksilmek, azalmak",Change_Position_On_A_Scale,Change_Of_Temperature
+TUR10-0901120,huzur vermek,"Gönül rahatlığı, dirlik vermek, dinlendirmek",Cure,Giving
+TUR10-0774240,tınlamak çınlamak,"Tın sesi biraz sürüp gitmek ya da ""Çın"" diye ses çıkarmak",Make_noise,Make_noise
+TUR10-0232960,sıralamak düzmek,Belirli bir düzene göre yerleştirmek,Arranging,Arranging
+TUR10-0992570,çocuksulaşmak,Çocuksu duruma gelmek,Becoming,Conduct
+TUR10-1192600,zemin hazırlamak,Uygun ortam yaratmak,Activity_prepare,Activity_prepare
+TUR10-1071650,kara kara düşünmek kara yasa bürünmek düşünceye dalmak iki eli şakaklarında düşünmek derin derin düşünmek tefekküre dalmak,"Çok fazla ve derinlemesine düşünmek, üzüntüyle düşünmek",Worry,Cogitation
+TUR10-1155650,tecavüz etmek,Başkasının hakkına el uzatmak,Theft,Rape
+TUR10-1103600,mütalaa etmek,İyice incelemek; üzerinde düşünmek,Cogitation,Cogitation
+TUR10-0220490,dökülmek,"Bir işi, bir konuyu ele alış biçiminde değişiklik olmak",Cause_change,Undergo_change
+TUR10-0900620,heyecanlanmak heyecan duymak kaynamak ateş almak pır pır etmek yüreği kalkmak alev almak yüreği parlamak heyecana gelmek,"Herhangi bir sebeple güçlü, geçici bir duygulanımdan etkilenmek",Subjective_influence,Experiencer_focused_emotion
+TUR10-1150980,tam adamını bulmak,En uygun kişiyi seçmek,Locating,Choosing
+TUR10-1122900,rayına oturtmak,"Bir işi yoluna, yöntemine koymak, düzgün işler duruma getirmek",Resolve_problem,Thriving
+TUR10-0313690,gülmek,"İnsan, hoşuna veya tuhafına giden olaylar, durumlar karşısında, genellikle sesli bir biçimde duygusunu açığa vurmak",Emotions,Make_noise
+TUR10-0571380,nasip olmak bulmak,"Mutluluk veren güzel şeylere erişmek, ulaşmak, kavuşmak",Come_together,Procurance
+TUR10-1138780,soluk soluğa kalmak,"Nefes alamayacak duruma gelmek, çok yorulmak",Breathing,Medical_conditions
+TUR10-1122250,rafa kaldırmak rafa koymak,"Artık üstünde durmamak, ihmal etmek",Abandoned_State,Placing
+TUR10-0539310,danışmak meşveret etmek istişare etmek müracaat etmek,Bir iş için bilgi veya yol sormak; görüş almak,Discussion,Request
+TUR10-0938040,araba kullanmak,Arabayı sürmek,Operate_vehicle,Operate_vehicle
+TUR10-0537450,mermerleşmek,Mermer durumuna dönüşmek,Change_Of_Consistency,Change_Of_Consistency
+TUR10-1078350,kesintiye almak,Biriyle sezdirmeden alay etmek,Judgement_Communication,Judgement_Communication
+TUR10-0115170,boşanmak,Karı ve koca mahkeme kararı ile birbirinden ayrılmak,Forming_relationships,Forming_relationships
+TUR10-0402350,kaldırmak,Piyasadan çekmek,Carry_Goods,Removing
+TUR10-0914290,tırnak takmak,Kötülük yapmak için bahane aramak,Project,Cause_harm
+TUR10-0865750,yükselmek,"Fiyat, çoğalmak, artmak",Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0413900,kaplamak,"Bir yüzeyi döşemek, başka bir nesne ile örtmek",Processing_Materials,Processing_Materials
+TUR10-1208920,becerememek başaramamak,"Güç görünen bir iş veya duruma çözüm bulamamak, üstesinden gelememek",Success_or_failure,Success_or_failure
+TUR10-1186530,yoluna canını vermek yoluna can vermek,Birinin uğruna ölmek,Death,Death
+TUR10-0385440,ürkütmek gıcıklamak gönül bulandırmak mide bulandırmak iç gıcıklamak,Huylanmasına sebep olmak,Stimulate_emotion,Stimulate_emotion
+TUR10-0290630,gelmek,"Başlamak, ortaya çıkmak",Activity_Start,Activity_Start
+TUR10-0585920,olmak,"Bir şeyi elde etmek, edinmek",Getting,Procurance
+TUR10-0220510,çıkmak dökülmek,Meydana gelmek,Event,Arriving
+TUR10-1018200,ekol kurmak,Bir ekol oluşturmak,Intentionally_create,Intentionally_create
+TUR10-0042590,aramak,"Araştırmak, yoklamak",Scrutiny,Scrutiny
+TUR10-0951470,bağdaş kurmak,"Sağ ayağı sol uyluğun, sol ayağı sağ uyluğun altına alarak oturmak",Posture,Change_posture
+TUR10-0703220,sorguçlanmak,Sorguç biçimiyle şekillenmiş gibi görünmek,Awareness,Questioning
+TUR10-0601200,,Başkalarından üstün olmaya çalışmak,Competition,Surpassing
+TUR10-0942600,aşçılık etmek,Yemek pişirmek,Apply_Heat,Apply_Heat
+TUR10-1258120,uyuşturmak,Anlaşmalarını sağlamak,Stimulate_emotion,Change_Of_Consistency
+TUR10-0299070,yürümek gitmek,Adım atarak ilerlemek,Forward_Motion,Forward_Motion
+TUR10-1035770,gözden kaybetmek,"Görünmemek, ortadan çekilip gitmek",Departing,Change_Of_Quantity_Of_Possession
+TUR10-1144920,süt dökmüş kediye dönmek,Suçunu bilerek bundan utanmak,Contrition,Ingestion
+TUR10-0145360,çağrışmak,Birbirini çağırmak,Request,Statement
+TUR10-0954620,bant doldurmak,Bir banda ses kaydetmek,Recording,Recording
+TUR10-1199850,kısaca ifade etmek kısaca dile getirmek,Kısa ve özlü bir biçimde anlatmak,Telling,Telling
+TUR10-1100700,misyon üstlenmek,Özel bir görevi üzerine almak,Undergo_change,Responsibility
+TUR10-1096410,maytap geçmek gülmek,"Birinin gülünç, kusurlu, eksik vb. yönlerini küçümseyerek o kişiyi eğlence konusu yapmak",Judgment_communication,Judgement_Communication
+TUR10-0924030,ağzına bir lokma koymamak,Hiçbir şey yememek,Forgoing,Ingestion
+TUR10-0328640,kodlamak harflemek,Harf harf söylemek,Spelling_and_pronouncing,Telling
+TUR10-1243000,kalmak,"Limiti aşamamak, orada kalmak",State_continue,State_continue
+TUR10-0961260,bela olmak,"Aşırı güçlük, sıkıntı ve zarara sebep olmak",Damaging,Stimulate_emotion
+TUR10-0416940,karalamak,Bir yazının üzerini çizerek onu geçersiz kılmak,Erasing,Processing_Materials
+TUR10-1164410,tu kaka etmek,Hafife alıp bir kenara itmek; önem vermemek; kötülemek,Judgment,Judgement_Communication
+TUR10-0435820,kazanmak almak para getirmek doğrultmak kazanç sağlamak kazanç elde etmek,Para sağlamak,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0378820,irkilmek,Ürkerek geri çekilir gibi olmak,Body_movement,Emotion_directed
+TUR10-1101390,muayene etmek,Bir kimsenin hasta olup olmadığını veya hastalığının nerede olduğunu araştırmak,Inspecting,Inspecting
+TUR10-0875890,zikretmek anmak,Birini veya bir şeyi akla getirerek sözünü etmek veya onu düşünmek,Remembering_experience,Remembering_Information
+TUR10-0958010,başını alamamak,Bir şeyden kurtulamamak,Escaping,Earnings_And_Losses
+TUR10-0622270,pembeleşmek,Pembe bir renk almak,Becoming,Processing_Materials
+TUR10-0956350,baş aşağı etmek,Tersine çevirmek,Cause_to_move_in_place,Change_Direction
+TUR10-0740290,takip etmek,Hemen arkasından gelmek,Cotheme,Cotheme
+TUR10-0425500,kaslaşmak,Kas durumuna gelmek,Change_Of_Consistency,Change_Of_Consistency
+TUR10-0000390,abanmak,Boksta karşılaşma sırasında rakibine yaslanmak,Cause_harm,Sports_Jargon
+TUR10-0908880,kur yapmak,"Karşı cinsten birine ilgi göstererek onun hoşuna gitmek, gönlünü kazanmaya çalışmak",Intentionally_act,Regard
+TUR10-0790280,tutmak,Bir yerde kalmasını sağlamak,Retaining,State_continue
+TUR10-1157900,temel atmak,Bir yapının temellerini yapmaya başlamak,Building,Activity_Start
+TUR10-0843560,yaylanmak,Bacakları dizden esneterek yay üzerindeymiş gibi sallanmak,Moving_In_Place,Change_posture
+TUR10-0900370,hesaba katılmamak,Göz önüne alınmamak,Justifying,Attention
+TUR10-1137180,sinirine dokunmak asabına dokunmak,Hoşuna gitmemek; sinirlendirmek,Experiencer_focused_emotion,Stimulate_emotion
+TUR10-0243110,eleştirmek,"Bir düşünceyi, bir eseri, bir yargıyı inceleyerek doğruluk veya yanlışlığını ortaya çıkarmak ve gerçek değerini belirtmek, tenkit etmek",Judgement_Communication,Judgement_Communication
+TUR10-1190350,yüzsuyu dökmek,Onurunu sarsacak kadar çok yalvarmak,Attempt_suasion,Stimulate_emotion
+TUR10-1172400,vakit kazanmak,Karşı tarafı oyalayarak kendi hazırlanma süresini uzatmak,Change_Event_Duration,Change_Event_Time
+TUR10-0725160,allak bullak olmak şaşırmak,"Doğru, gerçek ve gerekli olanı ayırt edemeyecek duruma gelmek",Differentiation,Stimulate_emotion
+TUR10-0886900,boğazı düğümlenmek,Üzüntüden boğazı tıkanmak,Perception_Body,Make_noise
+TUR10-0969010,birebir gelmek,Etkisini hemen ve kesin olarak göstermek,Evidence,Cause_to_perceive
+TUR10-0907590,kılıfına uydurmak,"Bir durum ve tutuma, yöntemine uygun biçim vermek",Intentionally_act,Cause_change
+TUR10-1257760,kolaylaştırmak,"Kolay bir duruma getirmek, güçlükleri ortadan kaldırmak",Cause_to_make_progress,Coming_Up_With
+TUR10-1043460,yerine geçmek halef selef olmak,"Görevden ayrılan birinin yerini almak, ötekinin makamını almak",Change_Of_Leadership,Change_Of_Leadership
+TUR10-0859270,yolmak uçurmak koparmak nezetmek,"Bitki, tüy ve benzerini çekerek yerinden çıkarmak, çekip koparmak",Cause_harm,Removing
+TUR10-0885470,ar ve hayâ perdesi yırtılmak,Utanç duymamak; utanmamak,Stimulate_emotion,Emotion_directed
+TUR10-0911220,ocağını yeşertmek,Aile yuvasını canlandırmak,Rejuvenation,Forming_relationships
+TUR10-0010320,afyonlamak,"Afyon vererek uyuşturmak, uyutmak",Cause_to_perceive,Sleep
+TUR10-0047880,artırmak,Herhangi bir davranışta ileri gitmek,Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-1014760,dümen kullanmak,Bir işi kurnazca yönetmek,Cotheme,Operating_a_system
+TUR10-0740090,takıştırmak,"Küpe, bilezik, yüzük vb. süs eşyasını çokça takmak",Wearing,Processing_Materials
+TUR10-0244020,elleşmek,Elle dokunmak,Perception_Active,Perception_Active
+TUR10-0890140,derdini dökmek,"Derdini, sıkıntılarını ayrıntılı olarak anlatmak, dile getirmek",Telling,Telling
+TUR10-1095470,manyetize olmak,Manyetizma ile etkilenmek,Change_Operational_State,Processing_Materials
+TUR10-1209250,haline gelmek,... halini almak; durumuna gelmek,Similarity,Becoming
+TUR10-1186050,yol bulmak,Çare bulmak,Coming_Up_With,Coming_Up_With
+TUR10-0911750,ödü kopmak donuna etmek donuna kaçırmak donuna doldurmak donuna yapmak ödü bokuna karışmak yüreği yarılmak dehşete kapılmak dehşete düşmek altına etmek altına kaçırmak üç buçuk atmak can başına sıçramak ödü patlamak yüreğinin yağı erimek yüreği ürpermek paniğe kapılmak yüreğinin yağları erimek paniklemek dehşetlenmek,Çok korkmak,Stimulate_emotion,Experiencer_focused_emotion
+TUR10-0955770,baskı yapmak,Oyuncunun rahat hareket etmesini engellemek,Hindering,Preventing_or_letting
+TUR10-1100270,minderden kaçmak,Güreşte oyun sırasında minderin dışına çıkmak,Forward_Motion,Forward_Motion
+TUR10-0115180,boşanmak,"Hayvan, başlığından, koşum takımından veya bağından kurtulmak",Releasing,Departing
+TUR10-1132330,sermaye yapmak sermaye etmek,İş yeri açmak için gereken parayı sağlamak,Earnings_And_Losses,Funding
+TUR10-0109370,bitişmek,Birbirine dokunacak kadar yanaşmak,Spatial_contact,Spatial_contact
+TUR10-0212880,doğaçlamak,Birdenbire ve içine doğduğu gibi söylemek; irticalen dile getirmek,Telling,Coming_to_be
+TUR10-0690680,sızdırmak,Eritip süzerek temiz bir duruma getirmek,Cause_Change_Of_Phase,Removing
+TUR10-0413310,kapılmak,Sürüklenmek,Process_continue,Make_noise
+TUR10-1189730,yüreksizlik göstermek,"Korkmak, ürküp kaçmak",Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0768530,tersleşmek,Terslik etmek; zıt davranmak,Judgement_Direct_Address,Stimulate_emotion
+TUR10-1145650,şakaya gelmek,Şakaya katlanır olmak,Tolerating,Tolerating
+TUR10-0959960,baygınlık geçirmek kendini kaybetmek bayılmak kendinden geçmek,"Baygın duruma girmek, bilinci işlemez olmak, uyur gibi olmak",Fall_asleep,Experiencer_focused_emotion
+TUR10-0584340,okumak,"Bazı belirtilerle bir anlamı, gizli bir duyguyu anlamak, kavramak",Awareness,Awareness
+TUR10-0715790,süngülemek,Süngü batırmak,Cause_harm,Processing_Materials
+TUR10-1004600,deveye hendek atlatmak,"Birine yapılması çok zor, hemen hemen imkânsız olan işleri yaptırabilmek",Self_motion,Difficulty
+TUR10-0790340,tutmak,Bir şey düşünmek,Opinion,Cogitation
+TUR10-0842240,yavuklanmak,Biriyle nişanlanmak,Personal_relationship,Forming_relationships
+TUR10-0155930,çekememek,Katlanamamak,Tolerating,Perception_Active
+TUR10-0918920,açık söylemek,Anlaşılmayan yön bırakmadan anlatmak,Telling,Statement
+TUR10-0434450,kaynamak,"Bir yerde huzursuzluk, tedirginlik olmak",Worry,Stimulate_emotion
+TUR10-0667780,sarsılmak,Güçsüz durumda kalmak,Stimulate_emotion,Moving_In_Place
+TUR10-1161740,tıraş olmak,"Erkek saçını, sakalını kesmek veya berberde kestirmek",Grooming,Grooming
+TUR10-1191750,zaman tanımak,Bitmeyen bir iş için süreyi uzatmak,Change_Event_Duration,Change_Event_Time
+TUR10-1168750,uygun olmak,Sakıncalı görülmemek,Social_behavior_evaluation,Suitability
+TUR10-1149040,tahta çıkmak taç giymek,Hükümdar olmak,Change_Of_Leadership,Change_Of_Leadership
+TUR10-0803860,uyuzlaşmak pısırıklaşmak sümsükleşmek beceriksizleşmek,Beceriksiz bir duruma gelmek,Becoming,Change_Of_Consistency
+TUR10-1206790,finanse etmek,"Bir girişimi, bir işletmeyi para koyarak, kredi vererek desteklemek, para ve kredi yoluyla işlemesini, gelişmesini sağlamak",Funding,Lending
+TUR10-0906660,kehanette bulunmak,Kâhinlik etmek,Omen,Rite
+TUR10-0143400,cüceleşmek,Cüce durumuna gelmek,Undergo_transformation,Change_Of_Consistency
+TUR10-1173710,kuruntuya kapılmak vesveseye düşmek zehaba kapılmak zehabına kapılmak,Boş yere tasalanmak,Worry,Stimulate_emotion
+TUR10-1121070,postu kurtarmak,Öldürülmek tehlikesini atlatmak,Surviving,Surviving
+TUR10-1102270,mutabakat sağlamak bağdaşmak imtizaç etmek sulh olmak uzlaşmak uyuşmak,"Aralarındaki düşünce veya çıkar ayrılığını, karşılıklı ödünlerle kaldırarak uyuşmak, karşılıklı anlaşmak ve mutabık kalmak, antant kalmak",Make_compromise,Be_in_agreement_on_assessment
+TUR10-1063760,ittihaz etmek,"... olarak görmek, tutmak; saymak",Categorization,Categorization
+TUR10-0449520,kıpırdaşmak,Kıpır kıpır etmek; kımıldamak,Body_movement,Forward_Motion
+TUR10-1036260,göz koymak,Bir kimseyi veya bir şeyi ele geçirmeyi istemek,Desiring,Perception_Active
+TUR10-1005580,dışında bırakmak,Hariç tutmak,Deciding,Abandonment
+TUR10-0443590,keselenmek,Kendini keselemek,Cause_bodily_experience,Stimulate_emotion
+TUR10-0484810,kötülemek,"Nesnelerin niteliği bozulmak, kalitesi bozulmak",Improvement_or_decline,Change_Of_Quantity_Of_Possession
+TUR10-0887140,cami olmak,"Toplamak, bir araya getirmek, bir arada bulundurmak",Come_together,Rite
+TUR10-1032760,gol olmak,Top kaleye girmek,Sports_Jargon,Sports_Jargon
+TUR10-1066300,kafasına vurmak,Başına vurmak,Cause_harm,Killing
+TUR10-0108000,birleşmek düzmek ilişkiye girmek temas etmek yatıp kalkmak koçmak iş tutmak düdüklemek yatmak kaymak becermek uydurmak beraber olmak cinsel ilişkide bulunmak sikişmek,,Sex,Sex
+TUR10-0928010,aklını kullanmak,İyice düşünüp taşınarak hareket etmek,Cogitation,Cogitation
+TUR10-0900150,hedef olmak,Hoş olmayan herhangi bir davranışa uğramak,Feeling,Judgement_Communication
+TUR10-1174600,vuruşmak,Birbirini vurmak; dövüşmek,Hostile_encounter,Cause_harm
+TUR10-1064090,iyi olmak,Yerinde olmak,Being_located,Suitability
+TUR10-0103170,bilgilendirmek brifing vermek haber vermek haberdar etmek ihbar etmek yazmak salık vermek söylemek,Bir konuda bilgi sahibi olmasını sağlamak,Cause_to_perceive,Telling
+TUR10-0906020,kara para aklamak,Yasa dışı yollarla elde edilen parayı yasallaştırmak için yatırım yapmak,Justifying,Earnings_And_Losses
+TUR10-0899970,haysiyetine dokunmak,Onuru incinmek,Stimulus_focus,Change_Of_Quantity_Of_Possession
+TUR10-0902805,iflas etmek,"Düşünce, iddia, tez, kimse vb. yenilgiye uğramak, değeri düşmek",Change_Position_On_A_Scale,Change_Of_Quantity_Of_Possession
+TUR10-0899500,havlu atmak,"Çalıştırıcı, sporcusunun karşılaşmayı terk ettiğini bildirmek için ringe havlu fırlatmak",Sports_Jargon,Sports_Jargon
+TUR10-0957890,başından büyük işlere kalkışmak başından büyük işlere girişmek,Gücünün üstünde olan işlere kalkışmak,Attempt_Difficult_Goal_Scenario,Activity_Start
+TUR10-0409750,alışmak kanıksamak,"Çok tekrarlama sebebiyle etkilenmez olmak, yadırgamaz duruma gelmek",Adjusting,Experiencer_focused_emotion
+TUR10-1099190,meyli olmak,Beğenmek; ilgisi olmak; hoşuna gitmek,Emotions,Experiencer_focused_emotion
+TUR10-0205340,dilemek,"Kendi düşünce, görüş ve isteğini yapmak",Desiring,Desiring
+TUR10-1107670,notunu vermek numarasını vermek,Bir kimse için kötü bir kanıya varmak,Assessing,Medical_conditions
+TUR10-0931920,alışkı edinmek,Alışkanlık durumuna getirmek,Custom,Custom
+TUR10-0909040,kuzu kesilmek,"Sessizleşmek, sakin bir durum almak; uysallaşmak",Becoming_silent,Becoming_silent
+TUR10-0893120,eline bakmak,Bir kimsenin yardımıyla geçinmek,Receiving,Assistance
+TUR10-1122550,rahmet okumak,Tanrı'nın merhamet ve bağışlaması için dua etmek,Rite,Rite
+TUR10-0165450,çırpınmak,Çok istenilen bir şeyi gerçekleştirebilmek için aşırı derecede çaba harcamak,Attempt,Attempt
+TUR10-0905270,kâğıt açmak,İskambil kâğıtlarını oyunculara dağıttıktan sonra koz olacak kâğıdın yüzünü çevirmek,Game_Jargon,Game_Jargon
+TUR10-0177450,dadılık etmek,Çocuk bakıcılığı ile uğraşmak,Being_employed,Conduct
+TUR10-0846030,yedirmek beslemek,"Ağzına yiyecek vermek, beslemek; karnını doyurmak",Ingestion,Ingestion
+TUR10-1025930,ezilip büzülmek,Güç bir duruma düşüp davranışlarıyla utandığını belli etmek,Emotion_directed,Stimulate_emotion
+TUR10-1209290,eksik olmak,Bir şeyin bir bölümü noksan olmak,Position_on_a_scale,Inclusion
+TUR10-0879640,çekmek,Atmak; vurmak,Impact,Cause_motion
+TUR10-0888800,dama taşı gibi oynatmak,Birini sık sık bir yerden bir yere göndermek veya atamak,Change_Of_Leadership,Placing
+TUR10-0047850,artırmak tezyit etmek çoğaltmak beslemek ziyadeleştirmek fazlalaştırmak,"Miktarını, sayısını, ölçüsünü artırmak",Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-1176740,yalpa vurmak,İki yana eğilerek yürümek,Forward_Motion,Forward_Motion
+TUR10-1189750,yürekten çağırmak,"Aşırı derecede arzu etmek, istemek",Experiencer_focused_emotion,Desiring
+TUR10-0839570,yaşamak,Sağ olmak,Dead_or_alive,Manner_of_life
+TUR10-1022520,esas vaziyete geçmek,Hazır ol durumunu almak,Activity_prepare,Activity_prepare
+TUR10-1048870,hesap vermek hesabını vermek,"Herhangi bir davranışın sebebini açıklamak, anlatmak",Explaining_the_facts,Telling
+TUR10-0967750,bindiği dalı kesmek,"Kendisine gerekli ve yararlı olan şeyi farkında olmadan yararsız duruma getirmek, kendi eliyle yok etmek",Cause_harm,Procurance
+TUR10-0269630,fettanlaşmak,Fettan bir duruma gelmek,Predicament,Change_Of_Consistency
+TUR10-1089060,kurban kesmek kan akıtmak kurban etmek,Din buyruğunu yerine getirmek için bir hayvanı keserek etini dağıtmak,Rite,Killing
+TUR10-1184880,yıldız kaymak yıldız akmak yıldız uçmak,"Yıldız, gökyüzünde hızla yer değiştirmek",Forward_Motion,Change_Position_On_A_Scale
+TUR10-0213490,doğramak,Keserek parçalamak veya elle küçük parçalara ayırmak,Cutting,Cutting
+TUR10-0511230,lifleşmek,Lif durumuna gelmek,Change_Of_Consistency,Change_Of_Consistency
+TUR10-0811860,üzmek bedbaht etmek keyfini bozmak keyfini kaçırmak meyus etmek,Üzüntü vermek,Cause_emotion,Experiencer_focused_emotion
+TUR10-0919100,açık tutmak,Bir iş yerinin çalışır durumunu sürdürmek,Activity_Ongoing,Activity_Ongoing
+TUR10-0789890,tutmak,Yanında bulundurmak; alıkoymak,Possession,Carry_Goods
+TUR10-0003090,acımak merhamet etmek,Başkasının uğrayacağı veya uğramakta bulunduğu üzücü bir halin önüne geçme arzusunu duymak,Judgement,Others_situation_as_stimulus
+TUR10-0892340,çocuk kalmak,Büyümüş olmasına rağmen çocukça düşünceler taşıyıp çocuk gibi davranmak,Intentionally_act,Conduct
+TUR10-1077620,kendini satmak,Para karşılığı erkeklerle birlikte olmak,Commerce_Sell,Commerce_Sell
+TUR10-1162490,yapıştırmak tokat aşk etmek indirmek tokat aşk eylemek,El içiyle hızla vurmak,Cause_harm,Experiencer_focused_emotion
+TUR10-1193430,zihnini bozmak,Sürekli olarak aynı şeyi düşünmek,Worry,Cogitation
+TUR10-0672730,seçmek,"Titiz davranmak, kolay kolay beğenmemek",Mental_property,Choosing
+TUR10-1193750,zincir vurmak,Özgürlüğünü elinden almak,Trap,Preventing_or_letting
+TUR10-0102210,bildirmek,Herhangi bir konuda bilgi vermek,Statement,Telling
+TUR10-0056500,atlatmak,Kötü bir durumu geçiştirmek; savmak,Avoiding,Tolerating
+TUR10-0918350,açığa almak,Bir görevliyi geçici bir süre işten uzaklaştırmak,Activity_Pause,Activity_Pause
+TUR10-1116070,palet vurmak,Dipte yüzerken yükselme amacıyla paletlerle suyu dövmek,Self_motion,Motion
+TUR10-0942300,astar sürmek astar vurmak astar çekmek astarlamak,Asıl boyadan önce kiri kapatmak ve sürülecek boyanın dayanıklılığını artırmak için kullanılan boya ile boyamak,Processing_Materials,Processing_Materials
+TUR10-0153690,çatırdamak,Çatır diye ses çıkarmak,Make_noise,Make_noise
+TUR10-0661140,vergilendirmek salmak tarh etmek,Bir kimseyi veya bir şeyi vergiye bağlamak,Assessing,Earnings_And_Losses
+TUR10-0908660,kötüye kullanmak,Yetkisini yasalara aykırı yolda kullanmak,Abusing,Abusing
+TUR10-1125430,sadakatsizlik göstermek,"Sadakatsiz olduğunu ortaya koymak, açıklamak",Reveal_secret,Commitment
+TUR10-0836350,yardımlaşmak elleşmek kubaşmak,Karşılıklı yardımda bulunmak,Assistance,Assistance
+TUR10-0904860,dalga geçmek kafa yapmak işin alayında olmak,"Üzerinde durulması gereken işle ilgilenmeyerek başka şeyler düşünmek veya yapmak, işe gereken önemi vermemek",Chatting,Cogitation
+TUR10-0839640,yaşamak keyif sürmek,"Varlıklı, endişesiz, hoş vakit geçirmek",Emotions_of_mental_activity,Emotions_of_mental_activity
+TUR10-0010330,afyonlamak,Telkin yoluyla doğru düşünmeyi önleyerek zararlı bir yola sürüklemek,Cause_Benefit_Or_Detriment,Cogitation
+TUR10-0404840,kalkmak,Geçerli olmamak; geçerliğini yitirmek; geçmez olmak,Change_Of_Quantity_Of_Possession,Change_Of_Consistency
+TUR10-0851030,yerlileşmek,"Bir yerde, bir ülkede çok uzun süre kalmış olmak",Becoming,Becoming
+TUR10-0973290,borcunu bilmek,Borcunu zamanında öder olmak,Lending,Lending
+TUR10-0667210,sarmak,Kâğıt veya bir bitki yaprağıyla dürmek,Filling,Manipulate_into_shape
+TUR10-0100280,bırakmak,"Ayrılmak, terk etmek",Abandonment,Abandonment
+TUR10-0174940,çöplenmek,Çeşitli yiyeceklerden azar azar yemek,Ingestion,Ingestion
+TUR10-0529250,matlaşmak,Mat duruma gelmek,Processing_Materials,Change_Of_Consistency
+TUR10-0969350,bir hâl olmak,Huyu değişmek,Undergo_change,Cause_change
+TUR10-0569320,nakşetmek,"Süslemek, bezemek, nakış yapmak",Processing_Materials,Processing_Materials
+TUR10-0669690,savunmak,Futbolda kendi kalesini korumak için oyun süresince bir takım çaba göstermek,Sports_Jargon,Sports_Jargon
+TUR10-1013290,dulda tutmak,"Örtünmek, koruyacak biçimde sarınmak",Hiding_objects,Forming_relationships
+TUR10-0296370,gezmek,Gitmek; başvurmak,Motion,Forward_Motion
+TUR10-1031900,gibi gelmek,"... sanısı vermek, ... sanısı yaratmak",Similarity,Similarity
+TUR10-0440130,kemikleşmek,Kemik durumuna gelmek,Change_Of_Consistency,Change_Of_Consistency
+TUR10-1157460,telefon etmek telefon açmak,Birini telefonla aramak ve bir şey söylemek,Contacting,Contacting
+TUR10-0998280,degaj yapmak,Futbolda kaleci topu sert bir vuruşla gücü yettiğince uzağa atmak,Sports_Jargon,Sports_Jargon
+TUR10-0006590,açmak,"Yapmak, düzenlemek",Arranging,Causation
+TUR10-0881280,düşmek,İşbaşından uzaklaşmak,Quitting,Change_Of_Leadership
+TUR10-0970910,bir yol tutturmak,"Bir davranış, bir tutum biçimi belirlemek",Appointing,Deciding
+TUR10-0888220,ceza almak ceza yemek cezalandırılmak,Ceza verilmek; cezaya çarptırılmak; tecziye edilmek,Rewards_and_punishments,Judgement_Direct_Address
+TUR10-1054160,ihtiyaç duymak ihtiyacı olmak gereksinmek gereksemek muhtaç olmak,Bir şeyi kendisi için gerekli saymak,Needing,Being_necessary
+TUR10-0790480,tutturmak,"Bir işe başlayıp sürdürmek, bir şeyi yapmakta olmak",Activity_Ongoing,Activity_Start
+TUR10-0374320,indüklemek,"Kapalı bir devreyi, şiddeti her an değişen bir manyetik alanın içine koyarak onun üzerinde bir elektrik akımı oluşturmak",Change_Operational_State,Change_Operational_State
+TUR10-0643990,reddetmek,"Aileden olan birini aileden bir kişi olarak saymamak, tanımamak",Agree_or_refuse_to_act,Possession
+TUR10-0847760,yemek,Başkasının parasını harcamak,Commerce_Pay,Commerce_Pay
+TUR10-0205500,dilenmek,Kendisini acındırarak bir kimseden bir şey istemek,Request,Request
+TUR10-1194550,elde etmek,Bir kimseyi kendi hizmetine almak veya kendinden yana çekmek,Getting,Procurance
+TUR10-1081450,kızılca kıyamet kopmak,"Kavga, gürültü olmak",Hostile_encounter,Hostile_encounter
+TUR10-0659840,saldırmak,"Gemi, kalkmak için yelken açıp başını gideceği yola çevirmek",Change_Direction,Change_Direction
+TUR10-1242580,ele geçirmek,Sahibi olmak,Claim_Ownership,Becoming
+TUR10-0608450,özenmek,"Bir şeyi yaparken elden geldiğince iyi yapmaya çabalamak, bir şeye büyük dikkat ve ilgi göstermek; itina etmek",Attempt,Attention
+TUR10-1156500,yoğunlaşmak tekâsüf etmek yoğuşmak,"Yoğun duruma gelmek, konsantre olmak",Change_Of_Phase,Emphasizing
+TUR10-0877090,zonklamak,"Vücudun bir yeri nabız atışı gibi, kesik kesik ağrımak veya sancımak",Perception_Body,Perception_Body
+TUR10-1130880,sefer etmek,Gezinti yapmak; gezmek; yolculuk etmek,Travel,Forward_Motion
+TUR10-0601330,kahretmek öldürmek eritmek yüreğini sızlatmak yüreğini eritmek yüreğine oturmak yürek paralamak,Çok üzmek,Stimulate_emotion,Experiencer_focused_emotion
+TUR10-1174830,yabancılık çekmek,Bir iş veya çevrede yabancı olmaktan doğan güçlüklere uğramak,Difficulty,Stimulate_emotion
+TUR10-1168150,utanç vermek,Utanmasına yol açmak; utandırmak,Stimulate_emotion,Stimulate_emotion
+TUR10-0930520,aldırış etmemek,"İlgi göstermemek, ilgilenmemek, ilgisiz kalmak",Regard,Attention
+TUR10-1118610,pazarlığı pişirmek,Pazarlıkta uyuşma sağlayacak duruma gelmek,Bargaining,Apply_Heat
+TUR10-1170890,üstünden atmak,Bir şeyin kendi üzerinde bıraktığı etkiyi kaldırmak,Removing,Cause_change
+TUR10-0210760,ditmek,Elle çok küçük parçalara ayırmak,Cause_to_fragment,Cutting
+TUR10-0495680,kurutmak boynunu bükmek,Bitki canlılığını yitirmek,Ceasing_to_be,Change_Of_Quantity_Of_Possession
+TUR10-0939190,arayı açmak,Aradaki uzaklık artmak,Motion,Scrutiny
+TUR10-0295180,geviş getirmek gevmek,Yutmuş olduğu yiyeceği midesinden ağzına çıkarıp yeniden çiğnemek,Ingestion,Ingestion
+TUR10-0864410,yuvarlamak,Döndürerek tomar yapmak veya yuvarlak duruma getirmek,Manipulate_into_shape,Change_Direction
+TUR10-1200080,konu açmak,Komisyonda faiz konusunu da gündeme getireceğiz,Statement,Earnings_And_Losses
+TUR10-1131090,sekteye uğratmak,Kesmek; kesintiye uğratmak,Process_stop,Cutting
+TUR10-0982090,cart cart ötmek,Çok konuşmak,Discussion,Forward_Motion
+TUR10-1191870,zapt olunmak,Bütünüyle öğrenilmek; kavranmak,Grasp,Cognitive_Comprehension
+TUR10-0937990,aptal olmak,Aptal durumda bulunmak,Prevarication,Mental_property
+TUR10-0990110,çıkış yapmak,"Bir tartışmada, karşı düşüncede olanları alt etmek için sert davranışta bulunmak",Intentionally_act,Surpassing
+TUR10-0750170,taşınmak göçmek kalkmak,"Yerleşmek amacıyla mahalle, köy, şehir veya ülke değiştirmek, başka bir yere gitmek",Motion,Quitting_a_place
+TUR10-1148040,şöhreti dünyayı tutmak,Çok tanınmak,Fame,Change_Of_Quantity_Of_Possession
+TUR10-1005050,devre dışı bırakmak devre dışı tutmak,Konudan uzaklaştırmak; ilgilenmemesini sağlamak,Attention,Attention
+TUR10-1126480,sahneye çıkmak kullanılmak,"Kullanılmak, görünmek, ortaya çıkmak",Coming_to_be,Performers_and_roles
+TUR10-0893530,el tutmak,"Bir iş uzun süre uğraştırmak, vakit kaybettirmek",Change_Of_Quantity_Of_Possession,Change_Event_Duration
+TUR10-0880610,çıkmak,"Bulunduğu yerden fırlamak, kopmak",Self_motion,Removing
+TUR10-0220280,dökmek,Sulu hamuru kızgın yağ veya tepsinin içine akıtarak pişirmek,Apply_Heat,Apply_Heat
+TUR10-0329130,harlamak,"Birden öfkelenerek bağırmak, birine çıkışmak",Judgement_Direct_Address,Communication_noise
+TUR10-1134070,fakirleşmek sıfırı tüketmek fakir düşmek yoksullaşmak,Geçinmekte çok sıkıntı çeken bir duruma gelmek,Earnings_And_Losses,Change_Position_On_A_Scale
+TUR10-0584630,okutmak ders vermek,"Ders vermek, bir konu üzerinde yetiştirmek",Education_teaching,Education_teaching
+TUR10-0943830,ateşe tutmak,Az ısıtmak,Apply_Heat,Apply_Heat
+TUR10-1087120,kötü gözle bakmak,Cinsel duygu ile bakmak,Perception_Active,Perception_Active
+TUR10-0902960,iki paralık etmek aşağı çekmek,"Değerini düşürmek, varolan değere zarar vermek",Damaging,Change_Of_Quantity_Of_Possession
+TUR10-1141030,söz işitmek laf işitmek,Azarlanmak ya da birisi kendisine darılmak,Judgment_direct_address,Perception_Experience
+TUR10-0903810,iş çıkarmak,Çok iş yapmak,Work,Work
+TUR10-1210010,eğilimli olmak meyyal olmak temayülü olmak,"Bir şeyi sevmeye, istemeye veya yapmaya içten yönelmek",Likelihood,Desiring
+TUR10-0172260,çoğaltmak,Çoğaltma makinesi kullanılarak sayısını artırmak; teksir etmek,Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0042620,aramak,Önem verip istemek,Desiring,Request
+TUR10-0903730,işi rast gitmek,"Şans yardımıyla işi iyi, istediği gibi olmak",Successful_action,Emotions_of_mental_activity
+TUR10-0922250,ağır basmak,Bir işte gücü ve etkisi üstün gelmek,Beat_opponent,Surpassing
+TUR10-1027380,fırsatı ganimet bilmek,Çıkan fırsattan en iyi biçimde yararlanmak,Cause_Benefit_Or_Detriment,Cause_Benefit_Or_Detriment
+TUR10-0755980,tedirginleşmek sancısı tutmak tacizlik getirmek içini kemirmek yüreğini kemirmek tedirgin olmak uykusu kaçmak içi içine geçmek,,Emotion_directed,Experiencer_focused_emotion
+TUR10-1174170,volta atmak volta vurmak,Bir aşağı bir yukarı dolaşmak,Forward_Motion,Self_motion
+TUR10-0414980,kaput etmek,Kâğıt oyununda karşısındakini tek sayı alma imkânından yoksun bırakmak,Game_Jargon,Game_Jargon
+TUR10-0969250,bir tutmak bir görmek,"İki veya daha fazla şeyi yapı, değer, boyut, nicelik ve nitelik bakımından birbirinden ne artık ne eksik olarak değerlendirmek",Categorization,Categorization
+TUR10-1171810,üzerine çullanmak üstüne çullanmak,Saldırarak üzerine abanmak,Attack,Attack
+TUR10-0156730,çekinmek,Bir şey sürünmek,Self_motion,Hiding_objects
+TUR10-0596470,oynamak,"Bir film, oyun ve benzerinde rol almak",Participation,Performers_and_roles
+TUR10-0185610,dayandırmak isnat etmek,Dayanmasını sağlamak; istinat ettirmek,Cause_Change_Of_Consistency,Activity_Ongoing
+TUR10-0006420,açmak,"Sarılmış, katlanmış, örtülmüş veya iliklenmiş olan şeyleri bu durumdan kurtarmak",Closure,Emptying
+TUR10-0935210,ambargo koymak,Gemilerin limanlardan hareketini yasaklamak,Change_Of_Accessibility,Change_Of_Accessibility
+TUR10-1118540,pay vermek,"Küçük büyüğe karşılık vermek, saygısızca davranmak",Respond_to_proposal,Judgement_Direct_Address
+TUR10-1246150,açığa çıkarmak,"Ortaya çıkarmak, gözler önüne sermek, anlaşılır duruma getirmek",Evidence,Coming_to_be
+TUR10-0943860,ateşe vermek kundak sokmak kundak koymak,Bir yeri kasten yakmak için bir yere tutuşmuş yağlı bez parçası koymak,Cause_To_Burn,Apply_Heat
+TUR10-0834610,yapmak yetiştirmek,Bir kimseye bir meslek kazandırmak,Education_teaching,Education_teaching
+TUR10-1191930,zarara uğramak,Parasal kayba uğramak,Earnings_And_Losses,Change_Of_Quantity_Of_Possession
+TUR10-1162200,titreme gelmek,Titremeye başlamak; titremeye tutulmak,Body_movement,Moving_In_Place
+TUR10-1084300,kontrol altında olmak denetlenmek denetilmek,Denetleme işine konu olmak,Scrutiny,Inspecting
+TUR10-0093450,benzemek,"Sanısını uyandırmak, gibi görünmek",Similarity,Similarity
+TUR10-1023540,koordine etmek eş güdümlemek,"Belli bir amaca ulaşmak için türlü işler arasında bağlantı, ilişki, düzen ve uyum sağlamak",Making_arrangements,Cotheme
+TUR10-0932040,alışverişe çıkmak,Alım satım işi için çarşıya gitmek,Shopping,Forward_Motion
+TUR10-0972910,bomba gibi patlamak,Bir olay birdenbire ortaya çıkarak herkesi şaşırtmak,Emotion_directed,Process_Start
+TUR10-0914500,umuda düşmek ümide düşmek,"Gerçekleşeceğine inanmak, olmasını beklemek",Expectation,Expectation
+TUR10-0937790,antrenman yapmak,"Spor amacıyla çalışmak, alıştırma yapmak",Sports_Play,Sports_Play
+TUR10-0888850,damarına basmak,"Birini, duyarlı olduğu bir konuda kızdırmak",Stimulus_focus,Stimulate_emotion
+TUR10-0789980,tutmak,Hizmetine almak veya kiralamak,Rent,Rent
+TUR10-0919000,açıktan kazanmak açıktan para kazanmak,Emek ve sermaye olmadan para kazanmak,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0821800,vurmak,Elini veya elinde tuttuğu bir şeyi bir yere hızla çarpmak,Impact,Impact
+TUR10-1149750,tahriş olmak,Zedelenmek,Experience_bodily_harm,Conduct
+TUR10-1064360,izin vermek,"İşine son vermek, hizmetinden çıkarmak",Employment_end,Firing
+TUR10-0701410,solumak nefes alıp vermek,Havayı ciğerlere almak ve vermek,Breathing,Breathing
+TUR10-0126560,buyurmak,Gelmek; gitmek; geçmek; girmek,Arriving,Arriving
+TUR10-1093760,lodosa dönmek lodosa çevirmek,Hava soğukken lodosla ısınmak,Change_Of_Temperature,Change_Of_Temperature
+TUR10-0880520,çıkmak,"Artırmak, fiyatı yükseltmek",Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0188780,değiştirmek,"Başka bir duruma, başka bir görünüme getirmek",Cause_change,Cause_change
+TUR10-1188930,nefesi daralmak yüreği bozulmak nefesi kesilmek nefesi tutulmak,Bunalmak; sıkılmak,Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0202470,dızlamak dolandırmak vurmak soymak çarpmak ketenpereye getirmek tokat atmak tokat patlatmak söğüşlemek,Birisini aldatarak parasını veya malını elinden almak,Robbery,Theft
+TUR10-1071610,karaya çıkarmak,Göl veya denizden karaya çıkmasını sağlamak,Bringing,Removing
+TUR10-0196400,derinleşmek,Ses kaynağı uzaklaşarak az duyulur duruma gelmek,Change_Position_On_A_Scale,Make_noise
+TUR10-1043070,haiz olmak,"Elinde bulundurmak, uygun olmak, taşımak",Possession,Carry_Goods
+TUR10-1025520,eylemde bulunmak eylem koymak,Toplu hâlde hareket etmek,Collaboration,Participation
+TUR10-0957040,başı dik olmak,"Onurlu, gururlu olmak",Becoming,Change_posture
+TUR10-1064760,jurnal etmek,"Biriyle ilgili olarak yetkililere kötülemek, ihbar yazısı vermek veya böyle bir bilgiyi iletmek",Judgment,Judgement_Direct_Address
+TUR10-1036300,gözlem altına almak,"Bir nesneyi, olayı veya bir gerçeği, niteliklerinin bilinmesi amacıyla, dikkatli ve planlı olarak ele alıp incelemek",Perception,Perception_Active
+TUR10-0301350,devretmek göçermek,"Bir malın mülkiyetini, bir mal üzerindeki hakkı başkasına geçirmek",Transfer,Transfer
+TUR10-1111170,oturakalmak,Oturup kalmak,State_continue,Change_posture
+TUR10-1116980,paraya kıymak,Gereken yerde para harcamaktan kaçınmamak,Commerce_Pay,Commerce_Pay
+TUR10-0434390,kaynamak dalgalanmak,"Hareketli olmak, çalkantı durumunda olmak",Moving_In_Place,Moving_In_Place
+TUR10-0290550,gelmek,Etkisini herhangi bir biçimde göstermek,Cause_change,Give_impression
+TUR10-0156640,çekingenleşmek,Çekingen duruma gelmek,Sociability,Change_Of_Consistency
+TUR10-0881230,düşmek,Ödevi veya yetkisi içinde bulunmak,Authority,Change_Of_Leadership
+TUR10-0902640,içini açmak,"Derdini anlatmak, içini dökmek",Encoding,Telling
+TUR10-0937340,anlayıp dinlemek,Bir olayı iyice anlamak,Perception_Active,Awareness
+TUR10-1087730,kucağına kurulmak,Kucağına oturmak,Change_posture,Change_posture
+TUR10-1019770,el koymak,Üstüne konmak,Removing,Change_posture
+TUR10-0827420,yakmak,Işık vermesini sağlamak,Cause_to_start,Change_Operational_State
+TUR10-0803850,uyuzlaşmak,Tüyleri döküldüğü için çirkin bir görünüş almak,Becoming,Becoming
+TUR10-1034190,gönül çekmek,Sevdalı olmak,Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-1147160,şeytanın bacağını kırmak şeytanın ayağını kırmak,Herhangi bir sebeple yapılmayan bir işe başlamak veya gidilmeyen bir yere gitmek,Activity_Start,Attempt_Difficult_Goal_Scenario
+TUR10-0056860,atmak,İstenilmeyen bir şeyi kendi malı olmaktan çıkarmak,Abandonment,Cause_motion
+TUR10-1061840,işgal etmek,İşten alıkoymak; oyalamak,Hindering,Change_Of_Accessibility
+TUR10-0937460,anne olmak,"Kadın, çocuk sahibi olmak",Giving_birth,Giving_birth
+TUR10-1181870,yemek seçmek,Bazı yemekleri sevmemek,Choosing,Judgement
+TUR10-0669490,savrulmak,Dağılmak; saçılmak,Dispersal,Dispersal
+TUR10-0481550,kömürleşmek karbonlaşmak,Kömür durumuna gelmek,Change_Of_Consistency,Change_Of_Consistency
+TUR10-0686800,sımak el ense çekmek el ense etmek tuşa getirmek galebe çalmak utmak mağlup etmek galip gelmek kazanmak ifadesini almak üstün gelmek üstün olmak,Bir oyunda veya yarışta yenmek,Finish_competition,Game_Jargon
+TUR10-0899090,har vurup harman savurmak,"Düşüncesizce ve hesapsızca harcamak, bol bol harcayıp tüketmek",Frugality_Waste,Commerce_Pay
+TUR10-0913730,şaka götürmemek,"Bir durum veya iş hafifsemeye, dikkatsizliğe gelmemek",Cogitation,Tolerating
+TUR10-1088420,kulak tutmak,İşitmek istemek; dinlemek,Perception_Active,Perception_Active
+TUR10-1090090,midesi bulanmak kusayazmak gönlü bulanmak içi bulanmak,Midenin içindekini basınçla ağızdan dışarı atacak gibi olmak,Perception_Body,Perception_Body
+TUR10-1173500,veresiye vermek,Malı parasını daha sonra almak şartıyla vermek,Commerce_Sell,Commerce_Pay
+TUR10-0402290,kaldırmak lağvetmek,Bir kuruluşun çalışmasına son vermek,Ceasing_to_be,Change_Of_Leadership
+TUR10-0908440,konuşmaya dalmak,Başka şeylerle ilişkiyi keserek belli bir konudan söz etmek,Chatting,Chatting
+TUR10-1202630,ayakta durmak,Ayağa kakmış durumda beklemek,Waiting,Waiting
+TUR10-1076540,pis pis gülmek keleş keleş sırıtmak,"Başkalarını kızdıracak, sinirlendirecek biçimde gülmek",Making_faces,Make_noise
+TUR10-0287830,geçirmek,Bir şeyi bir yerden başka yere taşımak; nakletmek,Transfer,Bringing
+TUR10-1002210,depreşivermek,Çabucak nüks etmek,Statement,Change_Position_On_A_Scale
+TUR10-0695360,sinmek,"Huy, alışkanlık vb. iyice yerleşmek",Becoming_attached,Custom
+TUR10-0902730,idare etmek hâle yola koymak çekip çevirmek,"Yönetmek, çekip çevirmek",Leadership,Change_Direction
+TUR10-0367710,ilerlemek,"Bulunduğu yerden daha ileriye gitmek, yol almak",Forward_Motion,Progression
+TUR10-0402250,kaldırmak,Yukarı doğru hareket ettirmek,Cause_motion,Change_Position_On_A_Scale
+TUR10-0355750,ışıklanmak ışımak aydınlanmak,Aydınlık olmak,Level_of_light,Change_Of_Consistency
+TUR10-0688140,sıralamak,"Küçük çocuk tutunarak yürümeye başlamak, tutunarak yürümek",Forward_Motion,Forward_Motion
+TUR10-0780660,topallamak aksamak,"Bacağındaki sakatlık sebebiyle seker gibi veya iki adımda, bir yana eğilerek yürümek",Forward_Motion,Forward_Motion
+TUR10-0895210,fazla olmak,Dayanma gücünü aşacak davranışlarda bulunmak; çok olmak,Surpassing,Abundance
+TUR10-1167860,usanç getirmek tacizlik getirmek,"Tekrarlanması, uzun sürmesi dolayısıyla bir şeyden hoşlanmaz veya sıkılır duruma gelmek",Experiencer_focused_emotion,Stimulate_emotion
+TUR10-0644000,tekzip etmek reddetmek yalanlamak,"Haber veya sözün gerçek olmadığını bildirmek, yalan olduğunu açıklamak",Respond_to_proposal,Prevarication
+TUR10-1111850,oyun çıkarmak,Oyun oynamak,Sports_Jargon,Game_Jargon
+TUR10-1006630,dikkatini çekmemek,Birinin ilgisini uyandırmamak,Attention,Attention
+TUR10-0288650,geçmek,Kabul edilemez olmak,Suitability,Losing_it
+TUR10-1123980,rol yapmak,Davranışlarda içtenlik bulunmamak,Feigning,Feigning
+TUR10-1069480,ikna olmak kani olmak,"Söylenilen sözün, anlatılan konunun doğruluğuna inanmak",Trust,Trust
+TUR10-0897890,gözünün önüne gelmek,Bir şeyi zihinde canlandırmak; tasarlamak; hatırlamak,Remembering_Information,Remembering_Information
+TUR10-1041390,güneş batmak gün kavuşmak kavuşmak gün batmak,"Gün sonunda, güneş ufukta kaybolmak",Becoming_visible,Process_End
+TUR10-0599610,öğretmek,Yetenek kazandırmak,Education_teaching,Education_teaching
+TUR10-0153000,çatallanmak,Çatal gibi ikiye ayrılmak,Becoming_separated,Separating
+TUR10-0185870,dayanmak,"Birinden, bir şeyden güç almak, güvenmek, istinat etmek",Reliance,Tolerating
+TUR10-0091510,belirleşmek,Belirgin duruma girmek,Obviousness,Obviousness
+TUR10-1188880,yükünü çekmek,"Bütün ağırlığını taşımak, her türlü eziyete katlanmak",Tolerating,Bringing
+TUR10-0906900,ayılmak kendine gelmek aklı başına gelmek afyonu patlamak gözlerini açmak gözünü açmak,"Sarhoşluk, baygınlık vb. bir durumdan kurtulmak",Recovery,Intoxication
+TUR10-0826000,yakalanmak,"Bir hastalığa, karşılaşmak istenilmeyen birine veya kötü bir duruma tutulmak",Objective_influence,Encounter
+TUR10-1139530,ifadesini almak sorgu suale çekmek istintak etmek sorguya çekmek,Bir suçla ilgili olarak soru sorup cevap istemek,Questioning,Questioning
+TUR10-1089100,kurban olmak,Bir kimse veya bir şey için kendini feda etmek,Sacrificing_for,Sacrificing_for
+TUR10-0480920,köklenmek,"Köklü, temelli bir biçimde yerleşmek",Placing,Change_Of_Consistency
+TUR10-1102570,mücehhez olmak,"Taşımak, kendinde bulundurmak",Bringing,Carry_Goods
+TUR10-1128190,santra yapmak,Santra noktasından oyunu başlatmak,Sports_Jargon,Sports_Jargon
+TUR10-0839650,yaşamak,"Keyfi yerine gelmek, mutlu olmak, işleri yolunda olmak",Thriving,Manner_of_life
+TUR10-0896340,fırsat bilmek,Bir şeyden belli bir amaçla hemen yararlanmak,Usefulness,Cause_Benefit_Or_Detriment
+TUR10-0445390,kesmek,"Birini yermek, kötülemek",Judgement_Direct_Address,Ingestion
+TUR10-0342020,hırlaşmak,Ağız kavgasına girişmek,Quarreling,Hostile_encounter
+TUR10-0390320,izlemek seyretmek,"Eğlenmek, görmek, öğrenmek vb. için bakmak",Perception_Active,Perception_Active
+TUR10-0917270,acı çekmek acı duymak acılanmak azap duymak keder çekmek yerinmek kıvranmak teessüf etmek hayıflanmak yazıklanmak mükedder olmak üzülmek yüreği boğazına tıkanmak yüreği ezilmek yüreğine dokunmak müteessif olmak müteessir olmak bağrını ezmek kederlenmek bedbaht olmak bulutlanmak esef etmek,"Acılı durumda, üzüntü duymak",Emotion_directed,Experiencer_focused_emotion
+TUR10-1142160,su çekmek,Alçak bir yerden tulumba vb. ile su çıkarmak,Cause_fluidic_motion,Removing
+TUR10-0167960,çiğnemek,Uyulması gereken kural veya yasaya uymamak,Compliance,Preventing_or_letting
+TUR10-0125420,burmak,Ağza kekre tat vermek,Complaining,Ingestion
+TUR10-0475160,kopyalamak,Aynısını veya benzerini çoğaltmak,Duplication,Duplication
+TUR10-0835510,yaramaz olmak yaramazlaşmak afacanlaşmak,"Çocuk söz dinlememek, rahat durmamak, yasak edilen şeyleri yapmakta ayak diremek",Becoming,Conduct
+TUR10-1060240,soruşturmak iskandil etmek tahkik etmek,"Öğrenilmek istenilen şeyi birçok kişiye inceden inceye sormak, araştırmak",Scrutiny,Scrutiny
+TUR10-0901480,ıska geçmek,Hedefe rast getirememek,Success_or_failure,Emotion_directed
+TUR10-0868230,yüzmek,"Kol, bacak, yüzgeç vb. organların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak",Motion,Forward_Motion
+TUR10-0889940,arkadaş olmak dostluk etmek ahbap olmak yakınlık kurmak dostlaşmak dost olmak dostluk kurmak,"Bir kimseyle yakın ilişki kurmak, sıkı ilişki içinde bulunmak",Contacting,Personal_relationship
+TUR10-0226030,durulaşmak berraklaşmak,"Bulanıksız, temiz bir duruma gelmek",Removing,Emptying
+TUR10-0466250,kucaklaşmak koçuşmak sarmaşmak,"Birbirini kucaklamak, birbirine sarılmak",Adopt_selection,Inhibit_movement
+TUR10-0268430,ferahlatmak gönendirmek terfih etmek,"Ferah duruma getirmek, rahatlatmak",Cause_Benefit_Or_Detriment,Cause_Benefit_Or_Detriment
+TUR10-0887540,bıkmak canına yetmek bezginlik getirmek bizar olmak gına gelmek farımak bezmek gına getirmek yaka silkmek yılmak illallah demek illallah etmek fütur getirmek usanmak bıkkınlık gelmek elaman demek el aman demek bıkıp usanmak,"Tekrarlanması, sürüp gitmesi yüzünden bir şeyden doygunluk veya yorgunluk duyarak onu istemez duruma gelmek",Stimulate_emotion,Judgement
+TUR10-0258520,etmek,Birini bir şeyden yoksun bırakmak,Deprive,Giving
+TUR10-0920300,adaylığını koymak,Bir iş veya göreve seçilmek için kendini ileri sürmek,Intentionally_act,Appointing
+TUR10-0479280,koyulaşmak derinleşmek ağdalaşmak,"Derinleşmek, hararetlenmek, aşırı duruma gelmek",Becoming,Change_Of_Consistency
+TUR10-0799490,kafasından çıkarmak unutmak kafasından atmak,Hatırdan ve gönülden çıkarmak,Remembering_Information,Remembering_Information
+TUR10-1150590,taksite bağlamak,"Bir şeyi belli aralıklarla, belli miktarlarda ödeme şartları ile almak veya satmak",Commerce_Sell,Activity_stop
+TUR10-0740270,takip etmek,Dikkatle dinlemek; anlamak,Cognitive_Comprehension,Cotheme
+TUR10-0006400,açmak,Bir şeyin kapağını veya örtüsünü kaldırmak,Closure,Closure
+TUR10-0900930,hizmeti dokunmak,Görevde bulunmak; iş yapmak,Work,Activity_Start
+TUR10-0915260,zaman bırakmak,Bir iş için süre ayırmak,Reserving,Activity_Pause
+TUR10-0730270,şıngırdamak,Küçük şeyler bir yere çarpıp düşerken veya birbirine değerken çınlama sesi çıkarmak,Make_noise,Moving_In_Place
+TUR10-0159660,çentmek,"Soğan, salatalık ve benzerini küçük ve ince parçalar biçiminde doğramak",Cutting,Apply_Heat
+TUR10-0230030,dürümlemek,"Dürüm biçiminde sarmak, kıvırmak",Manipulate_into_shape,Make_noise
+TUR10-0909355,laçka etmek,"Gevşetmek, bitkin bir duruma getirmek",Change_Of_Consistency,Stimulate_emotion
+TUR10-0288680,geçmek,Çok bekletilmekten çürümeye yüz tutmak,Rotting,Tolerating
+TUR10-0724700,şartlanmak koşullanmak,"Önceden belirlenmiş şartlara göre uyarlanmak, bağlı kalmak",Compliance,Compliance
+TUR10-1167670,un ufak etmek,Çok ufak kırıntılar durumuna getirmek; parçalamak,Cause_to_fragment,Emptying
+TUR10-0501640,kül olmak,Bütünüyle yanmak,Fire_burning,Cause_To_Burn
+TUR10-0669870,savurmak,"Havaya atıp dağıtmak, saçmak",Dispersal,Self_motion
+TUR10-0899255,tükenmek haşadı çıkmak turşuya dönmek,"Çok yorulmak, bitkinleşmek",Biological_urge,Biological_urge
+TUR10-0833510,yapılanmak,"Yapı özelliği kazanmak, oluşmak",Making_arrangements,Making_arrangements
+TUR10-1077550,kendini düşünmek,"Daima kendi çıkarını kollamak, bencil davranmak",Cogitation,Cogitation
+TUR10-1091200,küçük dağları ben yarattım demek,Çok böbürlenmek; kibirlenmek,Bragging,Statement
+TUR10-0690840,sızmak,"Gizli tutulan haber, sır vb. şeyler duyulmak, yayılmak",Dispersal,Reveal_secret
+TUR10-0026840,alevlenmek,"Zorlu, öfkeli veya heyecanlı bir durum almak",Stimulate_emotion,Emotion_directed
+TUR10-0912670,peşinden koşmak peşinde koşmak tekerlenmek,Bir şeyi ya da kimseyi elde etmek için uğraşmak,Seeking_to_achieve,Forward_Motion
+TUR10-1036110,göz göz olmak,"Üzerinde birçok göz, delik oluşmak veya bulunmak",Experience_bodily_harm,Categorization
+TUR10-0660780,sallamak,Zor durumda bırakmak,Abandonment,Abandonment
+TUR10-0127450,bükmek eğmek,Sert bir cismi bükmek,Reshaping,Cause_harm
+TUR10-0763450,temizlenmek öldürülmek defteri dürülmek ortadan kaybolmak post elden gitmek gebertilmek,Ortadan kaldırılmak,Death,Expulse
+TUR10-0739840,takınmak,Kendine takmak,Filling,Grasp
+TUR10-0940010,arıza yapmak,İşlemez duruma gelmek; bozulmak,Being_operational,Stimulate_emotion
+TUR10-0961390,beleşe konmak,"Bir şeyi emek harcamadan, para vermeden elde etmek",Procurance,Procurance
+TUR10-0231210,kaygılanmak düşünmek korku düşmek küşümlenmek kasavet çekmek kasavet etmek tasalanmak korkuya kapılmak korkmak merak etmek meraka düşmek endişe etmek endişelenmek meraklanmak,"Kaygı duymak, üzülmek, bir şeyi kendine tasa etmek",Worry,Worry
+TUR10-0434720,kaynaşmak,Birbirine iyice uymak,Causation,Suitability
+TUR10-0192150,demlemek demlendirmek,Çayı kaynar suyun içine attıktan sonra renk ve koku vermesi için bir süre bekletmek,Soaking,Apply_Heat
+TUR10-1055640,ilan etmek,Açıkça bildirmek,Statement,Statement
+TUR10-1033970,gönlü olmak,Sevip istemek,Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0973060,bombardıman etmek,Bir kimseyi ağır sözlerle paylamak,Judgement_Direct_Address,Judgement_Direct_Address
+TUR10-1209370,önemli olmak,Mühim olmak,Importance,Importance
+TUR10-1005960,didik didik etmek,Didiklemek,Cause_to_fragment,Education_teaching
+TUR10-0914980,yıldızları saymak,Geceleri uyku uyuyamamak,Waking_up,Communication_manner
+TUR10-0901700,icazet vermek,"İzin, onay vermek",Preventing_or_letting,Deny_or_grant_permission
+TUR10-0888390,dağarcıkta bir şey kalmamak,"Her şeyi tüketmek, bitirmek",Frugality,Process_End
+TUR10-0451340,kırışmak,Bir şeyi eşit olarak paylaşmak,Separating,Sharing
+TUR10-0921270,af dilemek,İşlenen hata veya suç için bağışlanmayı istemek,Request,Atonement
+TUR10-0951890,bağışıklık kazanmak,Bazı mikroplara karşı aşı veya doğal yolla dirençli duruma gelmek,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0913950,şekilci olmak,"Belli biçimler, kalıplar dışına çıkamamak",Inhibit_movement,Reshaping
+TUR10-1131540,semeri devirmek,Eşek gibi kabaca yatmak,Change_posture,Change_posture
+TUR10-0960640,bedel vermek,Askerlik yapmamak veya kısa süre yapmak için devlete para ödemek,Commerce_Pay,Commerce_Pay
+TUR10-0366890,ilaçlamak,"Mikroplardan arındırmak, zararlı böceklerden korunmak amacıyla ilaç püskürtmek veya sıkmak",Fluidic_motion,Cure
+TUR10-0090610,belemek bulatmak sıvamak bulaştırmak bulamak,"Bir nesnenin her yanını bir şeye değdirerek üstünü onunla kaplamak, bir nesneyi başka bir maddeye batırmak",Processing_Materials,Filling
+TUR10-0957640,başına kalmak,İstemediği hâlde bir işi yapmak veya bir kimseye bakmak zorunluluğu ile karşılaşmak,Obligation_scenario,Imposing_obligation
+TUR10-0888080,ceremesini çekmek,Başkasının yol açtığı zararı ödemek,Commerce_Pay,Commerce_Pay
+TUR10-0179850,daldalanmak,Gölgeli yere saklanmak,Eclipse,Hiding_objects
+TUR10-1097520,merak etmek,Anlamak veya öğrenmek istemek,Stimulate_emotion,Questioning
+TUR10-0900020,haz vermek,Hoşlanmasını sağlamak,Cause_emotion,Emotions_of_mental_activity
+TUR10-0467550,kokutmak kokuşturmak,Bozulup kokmasına sebep olmak,Chemical-sense_description,Chemical-sense_description
+TUR10-0900260,her kafadan bir ses çıkmak,Bir konu üzerinde herkes rastgele konuşmak,Chatting,Statement
+TUR10-0669990,savuşmak kaçmak,"Bulunduğu yerden aceleyle, gizlice veya dikkati çekmeden ayrılmak",Departing,Forward_Motion
+TUR10-1034630,görevden almak görevinden almak,"Bir görevliyi işinden ayırıp açıkta bırakmak, çıkarmak",Firing,Firing
+TUR10-1206920,ödeme yapmak para saymak ifa etmek tediye etmek vermek,"Bir alış veriş ilişkisinde, borçlu olunan şeyin karşılığını alacaklıya vermek",Commerce_Pay,Commerce_Pay
+TUR10-0336900,hazırlamak,"Önlem almak, sağlamak",Preventing_or_letting,Activity_prepare
+TUR10-1122000,pusuya düşmek,Pusu kuran kimsenin saldırı alanı içine girmek,Hiding_objects,Attack
+TUR10-1149420,tafsilat vermek,"Bir kimse, bir şey veya durumun özelliklerini, inceliklerini, ayrıntılarıyla anlatmak, uzun uzadıya anlatmak",Communicate_categorization,Telling
+TUR10-0884930,akıl yürütmek,Herhangi bir konuda fikir vermek,Reasoning,Cogitation
+TUR10-0865350,yük olmak,"Bir kimse, sıkıntılı bir işini başkasına yaptırmak",Imposing_obligation,Cause_Benefit_Or_Detriment
+TUR10-0042830,aranmak,Kendi kendine bir şeyler aramak,Seeking,Scrutiny
+TUR10-1023980,avuç açmak eteğini tutmak istiane etmek lütuf dilemek avucunu açmak,Yardım istemek,Seeking,Request
+TUR10-1110390,ortalık ağarmak,Sabah olmaya başlamak,Becoming,Becoming
+TUR10-1075460,kazançlı çıkmak,Kazanmak,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0718170,sürüklemek,"Kötü bir duruma, sona doğru götürmek",Improvement_or_decline,Improvement_or_decline
+TUR10-0911780,öfke yüzü göstermek,Çok sinirlendiğini belli etmek,Cause_to_perceive,Emotion_directed
+TUR10-0922320,ağır gelmek,Yapılması güç gelmek,Give_impression,Difficulty
+TUR10-0795290,ucuzlamak,Fiyatı inmek,Change_Of_Quantity_Of_Possession,Change_Position_On_A_Scale
+TUR10-0012700,ağırlaşmak ağır oturmak,Ağırbaşlı olmak,Social_interaction_evaluation,Posture
+TUR10-0956440,baş başa bırakmak,"Birinin, bir şeyle veya bir kimseyle yalnız kalmasını sağlamak",Accompaniment,Abandonment
+TUR10-0794870,tüylenmek,Para sahibi olmak,Earnings_And_Losses,Earnings_And_Losses
+TUR10-0658780,saklamak,Bozulmadan doğal durumları ile durmasını sağlamak; korumak; muhafaza etmek,Cause_to_continue,Protecting
+TUR10-1117880,paslanmak pas tutmak,Üzerinde oksitlenme sonucunda madde oluşmak,Corroding,Change_Of_Consistency
+TUR10-0381840,istemek,Görmek istediğini bildirmek,Sign,Request
+TUR10-0102160,bildirişmek,"Bir duyguyu, bir düşünceyi işaretle veya sesler dizgesiyle bildirerek anlaşmak",Communication,Telling
+TUR10-1033770,gönlüne girmek kalbine girmek,Sevgisini kazanmak,Change_Of_Quantity_Of_Possession,Experiencer_focused_emotion
+TUR10-1102420,muvazene etmek,Karşılaştırmak,Evaluative_comparison,Evaluative_comparison
+TUR10-0029350,almak,"Erkek, kadınla evlenmek",Forming_relationships,Forming_relationships
+TUR10-1027900,filiz vermek meydana gelmek parlamak uç vermek yüz göstermek sâdır olmak,Ortaya çıkmak,Coming_to_be,Becoming_visible
+TUR10-1208950,hizmet vermek,"İş görmek, çalışmak; hizmet etmek",Assistance,Employing
+TUR10-1120460,piyango çıkmak piyango vurmak,Piyangoda ikramiye kazanmak,Win_Prize,Game_Jargon
+TUR10-0879840,çekmek,Yürütmek; sürmek,Cause_motion,Forward_Motion
+TUR10-0901950,içeri girmek,Bir iş veya alışverişte zarar etmek,Change_Of_Quantity_Of_Possession,Hindering
+TUR10-0718950,süslemek,Söz oyunlarıyla güzelleştirmek,Aesthetics,Processing_Materials
+TUR10-0185460,dayamak,"Vakit geçirmeden, bekletmeden vermek",Change_Event_Time,Giving
+TUR10-0303610,gömmek defnetmek,Bir ölüyü toprağın içine yerleştirmek,Burying,Burying
+TUR10-1167510,ümit vermek umut bırakmak ümit bırakmak vadetmek umut vadetmek umut vermek,"Davranışıyla, tutumuyla bir işi yapacağı duygusunu uyandırmak, bir kimseye güven vermek",Stimulate_emotion,Desiring
+TUR10-0819780,vidalamak,Vida ile tutturmak,Attaching,Processing_Materials
+TUR10-1160360,tesviye etmek,Ödemek; vermek,Commerce_Pay,Giving
+TUR10-0776540,ticarileşmek,Ticari duruma gelmek,Commerce_scenario,Becoming
+TUR10-0479060,koymak,Bir şey veya kimse için kullanmayı belirlemek; ayırmak,Reserving,Reserving
+TUR10-0845220,yazmak,Yazar olarak görev yapmak,Work,Text_creation
+TUR10-0963560,bertaraf olmak,Ortadan kalkmak; yok edilmek,Destroying,Destroying
+TUR10-0288580,geçmek,Birinden meşk etmek,Cause_to_experience,Traversing
+TUR10-1187690,yuh çekmek yuhaya tutmak yuha çekmek,"Beğenilmeyen, tasvip edilmeyen birine veya bir duruma karşı haykırmak",Judgement,Emotion_directed
+TUR10-0952680,bahis açmak,Belli bir konuda konuşmaya başlamak,Activity_Start,Activity_Start
+TUR10-1130830,sefa sürmek,"Rahat, sakin ve eğlenceli yaşamak",Manner_of_life,Residence
+TUR10-0056950,atmak,Sıkıntı dolayısıyla giyilen bir şeyi çıkarmak,Undressing,Expulse
+TUR10-0938790,arasına karışmak aralarına karışmak,Büyüyüp yetişmek,Ontogeny,Change_Position_On_A_Scale
+TUR10-0447310,kıkırdamak,Kıkır kıkır diye ses çıkararak gülmek,Make_noise,Make_noise
+TUR10-0907010,kendini bırakmak,Kendine özen göstermemek,Self_control,Attention
+TUR10-1152380,tarassut etmek,Gözlemek; gözetlemek,Perception_Active,Perception_Active
+TUR10-0000370,abanmak,Bir şeyin veya bir kimsenin üzerine çöküp çullanmak,Motion_directional,Change_posture
+TUR10-1197690,asgari düzeye indirmek asgariye indirmek,En aza indirmek,Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0899030,hapis yatmak,Hükümlü olduğu süreyi hapishanede geçirmek,Imprisonment,Being_incarcerated
+TUR10-0025730,düş kırıklığına uğramak aldanmak,Beklediği sonucu alamamak,Stimulate_emotion,Emotion_directed
+TUR10-1120470,piyango çıkmak piyango vurmak,Beklenmedik bir yerden büyük kazanç sağlamak,Win_Prize,Game_Jargon
+TUR10-0743080,tamponlamak,"Tampon koymak, yerleştirmek",Placing,Processing_Materials
+TUR10-1072170,karısının üstüne evlenmek,Karısı varken bir kadınla daha evlenmek,Forming_relationships,Forming_relationships
+TUR10-0457900,kıymak,Çok ince ve küçük parçalar biçiminde doğramak,Cutting,Cutting
+TUR10-0619010,tokat atmak patlatmak suratına indirmek şaplak indirmek ekleştirmek tokatlamak aşk etmek tokat patlatmak,Elin içi ile vurmak,Cause_harm,Cause_harm
+TUR10-0351060,hükmetmek,Düşünme veya yargılama sonunda bir kanıya varmak,Judgment,Cogitation
+TUR10-0295570,gevşetmek,Sertlik ve gerginliğini bozmak,Cause_Change_Of_Consistency,Stimulate_emotion
+TUR10-0608050,özelleşmek,Özel bir duruma gelmek,Undergo_change,Becoming
+TUR10-0906590,kazık atmak ibnelik etmek aldatmak,Beklenmedik bir davranışla yanıltmak,Intentional_deception,Intentional_deception
+TUR10-0413920,kaplamak,Bir madeni bir başka madenle kimyasal bir yöntemle örtmek,Processing_Materials,Processing_Materials
+TUR10-0740720,takmak tınmak,"Önemsemek, önem vermek",Regard,Experiencer_focused_emotion
+TUR10-1045120,hart hurt etmek,Korkutmak amacıyla sert ve yüksek sesle konuşmak,Stimulate_emotion,Make_noise
+TUR10-0889620,dolap çevirmek dolap döndürmek madiklemek madik etmek madik atmak madik oynamak hile yapmak entrika çevirmek çıfıtlık etmek katakulli yapmak numara çevirmek karılık etmek,"Çıkar sağlamak amacıyla bir şeyin saflığını bozmak, dalavere ile amacına ulaşmaya çalışmak",Manipulate_into_doing,Change_Direction
+TUR10-0019900,akmak,Sıvı bir madde bir yerden çıkmak,Fluidic_motion,Fluidic_motion
+TUR10-0958490,başı sıkışmak başı sıkılmak,"Herhangi bir güçlük karşısında kalmak, bunalmak",Stimulate_emotion,Tolerating
+TUR10-0238670,eklemek,Bir şeyi ek olarak kullanmak,Cause_to_be_included,Change_Position_On_A_Scale
+TUR10-0454140,hacir altına almak kısıtlamak,"Medeni Kanun'a göre çeşitli haklarını kullanmaya yetkili olan kişinin bu haklarını mahkeme kararı ile elinden almak, haklarını kullanma bakımından kısıtlamak",Limiting,Change_Of_Accessibility
+TUR10-0062360,aymak ayılmak uyanmak ayıkmak,"Aklı başına gelmek; gerçekleri anlar, kavrar duruma gelmek",Enter_awareness,Remembering_Information
+TUR10-1182630,yere göğe koymamak,"Nasıl ağırlayacağını, nasıl memnun edeceğini bilmemek, çok önem vermek",Hospitality,Stimulate_emotion
+TUR10-0063530,ayrılışmak,Birbirinden ayrılmak,Forming_relationships,Departing
+TUR10-0897960,gündeme getirmek,"Bir toplantıda bir konuyu tartışmak, görüşmek için önermek",Causation,Statement
+TUR10-0327680,harcamak,Manevi yönden kötü duruma düşürmek; feda etmek,Disgraceful_situation,Commerce_Pay
+TUR10-0298880,girmek yazılmak kaydedilmek,"Kendini tarih, numara veya ad gibi bilgileri kullanarak bir deftere ya da sisteme geçirmek",Becoming_a_member,Text_creation
+TUR10-0077670,barınmak,"Soyut kavram bir yerde etkili olmak, gelişecek ortamı bulmak",Being_relevant,Cause_Benefit_Or_Detriment
+TUR10-0233530,eblehleşmek,Ebleh durumuna gelmek,Change_Position_On_A_Scale,Rotting
+TUR10-1102280,mutabık kalmak anlaşmaya varmak,"Bir konuda birisiyle anlaşmak, uyuşmak",Be_in_agreement_on_assessment,Make_agreement_on_action
+TUR10-0459740,kızmak,Isıtılan veya ısınan bir nesnenin sıcaklığı çok artmak,Apply_Heat,Change_Of_Temperature
+TUR10-0596520,oynamak,"Sarsılmak, yeri değişmek",Moving_In_Place,Undergo_change
+TUR10-1178360,yaramamak,"Gereksiz olmak, boşuna yapılmış olmak",Purpose,Usefulness
+TUR10-0960830,beis görmemek,"Sakınca, zarar görmemek",Being_at_risk,Cause_harm
+TUR10-1242460,dayanmak,Karşı durmak,Taking_sides,Tolerating
+TUR10-0892000,çiğlik etmek,Ters veya yersiz bir davranışta bulunmak,Suitability,Conduct
+TUR10-1008120,dil tutmak,Sorguya çekmek için düşman askeri yakalamak,Hunting_success_or_failure,Stimulate_emotion
+TUR10-1119590,peşine takmak,Yanında götürmek,Cotheme,Cotheme
+TUR10-1242640,götürmek,"Öldürmek, zarar vermek",Killing,Cause_harm
+TUR10-1148110,şöyle bir bakmak,Kısaca bakmak,Perception_Active,Perception_Active
+TUR10-1112940,ölçüp biçmek,"Bir konuda çok ayrıntılı düşünmek, inceden inceye düşünmek, değerlendirmek",Cogitation,Cogitation
+TUR10-0880340,çıkmak,Bir iddia ile ortalıkta görünmek,Give_impression,Departing
+TUR10-0761710,tellendirmek,"Sigara, nargile, çubuk ve benzerini keyifle tüttürerek içmek",Ingest_substance,Ingest_substance
+TUR10-0664560,sapıtmak,Ruhsal bir düzensizlik içine düşmek,Losing_it,Becoming
+TUR10-0657880,sakatlamak tağyir etmek nakzetmek berbat etmek berbat eylemek iptal etmek denşirmek,Bir şeyin yapısını veya niteliğini bozmak,Damaging,Cause_harm
+TUR10-0650860,ruziklenmek,Sefil bir biçimde gün geçirmek veya geçinip gitmek,Manner_of_life,Emotions_of_mental_activity
+TUR10-1111910,oyunu almak zar almak,Oyunu kazanmak,Game_Jargon,Game_Jargon
+TUR10-1043860,hallihamur olmak,İçinde bulunduğu koşullara uymak,Compliance,Suitability
+TUR10-0941900,askere alınmak,Askerlik ödevini yapmak için er eğitim merkezine gönderilmek,Sending,Education_teaching
+TUR10-0834510,yapmak,"Bir harekete, işe başlamak veya bir hareketle, işle uğraşmak",Intentionally_act,Activity_Start
+TUR10-1022600,eser kalmamak,"Hiçbir belirti, iz olmamak",Obscurity,State_continue
+TUR10-1179910,yaşını doldurmak yaşını bitirmek,Öngörülen belli bir yaş sınırına ulaşmak,Aging,Aging
+TUR10-0870510,zapt etmek,Tutmak,Manipulation,Motion_directional
+TUR10-0700460,sokulmak,"Yanaşmak, yaklaşmak",Manipulation,Arriving
+TUR10-0454920,kıstırmak sıkıştırmak,"Kaçamayacak bir duruma getirmek, kaçmayacak biçimde çembere almak",Surrounding,Being_attached
+TUR10-0924600,ağzından kapmak,"Birinin bildiği şeyleri, ustalıklı konuşmalarla ona sezdirmeden öğrenmek",Cognitive_Comprehension,Awareness
+TUR10-1059650,rehin vermek ipoteklemek tutuya koymak tutuya bırakmak rehine vermek rehine koymak ipotek etmek terhin etmek,Ödünç para almak için değerli bir şeyi sonrasında geri almak üzere güvence olarak vermek,Borrowing,Inhibit_movement
+TUR10-1130170,saygı duymak saygı beslemek,"Birine, bir şeye karşı saygı hissetmek",Judgement_Communication,Change_Of_Quantity_Of_Possession
+TUR10-0388170,itişmek,Birbirini iterek şakalaşmak,Chatting,Make_noise
+TUR10-1155360,tazip etmek,Sıkıntıya sokmak,Stimulate_emotion,Stimulate_emotion
+TUR10-0911910,ölümüne susamak,Ölümle sonuçlanabilecek davranışlarda bulunmak,Intentionally_act,Death
+TUR10-0186510,debelenmek,Bir acının etkisiyle veya bir baskıdan kurtulmak için çırpınmak,Body_movement,Perception_Body
+TUR10-0070500,bağlılaşmak,İki şey arasında karşılıklı bağıntı olmak veya bağlılık kurmak,Relating_Concepts,Being_relevant
+TUR10-0262520,ezmek,Sıvı içinde bastırıp karıştırarak eritmek,Dispersal,Processing_Materials
+TUR10-0222980,döşemek,Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek,Supply,Supply
+TUR10-1242430,bulmak,Aranılan bir şeye sahip olmak,Locating,Procurance
+TUR10-1016070,düşüp kalkmak,Biriyle çok yakın arkadaşlık etmek,Personal_relationship,Change_posture
+TUR10-1182710,yere yıkılmak yere yığılmak,Yere düşmek,Motion_directional,Motion_directional
+TUR10-0684320,sıçramak,"Yayılmak, bir yerden başka bir yere geçmek",Expansion,Self_motion
+TUR10-0785200,törpülemek,Törpü ile düzeltmek,Grooming,Grooming
+TUR10-0865000,yüklemek,"Bir bilgisayar, disket ve benzerine gerekli bilgileri aktarmak",Electronic_Device,Change_Operational_State
+TUR10-0881320,düşmek,"Bir yere ansızın gelmek, damlamak, tesadüfen gelmek",Encounter,Encounter
+TUR10-0149290,çamurlaşmak,Çamur durumuna gelmek,Change_Of_Consistency,Change_Of_Consistency
+TUR10-1180740,yayık dövmek yayık yaymak,Sütün ayranını ve yağını ayırmak için yayığı çalkalamak,Change_Of_Consistency,Dispersal
+TUR10-0292830,gerçekleşmek hakikat olmak sahileşmek tahakkuk etmek çıkmak,Gerçek duruma gelmek,Event,Event
+TUR10-1043440,hâlden anlamak hâlden bilmek,Bir kimsenin içinde bulunduğu güç durumu anlayarak sezip anlayış göstermek,Awareness,Awareness
+TUR10-0946180,ayağa kalkmak,Ayakları üzerinde durmak; dikilmek,Posture,Posture
+TUR10-0900220,helal etmek helallik vermek,Üzerinde hiçbir hak iddia etmeksizin bağışlamak,Giving,Experiencer_focused_emotion
+TUR10-0784590,toz olmak,Toz durumuna gelmek,Breaking_apart,Change_Of_Consistency
+TUR10-1102580,müdafaa etmek,Savunmak; korumak,Defending,Protecting
+TUR10-0307180,göstermek,"Belirtmek, anlatmak",Telling,Telling
+TUR10-1017230,efil efil etmek,Rüzgârda dalgalanmak,Moving_In_Place,Motion
+TUR10-0021010,aksetmek,"Evirmek, tersine çevirmek",Change_Direction,Change_Direction
+TUR10-0296410,gezmek,Herhangi bir biçimde gezinmek,Traversing,Forward_Motion
+TUR10-0881290,düşmek tedenni etmek,"Hızı, gücü, değeri azalmak",Change_Position_On_A_Scale,Change_Of_Quantity_Of_Possession
+TUR10-0714450,süblimleşmek,"Bir cisim, katı durumdan sıvı durumuna geçmeden doğrudan doğruya gaz durumuna dönüşmek",Change_Of_Phase,Change_Of_Consistency
+TUR10-0865360,yük olmak,"Kendisi için başkasına para harcatmak, masraf yaptırmak",Commerce_Pay,Commerce_Pay
+TUR10-1003400,dert anlatmak,Derdini dökmek,Telling,Cause_harm
+TUR10-0685870,sıkılmak edep etmek teeddüp etmek,"Utanıp bir şeyi yapmak istememek, kaçınmak",Stimulate_emotion,Avoiding
+TUR10-1178780,yardım görmek,Destek elde etmek; bağış almak,Procurance,Assistance
+TUR10-1197350,gerçek olmak hayata geçmek,"Uygulanır duruma gelmek, meydana gelmek",Coming_to_be,Event
+TUR10-0218780,donmak,Kimyasal bir etki ile katılaşmak,Change_Of_Phase,Change_Of_Phase
+TUR10-0778250,titremek,Küçük ve hızlı salınım hareketleri yapmak,Moving_In_Place,Moving_In_Place
+TUR10-0884580,Ahfeşin keçisi gibi başını sallamak,Söylenen sözü anlamadan kafa sallayarak onaylamak,Moving_In_Place,Communication_manner
+TUR10-1142150,su çekmek,İçine su almak,Soaking_up,Soaking_up
+TUR10-0766260,tepmek,"Hayvan, ayağıyla vurmak",Cause_harm,Cause_harm
+TUR10-0469260,kolonyalamak,Kolonya ile işlem yapmak; kolonya sürmek,Processing_Materials,Processing_Materials
+TUR10-1084040,konferans vermek,Herhangi bir konuda bilgi verecek biçimde konuşma yapmak,Speak_on_topic,Statement
+TUR10-0395800,kaçmak,Hızlı koşmak,Forward_Motion,Forward_Motion
+TUR10-0305720,görmek,Gözlerin görmediği durumlarda başka duyu organlarıyla algılamak,Perception,Perception_Experience
+TUR10-0160020,çerçevelemek,Bir şeyi çerçeve içine almak,Containing,Processing_Materials
+TUR10-1158000,temenni etmek temennide bulunmak,Biri için bir dilekte bulunmak,Desiring,Desiring
+TUR10-1056240,ilgi toplamak ilgi görmek alaka çekmek alaka toplamak alaka uyandırmak alakasını çekmek alakasını toplamak alakasını uyandırmak ilgi uyandırmak ilgi çekmek,"Çevresinde ilgiyi, dikkati ve merakı üzerine toplamak",Attention_getting,Cause_to_start
+TUR10-0910400,masraf etmek,Para harcamak,Commerce_Pay,Commerce_Pay
+TUR10-0171410,çizmek,Çizgi biçiminde yaralamak,Cause_harm,Create_physical_artwork
+TUR10-0834230,yapıştırmak,Gecikmeden karşılık vermek veya gerekeni yapmak,Response,Cause_motion
+TUR10-1186600,yoluna sapmak müracaat etmek başvurmak,"Bilgi sahibi olmak için bir kaynağı kullanmak, İsteği, dileği belirtmek için herhangi bir işlem başlatmak",Request,Using
+TUR10-0682550,sevmek,"Birine sevgiyle bağlanmak, gönül vermek",Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0476820,korumak kavzamak muhafaza etmek,"Tehlikeli, zararlı durumları önlemek",Protecting,Protecting
+TUR10-0593780,otlanmak,Hayvan otlamak,Ingestion,Gathering_up
+TUR10-0799060,umursamak,Aldırış etmek; önem vermek,Attention,Importance
+TUR10-1000040,demeç vermek beyanat vermek beyanatta bulunmak,Yetkili bir kimse bir konuda yayın organlarına açıklama yapmak,Telling,Deny_or_grant_permission
+TUR10-0944370,atıfta bulunmak atıf yapmak,"Araştırma, yazışma ve benzerinde kaynak kişiye veya esere işaret etmek",Citing,Citing
+TUR10-0974740,makyaj yapmak boya kullanmak makyajlamak yüz yazmak yüz yapmak boyanmak,"Yüzü çeşitli işlemlerle temizlemek, boyamak ve diğer işlemlerle daha bakımlı ve güzel göstermek",Create_representation,Processing_Materials
+TUR10-1134390,sıkıntı çekmek mihnet çekmek,"Sıkıntılı bir duruma katlanmak, zorluk içinde yaşamak",Emotion_directed,Tolerating
+TUR10-1242530,müdahele etmek,Müdahelede bulunmak,Hindering,Attention
+TUR10-0669880,savurmak rüzgârlamak rüzgarlamak,"Rüzgâr, şiddetle eserek bir yeri, bir şeyi altüst etmek, havaya kaldırmak, dağıtmak",Dispersal,Forward_Motion
+TUR10-0451010,kırılmak yatışmak,"Soğuk, rüzgâr vb. eski gücü kalmamak, hızı ve etkisi azalmak",Cause_change_of_position_on_a_scale,Change_Of_Temperature
+TUR10-0775380,tırmıklamak,Üzerinde tırmık çekerek toprağı işlemek,Processing_Materials,Processing_Materials
+TUR10-0906630,cezasını çekmek kefaretini ödemek,Yaptığı bir kusur veya tedbirsizliğin zararına uğramak,Cause_harm,Judgement_Direct_Address
+TUR10-0105430,binmek,"Bir yere gitmek için tren, vapur, uçak, otomobil vb. bir taşıtta yer almak",Board_vehicle,Operate_vehicle
+TUR10-1141980,su almak,Gemiye içme suyu doldurmak,Filling,Filling
+TUR10-0188920,değmek,Herhangi bir nitelikte olmak,Distinctiveness,Assessing
+TUR10-0884950,akıldan çıkarmak,Düşünmemek,Cogitation,Cogitation
+TUR10-1028260,fiyat vermek,İsteyeceği veya ödeyeceği fiyatı bildirmek,Offering,Commerce_Pay
+TUR10-1091330,küf bağlamak küf tutmak,Bitmek; kalmamak,Process_End,Imprisonment
+TUR10-0467030,kokmak koklamak,Kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek,Perception_Active,Perception_Active
+TUR10-0908460,kopya vermek,Sınavda sorulara cevap vermesi için bir kimseye gizlice yardımda bulunmak,Manipulate_into_doing,Duplication
+TUR10-0073100,bakmak çocuk bakmak,Bebeğin veya çocuğun eğitim ve bakımıyla ilgilenmek,Protecting,Protecting
+TUR10-1006400,dikine gitmek,Kimsenin sözünü dinlemeyerek kendi bildiğini yapmak,Intentionally_act,Intentionally_act
+TUR10-1121780,puan toplamak,Puan kazanmak,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0296550,gıcıklanmak,Gıcık oluşmak,Perception_Body,Change_Of_Consistency
+TUR10-1009410,diş geçirmek,Zorla veya inatla istediğini yaptırmak,Cause_motion,Attempt
+TUR10-0361730,ifildemek,Hafifçe titremek,Moving_In_Place,Deserving
+TUR10-0795770,uçmak pervaz etmek kanat çırpmak,"Kuş, kanatlı böcek vb. hareketli kanatları yardımıyla havada düşmeden durmak, havada yol almak",Motion,Motion
+TUR10-0165410,çırpınmak,Acı ile debelenmek,Body_movement,Perception_Body
+TUR10-0218290,donanmak,"Gerekli nesneler bir araya getirilip süslenmek, gösterişli duruma getirilmek",Distributed_position,Processing_Materials
+TUR10-0944710,at koşturmak,"Çok geniş, alabildiğine rahat hareket edilebilecek yer ve ortam yaratmak veya bulmak",Size,Forward_Motion
+TUR10-0818410,vermek,Hepsini herhangi bir duruma sokmak,State,Giving
+TUR10-1090640,kutlulanmak,Kutlu duruma gelmek,Becoming,Stimulate_emotion
+TUR10-0862750,yumurtlamak,"Tavuk, kuş, balık vb. yumurta yapmak",Giving_birth,Apply_Heat
+TUR10-1149630,hakaret görmek tahkire uğramak,Ağır veya küçültücü davranış görmek; aşağılanmak,Treating_and_mistreating,Judgement_Direct_Address
+TUR10-1120000,pili bitmek,Aşırı yaşlanmak,Aging,Aging
+TUR10-1117670,partiyi kaybetmek,Elde etmeye çalıştığı bir kazancı karşısındakine kaptırmak,Success_or_failure,Success_or_failure
+TUR10-1020400,emeği geçmek,Bir şeyin ortaya çıkması için çalışmış olmak,Work,Work
+TUR10-1012950,dövme yapmak,Vücuda dövme işlemek,Come_into_effect,Processing_Materials
+TUR10-1036950,gözünün içine bakmak gözlerinin içine bakmak,Bir kimseye sevgi ve özen göstermek,Experiencer_focused_emotion,Perception_Active
+TUR10-0174250,çökmek,"Deve, sığır vb. olduğu yere oturmak",Change_posture,Change_posture
+TUR10-0500170,küçülmek ufalmak daralmak derekeye düşmek,Büyükken herhangi bir sebeple küçük duruma gelmek,Change_Size,Change_Size
+TUR10-1170720,üst perdeden konuşmak,Üstünlük taslayarak söz söylemek,Judgment_communication,Chatting
+TUR10-1116990,paraya para dememek paraya pul dememek altın kesmek,Çok para kazanır olmak,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-0150810,çaprazlamak,Çapraz duruma getirmek,Amalgamation,Processing_Materials
+TUR10-0362600,iğnelemek,İğne ile tutturmak,Attaching,Attaching
+TUR10-1242950,geçmek,Kabul edilmek,Success_or_failure,Arriving
+TUR10-0699590,soğuklaşmak,Soğumak,Change_Of_Temperature,Change_Of_Temperature
+TUR10-0791710,tuzlamak,Tuza yatırmak veya üstüne tuz ekmek,Cause_change,Planting
+TUR10-1162040,simgeleşmek timsal olmak,Duyularla ifade edilemeyen bir şeyi belirten somut nesne veya işaret durumuna gelmek,Representing,Communication_manner
+TUR10-0017760,akçıllaşmak,Akçıl duruma gelmiş olmak,Becoming,Becoming
+TUR10-0931730,alıp yürümek,"Az zamanda çok ilerlemek, yayılmak, çoğalmak, artmak",Expansion,Forward_Motion
+TUR10-0522290,mal olmak malolmak,"Bir iş, bir davranış sonucu zarara uğramak",Earnings_And_Losses,Change_Of_Quantity_Of_Possession
+TUR10-0834590,yapmak,Bir durum yaratmak,Creating,Intentionally_create
+TUR10-0964780,bez bağlamak,Bebeklere altlarını kirletmesinler diye bez koymak,Placing,Processing_Materials
+TUR10-0839660,yaşamak,"Bir durumu yaşar gibi olmak, bir durumla özdeşleşmek; duymak; hissetmek",Experiencer_focused_emotion,Living_conditions
+TUR10-1166470,uçan kuştan medet ummak,"Çok sıkıntıda kalıp en ufak bir yardımın herhangi bir yerden gelmesini beklemek, sıkıntılı bir durumdan kurtulmak için her türlü çareye başvurmak",Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0886970,caddeyi tutmak,"Herhangi bir sebeple bir yoldan geçişi engellemek, kapamak",Change_Of_Accessibility,Change_Of_Accessibility
+TUR10-1087990,kulaç atmak,"Yüzerken kolları, sırayla üstten ileriye doğru atıp suyu arkaya doğru çekmek",Self_motion,Motion
+TUR10-1046250,hava çalmak,"Her biri, birbiriyle çelişen, birbirine uymayan davranış ve düşüncede bulunmak",Compatibility,Stimulate_emotion
+TUR10-1242850,almak,Bir duruma bürünmek,Becoming,Cause_to_move_in_place
+TUR10-1181960,yemini basmak,Çabuk ve kuvvetli olarak yemin etmek,Commitment,Commitment
+TUR10-0473830,konuşmak,Belli bir konudan söz etmek,Topic,Statement
+TUR10-1138140,soğukkanlı olmak sinirlerine hâkim olmak gönlünü serin tutmak,"Kolayca, öfke, telaş ve heyecana kapılmamak, davranışlarını ve kendini denetleyebilmek",Self_control,Experiencer_focused_emotion
+TUR10-1062900,iştahı olmak,Yemek isteği fazla olmak,Biological_urge,Desiring
+TUR10-0754110,tazelenmek,Tazelik kazanmak,Rejuvenation,Change_Of_Quantity_Of_Possession
+TUR10-0947780,ayak uydurmak,Yürüyüşte adım atışını başkalarınınkine uydurmak,Imitating,Cotheme
+TUR10-0154170,çatlamak,Parçaları ayrılıp dağılmayacak biçimde yarılmak,Breaking_apart,Breaking_apart
+TUR10-0914070,tabana kuvvet kaçmak,"Çok hızlı, koşarak kaçmak",Forward_Motion,Forward_Motion
+TUR10-0391360,jelatinlemek,Bir yeri veya şeyi jelatin ile kaplamak,Processing_Materials,Processing_Materials
+TUR10-0013990,ağlamak,"Üzüntü, acı, sevinç, pişmanlık aldanma ve benzerinin etkisiyle gözyaşı dökmek",Communication_noise,Experiencer_focused_emotion
+TUR10-1160870,para yatırmak tevdiatta bulunmak,Gerektiğinde almak üzere bir yere para vermek,Commerce_Pay,Commerce_Pay
+TUR10-0047860,artırmak,Bir malı başka alıcıların verdiği fiyattan daha yüksek bir fiyatla almak istemek,Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0960940,bekçi kalmak,"Koruyucu, gözcü, denetleyici olarak beklemek",Waiting,Protecting
+TUR10-1171220,üstüne titremek üzerine titremek gözünden kıskanmak,"Bir şeye veya kimseye sevgi, özen göstermek, kollayıp gözetmek",Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0898885,hadım etmek,"Köreltmek, önemini azaltmak",Stimulus_focus,Change_Of_Quantity_Of_Possession
+TUR10-0258540,etmek,Eşit değer kazanmak,Change_Position_On_A_Scale,Change_Of_Quantity_Of_Possession
+TUR10-0213850,doğrulmak,"Eğik veya eğri bir şey, düz bir duruma gelmek",Change_posture,Compatibility
+TUR10-0910910,nihayete ermek,Sona varmak; sonuçlanmak; bitmek,Process_End,Process_End
+TUR10-0847670,yemek yutmak hap etmek,Ağızda bulunan bir şeyi yutağa geçirmek,Ingestion,Ingestion
+TUR10-0951160,bacak bacak üstüne atmak,Bir bacağını ötekinin üstüne koyarak oturmak,Body_movement,Change_posture
+TUR10-0912300,kolları sıvamak paçaları sıvamak çemrenmek,"Bir iş yapmaya güçlü bir biçimde, istekle hazırlanmak",Activity_prepare,Activity_prepare
+TUR10-1121980,pusudan çıkmak,Kurulan pusudan kurtulmak,Surviving,Departing
+TUR10-1032770,gol yemek,Topun kendi kalesine girmesine engel olamamak,Sports_Jargon,Sports_Jargon
+TUR10-0913070,rast getirmek,Rast gelmesini sağlamak,Evoking,Causation
+TUR10-0019970,akmak,Karışmak; katılmak,Participation,Participation
+TUR10-0584500,okunmak,Açıkça görünmek; belli olmak,Becoming_visible,Becoming_aware
+TUR10-0888680,dalgayı başa almak,Gemi veya sandalın başını dalgaların geldiği yöne çevirmek,Change_Direction,Moving_In_Place
+TUR10-1083550,koluna girmek,Kolunu birinin koltuğu altından geçirmek,Supporting,Body_movement
+TUR10-0804560,uzanmak,Bir şey boyunca sıralanmak,Placing,Arranging
+TUR10-1055590,ilaç yazmak,Reçete yazmak,Text_creation,Text_creation
+TUR10-0634690,poyrazlamak,Poyraz esmeye başlamak,Motion,Activity_Start
+TUR10-0303770,gömülmek,Bir şeyin derinliğine inmek,Emphasizing,Burying
+TUR10-0092250,bellemek aktarmak,Toprağı altı üstüne gelecek biçimde iyice işlemek,Cause_impact,Bringing
+TUR10-0860210,yortmak,Sürekli yol yürümek,Forward_Motion,Forward_Motion
+TUR10-0285620,gazlamak,Motorlu taşıtlarda aracın hızlanmasını sağlamak için gaz pedalına kuvvetle basmak,Cause_to_move_in_place,Operate_vehicle
+TUR10-0797230,uğraşmak,Bir iş üzerinde sürekli çalışmak,Intentionally_act,Work
+TUR10-0250660,erişmek kavuşmak,"Varılması zamana, emeğe bağlı olan veya uzakta bulunan bir amaca varmak, ulaşmak",Accomplishment,Procurance
+TUR10-0295080,gevezelenmek zevzeklenmek,Gevezelik etmek,Communication_manner,Conduct
+TUR10-1154640,yola gelmek tava gelmek yola yatmak,"İstenilen biçimde davranışı kabullenmek, düzelmek, uslanmak veya yumuşamak",Giving_in,Change_posture
+TUR10-1151380,tamtakır olmak,İçinde gerekli hiçbir şey kalmamak,Fullness,Usefulness
+TUR10-1115900,pahalıya patlamak,"Çok para, özveri, emek gerektirmek, kolay elde edilememek veya zarara, sıkıntıya yol açmak",Expensiveness,Change_Position_On_A_Scale
+TUR10-1081250,kızak yapmak kızaklamak,Taşıt fren görevini yerine getirdiği hâlde duramayıp kaymak,Forward_Motion,Filling
+TUR10-1173700,vesile olmak,Uygun ortam oluşmak,Opportunity,Suitability
+TUR10-0172850,çok olmak,Haddini aşarak karşısındakini usandırmak,Conduct,Stimulate_emotion
+TUR10-1060710,istek uyandırmak iç gıcıklamak,"İstemesine, arzu duymasına yol açmak",Cause_emotion,Desiring
+TUR10-0219820,doymak doyunmak,"İsteği kalmayıncaya kadar yemek, açlığı kalmamak",Biological_urge,Ingestion
+TUR10-1181970,yemin etmek yemin içmek ant içmek ahdetmek yemin billah vermek,Bir şeyi yapmaya veya yapmamaya söz vermek,Commitment,Commitment
+TUR10-1159560,ters anlamak lafı kıçından anlamak,"Konuşulan konuyu yanlış yorumlamak, doğru anlam vermemek",Grasp,Judgement
+TUR10-0048030,artmak,"Değeri yükselmek, fazlalaşmak",Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0720750,şad etmek,"Neşelenmesini, sevinmesini sağlamak",Cause_emotion,Emotions_of_mental_activity
+TUR10-1138670,soluğu kesilmek soluğu tutulmak tıkanmak,Soluk almaz duruma gelmek,Breathing,Change_Of_Consistency
+TUR10-1188690,yüksekten konuşmak,Kendini çevresindekilere kabul ettirebilmek için övünerek konuşmak,Judgment_communication,Statement
+TUR10-1116080,pamuk atmak,Yay ve tokmakla pamuğu ditmek,Manipulate_into_shape,Ingestion
+TUR10-0660770,sallamak,Beklenmedik bir başarı kazanmak,Procurance,Success_or_failure
+TUR10-1039070,gözüyle görmek,Bir olaya tanık olmak,Perception_Experience,Perception_Active
+TUR10-0596260,oymak,"Keskin, sivri uçlu bir cisimle bir şeyi yontarak veya delerek çukur oluşturmak",Cutting,Processing_Materials
+TUR10-1050590,hora tepmek,Hora oynamak,Performing_arts,Motion_directional
+TUR10-0927630,aklına getirmek,Hatırlatmak,Evoking,Remembering_Information
+TUR10-1242680,kaçmak,Yok olmak,Fleeing,Forward_Motion
+TUR10-1083580,kol uzatmak,Yayılmak; ulaşmak,Arriving,Change_Event_Duration
+TUR10-0454620,kısmak,Verilen hak ve özgürlüklerin sınırını daraltmak,Inhibit,Limiting
+TUR10-1154140,taş sürmek,"Satranç, dama, domino vb. oyunlarda taşlardan birini oynatmak",Game_Jargon,Game_Jargon
+TUR10-0832400,yanmak,"Çok sevmek, büyük bir aşk ile sevmek",Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-0838980,yaslamak dayamak yastamak,Bir şeyi bir yere dokunur duruma getirmek ve bu durumda bırakmak veya tutmak,Placing,Placing
+TUR10-0005930,açındırmak,Alıcıda kullanılan boş film üzerindeki gizli görüntüyü görülebilir biçime sokmak amacıyla filmi kimyasal işlemden geçirmek,Processing_Materials,Change_Operational_State
+TUR10-0910790,nankörlük görmek,Nankörce davranışla karşılaşmak,Communication_response,Perception_Experience
+TUR10-0955640,baskın gelmek baskın çıkmak,"Karşılaştırma konusu olan kimseyi geçmek, ona karşı üstünlüğünü göstermek",Being_in_control,Surpassing
+TUR10-0947610,ayağını sürümek ayak sürümek ayaklarını sürümek kağnıyla tavşan avına çıkmak,"Bir işi bitirmemek için bahane bulmak, ağırdan almak",Change_Event_Time,Forward_Motion
+TUR10-1083460,koltuğu doldurmak,Aldığı görevi tam olarak başarabilecek yetenekte bulunmak,Capability,Intentionally_act
+TUR10-0395780,kaçmak,Bir yana doğru kaymak,Forward_Motion,Forward_Motion
+TUR10-0048300,arz etmek arzetmek,Saygı ile bildirmek,Telling,Judgement_Direct_Address
+TUR10-1098410,meşgul etmek estek köstek etmek esir almak esir etmek vaktini yemek bekletmek vaktini almak ayakta tutmak,"Alıkoymak, epey zaman harcanmasını gerektirmek",Inhibit_motion_scenario,Work
+TUR10-0152080,çarpışmak,Birbirine üstün gelmeye çalışmak,Hostile_encounter,Hostile_encounter
+TUR10-0895270,fena gözle bakmak,Kötü niyetini anlatır biçimde bakmak,Perception_Active,Perception_Active
+TUR10-0216840,doldurmak,"Bildirge, çizelge, fiş vb. basılı kâğıtların boş yerlerini tamamlamak",Text_creation,Text_creation
+TUR10-0908450,kopya çekmek,Genellikle yazılı sınavlarda soruları cevaplamak için bir kaynağa gizlice bakmak,Manipulate_into_doing,Duplication
+TUR10-1078970,kıkır kıkır gülmek kıkırkıkır gülmek,İçinden gelerek sesli sesli bir biçimde gülmek,Make_noise,Make_noise
+TUR10-1143570,suya düşmek,Bir şeyin gerçekleşme olasılığı kalmamak,Success_or_failure,Likelihood
+TUR10-0867730,yüzeyleşmek,Derine inmemek; derinleşmemek; sathileşmek,Feigning,Change_Of_Consistency
+TUR10-0887500,canına kıymak,Acımadan öldürmek,Killing,Killing
+TUR10-0362640,iğnelenmek,İğne batar gibi acı duyulmak,Perception_Body,Perception_Body
+TUR10-0910690,namaza durmak,Namaza başlamak,Activity_Start,Rite
+TUR10-0686140,sıkışmak,Basınçla iki şey arasında kalmak,Suitability,Attaching
+TUR10-1190380,yüz tutmak,"Bir şey, olmak üzere bulunmak",Coming_to_be,Facial_expression
+TUR10-1169930,uzun oturmak,"Uzanarak oturmak, yarı yatmış durumda oturmak",Posture,Change_posture
+TUR10-0674270,sekmek,Tek veya iki ayak üzerinde sıçrayarak ilerlemek,Forward_Motion,Forward_Motion
+TUR10-0086730,şımarmak baylanmak yüzlenmek yüz bulmak,Kendisine gösterilen sevgi ve saygıdan veya verilen değerden yüreklenerek yersiz ve aşırı davranışlarda bulunmak,Emotions_of_mental_activity,Stimulate_emotion
+TUR10-0481830,köpekleşmek,Onurunu yitirip yaltaklanmak,Expend_resource,Moving_In_Place
+TUR10-0235580,efsaneleşmek,Efsane durumuna gelmek,Fame,Becoming
+TUR10-0891740,çile çekmek,Büyük sıkıntı ve üzüntü içinde yaşamak,Eventive_affecting,Stimulate_emotion
+TUR10-0904710,kadeh kaldırmak,Herhangi birini veya bir şeyi onurlandırmak için içmeden önce kadehleri yukarı kaldırmak,Self_motion,Ingestion
+TUR10-0920410,âdet edinmek,Bir şeyi alışkanlık ve huy durumuna getirmek,Custom,Custom
+TUR10-1161050,teybe almak,"Söylenilen söz, müzik ve benzerini teyp makinesindeki banda geçirmek",Recording,Make_noise
+TUR10-0071360,bahsetmek,"Bir konu üzerinde söz söylemek, konuşmak, sözünü etmek",Statement,Statement
+TUR10-1149620,tahkir etmek,Aşağılamak; onur kırmak,Judgement_Communication,Stimulate_emotion
+TUR10-1040460,güm güm atmak,Kalp heyecanla çarpmak,Feeling,Experiencer_focused_emotion
+TUR10-1103450,müstefit etmek faydalandırmak yararlandırmak,Yararlanma işini yaptırmak,Cause_Benefit_Or_Detriment,Cause_Benefit_Or_Detriment
+TUR10-1031140,geri kalmamak,Yapmaktan kaçınmamak,Daring,Intentionally_act
+TUR10-1186240,yol gözlemek,Bir şeyin olmasını ummak,Expectation,Expectation
+TUR10-0105480,binmek,Eklenmek; katılmak,Amalgamation,Change_Position_On_A_Scale
+TUR10-0055330,atfetmek tevcih etmek,Yöneltmek; çevirmek,Cause_to_move_in_place,Change_Direction
+TUR10-0423220,karşılaştırmak,Karşılaştırma işini yaptırmak,Evaluative_comparison,Evaluative_comparison
+TUR10-0896010,fikir almak fikrini almak,Birinin düşüncesinden yararlanmak,Request,Coming_Up_With
+TUR10-1127540,salma gezmek salma dolaşmak,"Bağlanmamış, serbest hayvan gibi dolaşmak",Forward_Motion,Forward_Motion
+TUR10-0792580,tüllenmek,Tül görünümü almak,Give_impression,Give_impression
+TUR10-0341790,hırıldamak,Hırıltılı bir ses çıkarmak,Make_noise,Make_noise
+TUR10-1092210,lafa karışmak söze karışmak,"Biri veya birileri konuşurken bir başkası konuşmak, konuşmaya katılmak",Interrupt_process,Chatting
+TUR10-0146850,çalarmak,"Ekinler veya meyveler olmaya, olgunlaşmaya yüz tutmak",Progression,Aging
+TUR10-1149190,tadına doyum olmamak,Herhangi bir şey çok beğenilmek,Desirability,Judgement
+TUR10-0016920,akaçlamak,Bir yerde birikmiş suları akıtmak,Cause_fluidic_motion,Removing
+TUR10-1162450,tokat yemek tokadı yemek,Kendine tokat vurulmak,Cause_harm,Tolerating
+TUR10-0901620,ibaret olmak ibaret kalmak,"-den oluşmak, meydana gelmek",Manufacturing,Intentionally_create
+TUR10-1128270,sap çekmek,Biçilmiş ekini tarladan harmana kaldırmak,Food_gathering,Removing
+TUR10-0706590,söylemek,"Bir düşünceyi ileri sürmek, ortaya atmak",Statement,Telling
+TUR10-1157610,telkin etmek ilkah etmek aşılamak,"Birtakım düşünce veya duyguları başkasına benimsetmek, etkilemek",Subjective_influence,Stimulate_emotion
+TUR10-0165430,çırpınmak,Ses çıkararak hafifçe dalgalanmak,Body_movement,Make_noise
+TUR10-0893500,el sıkmak,Selamlaşmak için birinin elini tutmak,Manipulation,Manipulation
+TUR10-1143250,sureti haktan görünmek,Kendisini iyi niyetli imiş gibi göstermek,Intentional_deception,Cause_Benefit_Or_Detriment
+TUR10-0901880,iç dökmek,İçini dökmek,Telling,Excreting
+TUR10-0860180,yormak hamletmek,"Bir sebebe bağlamak, bir duruma işaret saymak",Categorization,Cause_bodily_experience
+TUR10-1067850,kalem oynatmak,Yazı yazmak,Text_creation,Text_creation
+TUR10-0458540,kızarmak,Yiyecekler tavada kızgın yağ içinde veya ateşte kırmızılaşarak pişmek,Cooking_creation,Apply_Heat
+TUR10-1158590,tenezzül etmek,Herhangi bir şeyi yapmaya istekli olmamak,Willingness,Experiencer_focused_emotion
+TUR10-1174750,yabana atmak,Önem vermemek; önemsiz görmek,Attention,Attention
+TUR10-0920640,adım atmak adımını atmak,Bir işe ilk kez girişmek,Process_Start,Activity_Start
+TUR10-0219420,dosyalamak,"Yazıları, belgeleri dosyaya koymak",Placing,Text_creation
+TUR10-0294910,getirmek,Sağlamak,Supply,Causation
+TUR10-0225760,durmak,Birisinin malı olarak bulunmak veya o malla ilişkisi olmak,Existence,Giving
+TUR10-1122510,rahatsız olmak,"Rahatı bozulmak, keyfi kaçmak, sağlığı bozulmak",Emotion_directed,Stimulate_emotion
+TUR10-0904980,kafası karışmak,Önceki bilgi ve düşünceleri altüst olmak,Causation,Cogitation
+TUR10-0940550,arkasını almak,Bir işi tamamlamak,Activity_Done,Activity_Done
+TUR10-0897480,gereksinme duymak,İhtiyacı olduğunu anlamak,Coming_to_believe,Needing
+TUR10-1156520,tekbir getirmek,"Müslümanlıkta Tanrı'nın büyüklüğünü, yüceliğini anmak için söylenen ve Allah ekber sözü ile başlayan duayı okumak",Rite,Rite
+TUR10-0493710,kurtarmak,"Bir canlıyı bir felaketten, tehlikeden veya zor durumdan uzaklaştırmak",Rescuing,Protecting
+TUR10-1087210,kötü kötü düşünmek,Üzüntülü düşüncelere dalmak,Worry,Cogitation
+TUR10-0894800,falso vermek,Bozulmaya yüz tutmak,Rotting,Judgment
+TUR10-0113730,borç etmek,Borçlanmak,Lending,Lending
+TUR10-1124350,rutinleşmek,Bir şey sürekli olarak aynı biçimde yapılmak,Activity_Ongoing,Custom
+TUR10-0522050,malik olmak,Sahip olmak,Carry_Goods,Protecting
+TUR10-0981410,canına okumak,Berbat ve perişan etmek,Emotion_directed,Stimulate_emotion
+TUR10-1161210,kovmak tezkeresini eline vermek azletmek uzaklaştırmak,"İşine son vermek, görevinden atmak yada görevinden almak",Expulse,Expulse
+TUR10-0907230,kesenin dibi görünmek,Para tükenmek,Earnings_And_Losses,Earnings_And_Losses
+TUR10-0825110,yağmak,"Toz, mermi vb. yüksekten çokça düşmek",Motion_directional,Impact
+TUR10-0364610,oturmak ikamet etmek geçirmek kalmak yaşamak,"Bir yerde sürekli olarak kalmak, bir süre yaşamak",Residence,Residence
+TUR10-1206980,değiştokuş etmek,Para aracılığı olmaksızın bir şeyi dolaysız olarak başka bir şey ile değiştirmek,Exchange,Exchange
+TUR10-1038270,gözüne kestirmek,Başarabileceğini ummak,Expectation,Desiring
+TUR10-0913260,rezalet çıkarmak,Rezalet sayılacak bir durumun ortaya çıkmasına yol açmak,Causation,Stimulate_emotion
+TUR10-0191210,demek,Oranlamak,Estimating,Processing_Materials
+TUR10-0647630,ricat etmek alarga etmek geri çekilmek çekilmek gerilemek,Karıştığı bir işi sürdürmekten veya sürdürenler arasında bulunmaktan vazgeçmek,Withdraw_from_participation,Giving_in
+TUR10-0900453,ceza vermek hesabını görmek cezaya çarptırmak tecziye etmek cezalandırmak,Bir kimseye veya varlığa suçlu olduğundan ya da uygunsuz davranışlarda bulunduğundan dolayı yaptırım uygulamak,Judgement_Direct_Address,Judgement_Direct_Address
+TUR10-0666380,sarılmak,Bir şeyin üzerine bir veya birkaç kez dolanmak,Filling,Motion_directional
+TUR10-0029600,yok etmek almak gidermek berhava etmek eritmek ifna etmek kırmak kurutuvermek ortadan kaldırmak tasfiye etmek tayyetmek mahvetmek telef etmek yırtmak imha etmek izale etmek,Varlığına son vermek,Destroying,Destroying
+TUR10-0056730,atmak,Bir kimsenin ilişiğini kesmek,Firing,Expulse
+TUR10-0416510,karakolluk olmak,Kavga sonucu karakola gitmek zorunda kalmak,Committing_crime,Hostile_encounter
+TUR10-1154510,tatmin olmak,"İstediği bir şeye ulaşarak hoşnut olmak, rahatlamak; doyurulmak",Experiencer_focused_emotion,Stimulate_emotion
+TUR10-0678300,serdetmek getirmek öne sürmek,İleri sürmek,Statement,Activity_Ongoing
+TUR10-1053470,tüketmek ifna etmek istihlak etmek yiyip bitirmek yoğaltmak,"Kullanarak, harcayarak yok etmek, bitirmek",Frugality,Frugality
+TUR10-0757730,tekdüzeleşmek,Tekdüze bir duruma gelmek,Becoming,Change_Of_Consistency
+TUR10-1181890,yemek vermek,Konukları yemeğe çağırmak,Social_event_collective,Hospitality
+TUR10-1068440,kamanço etmek,Yüklemek; aktarmak; elden ele geçirmek,Bringing,Transfer
+TUR10-1090900,kuyruğuna teneke bağlamak,"Birini, herkesin alay edeceği biçimde kovmak",Expulse,Judgement_Communication
+TUR10-1144140,sünger çekmek sünger geçirmek silip atmak,"Bir şeyi hiç olmamış saymak, silmek, unutmak",Remembering_Information,Expulse
+TUR10-0894330,elinde tutmak,"Kendi tekelinde bulundurmak, başkalarına kaptırmamak",Losing_it,Grasp
+TUR10-1150220,tak etmek,Tak diye ses çıkarmak,Make_noise,Make_noise
+TUR10-0615810,parlamak ışılışıl yanmak alevlenmek ışıl ışıl yanmak delepmek,Tutuşup alev çıkarmak,Setting_fire,Light_movement
+TUR10-0931210,alıcı gözüyle bakmak,İnceden inceye gözden geçirmek,Perception_Active,Perception_Active
+TUR10-0309030,beklemek,"Bir şeyi, bir kimseyi gözetmek, korumak, muhafaza etmek",Protecting,Protecting
+TUR10-0085450,iflas etmek batmak topu atmak top atmak,Bir kimse veya kuruluş için mahkeme kararıyla anaparasını yitirdiği açıklanmak,Earnings_And_Losses,Success_or_failure
+TUR10-0879630,çekmek,Üzerinde bulunan bir silahla saldırmak için davranmak,Attack,Attack
+TUR10-1047650,hazır olmak,Hazır durumda bulunmak,Process_completed_state,Process_completed_state
+TUR10-0175680,analiz etmek çözümlemek tahlil etmek,Çözümleme yoluyla bir şeyi incelemek,Research,Research
+TUR10-0887980,cendereye sokmak,Manevi baskı altına almak,Causation,Causation
+TUR10-0064940,azdırılmak taharrüş etmek kurcalanmak tırmalanmak,Azmasına yol açmak,Stimulate_emotion,Reshaping
+TUR10-0907950,kız kaçırmak,Bir kızı kendinin veya ailesinin rızası olmadan alıp götürmek,Kidnapping,Inhibit_movement
+TUR10-0069740,bağlamak raptetmek,"Bir şeyi bir yere veya bir şeye iliştirmek, tutturmak",Attaching,Attaching
+TUR10-0594820,oturmak,Bu biçimde yerleştiği yerde kalmak,Change_posture,Change_posture
+TUR10-0879950,çekmek,Bir şeyi emip dışarıya çıkarmak,Excreting,Cause_motion
+TUR10-0241820,elektriklemek,"Üzerinde elektrik gücü bulunmayan bir iletkene, elektrikli başka bir iletkeni yaklaştırmak veya değdirmek yoluyla elektrik gücü vermek",Change_Operational_State,Change_Operational_State
+TUR10-1205920,dikkatle bakmak,Duygularla düşünceyi bir şey üzerinde toplayarak bakışları o şeye yoğunlaştırmak,Perception_Active,Perception_Active
+TUR10-0852590,yetişmek,Bir işe başlamış olanlara veya gidenlere sonradan katılmak,Successful_action,Aging
+TUR10-1143980,sükûnet bulmak,Sakinleşmek; rahatlamak,Emotion_directed,Stimulate_emotion
+TUR10-1146720,şekvacı olmak,Şikâyet etmek; yakınmak,Complaining,Complaining
+TUR10-0212900,doğaçlamak emprovizasyon yapmak doğaçlama yapmak tuluat yapmak,Bir metne dayanmadan içe doğduğu gibi konuşmak ve oynamak,Coming_Up_With,Coming_Up_With
+TUR10-0531050,mazotlamak,Mazot tabakasıyla kaplamak,Processing_Materials,Processing_Materials
+TUR10-0818520,verniklemek,Vernik sürmek,Processing_Materials,Processing_Materials
+TUR10-1050850,hoşnut kalmak hoşnut olmak hoşnutluk duymak memnun olmak,İstenen veya hoşa giden bir şeyin olmasıyla mutlu olmak,Emotion_heat,Stimulate_emotion
+TUR10-1122290,rağbet görmek rağbet kazanmak,İstekle karşılanmak; istenilmek; beğenilmek,Popularity,Request
+TUR10-0857190,yivlemek sivrileştirmek sivriltmek burunlatmak,Bileyerek keskinleştirmek,Cause_To_Be_Sharp,Grooming
+TUR10-1045450,hastaneye yatırmak hastaneye kaldırmak,Tedavi amacıyla hastaneye götürmek,Medical_interaction_scenario,Ride_vehicle
+TUR10-0713640,susmak,Konuşmasını kesmek,Becoming_silent,Becoming_silent
+TUR10-0212440,dizmek,Yan yana veya üst üste sıralamak,Arranging,Arranging
+TUR10-1142220,suçlu olmak,Suçlu sayılmak,Verdict,Verdict
+TUR10-0907330,hasta olmak keyfi bozulmak derde düşmek dertlere düşmek hasta düşmek hastalanmak marazlanmak rahatsızlanmak altüst olmak dökülmek,"Sağlığı bozulmak, hastalanmak",Stimulate_emotion,Medical_conditions
+TUR10-0252890,esindirmek ilham vermek ilham etmek esinlemek,Birine esin duymasını sağlamak,Cause_to_perceive,Subjective_influence
+TUR10-1046200,hava basmak hava vermek,"Tekerlek vb. cisimleri hava ile şişirmek, şişkinliğini artırmak",Filling,Cause_motion
+TUR10-0971590,bloke etmek,Savaş durumundaki bir ülkenin dış ülkelerle ilişkisini engellemek,Change_Of_Accessibility,Change_Of_Accessibility
+TUR10-0841480,yatmak ayazda kalmak,Boş yere beklemek,Waiting,Waiting
+TUR10-1081670,gururuna dokunmak kibrine yedirememek,"Kişiliği zedelenmek, kendine duyduğu saygı zarar görmek",Emotions_by_stimulus,Stimulate_emotion
+TUR10-1061550,iş kalmak,İşin bitmesi için asıl gayret birine düşmek,Being_obligated,Work
+TUR10-0899660,hayata bağlamak,"Yaşamayı sevdirmek, hayattan kopmamak",Assistance,Manner_of_life
+TUR10-0082740,başlamak,"Çalışır, işler, yürür duruma girmek",Activity_Start,Activity_Start
+TUR10-0043360,araştırmak,Bilimde ve sanatta yöntemli çalışmalar yapmak,Research,Research
+TUR10-0935100,kıymak aman vermemek,Acımayıp öldürmek,Killing,Killing
+TUR10-0089630,beklemek,"Süre tanımak, acele etmemek",Holding_off_on,Expectation
+TUR10-0859110,yollamak,"Bir yere doğru yola çıkarmak, yollamak, ulaşmasını, gitmesini sağlamak",Sending,Sending
+TUR10-0999530,delik deşik etmek,"Bir canlının vücudunda bir araçla birçok yara, kesik açmak",Cause_bodily_experience,Experience_bodily_harm
+TUR10-0584310,okumak,"Şarkı, türkü, şiir ve benzerini sesli olarak veya ezgi ile söylemek",Communication_manner,Reading_aloud
+TUR10-0947210,direnmek ayak diremek dayanmak dikilmek diremek diretmek mukavemet etmek mukavemet göstermek göğüslemek karşı durmak karşı koymak minnet etmemek,"Herhangi bir düşüncede, bir istekte veya bir durumda boyun eğmemek",Repel,Compliance
+TUR10-0413490,kapışmak,Birlikte bir şeyin üzerine üşüşüp aceleyle almak; kapmak,Taking,Impact
+TUR10-1055580,ilaç hazırlamak ilaç yapmak,Gerekli maddeleri kullanarak reçetede belirtilen dozda ilacı ortaya koymak,Activity_prepare,Commerce_Buy
+TUR10-0850820,yerleşmek,Çalışmak üzere bir iş yerine başlamak,Activity_Start,Activity_Start
+TUR10-1029300,gazel tutturmak,Yüksek sesle şarkı veya türkü söylemek,Communication_manner,Make_noise
+TUR10-1055260,bütünlemeye kalmak ikmale kalmak,Bir öğrenci yarıyıl veya öğretim yılı sonunda derslerinde başarısızlığa uğramak,Reparation,Failure
+TUR10-0898690,haber atlamak,Gazetecilikte bir haberi vaktinde yayımlayamamak,Elusive_Goal,Success_or_failure
+TUR10-1066550,kafayı değiştirmek,"Düşüncesini, kanaatini değiştirmek",Cognitive_Change,Cognitive_Change
+TUR10-0809020,ürkütmek ürküntü vermek,Korkutmak,Stimulate_emotion,Stimulate_emotion
+TUR10-0724220,şarj etmek,Yüklemek,Filling,Change_Operational_State
+TUR10-0802990,uymak,"Zevke, anlayışa uygun düşmek",Compatibility,Suitability
+TUR10-0515760,macunlaşmak,Macun koyuluğuna gelmek,Processing_Materials,Change_Of_Consistency
+TUR10-1197520,güçten düşürmek takatini kesmek zayıf düşürmek eritmek zayıflatmak kurutmak,Zayıf olmasına yol açmak,Cause_change_of_strength,Cause_change_of_strength
+TUR10-0021200,huysuzlanmak aksilenmek aksileşmek aksilik etmek tersinmek titizlenmek,"Güçlük çıkarmak, uyuşmaya yanaşmamak, huysuzluk etmek, inatçılık etmek, ters davranmak",Emotions,Stimulate_emotion
+TUR10-0129610,büyümek,Önem ve değer kazanmak,Change_Position_On_A_Scale,Change_Of_Quantity_Of_Possession
+TUR10-0895380,feleği şaşmak feleğini şaşırmak,Ummadığı bir durumda kalmak; şaşkınlık içine düşmek,Just_found_out,Stimulate_emotion
+TUR10-0075540,balyalamak balya yapmak denk yapmak bağlamak,"Eşyayı sarılıp bağlanmış biçime getirmek, paket yapmak",Placing,Attaching
+TUR10-1198360,eğitim görmek,Bir bilim dalı veya sanat kolunda yetişmek; eğitim almak,Education_teaching,Education_teaching
+TUR10-1157400,tel çekmek,Telle çevirmek; tel germek,Separating,Processing_Materials
+TUR10-1164490,tumba etmek,"Sandalı, omurgası yukarı gelecek biçimde çevirmek",Change_Direction,Change_posture
+TUR10-0796830,uf olmak,"Çocuk dilinde yanmak, acımak",Perception_Body,Perception_Body
+TUR10-1119110,perhize çekmek,Perhizi titizlikle uygulamak,Compliance,Processing_Materials
+TUR10-0434850,kaynatmak,Kaynamasını sağlamak,Cause_Change_Of_Phase,Processing_Materials
+TUR10-0920570,adı geçmek ismi geçmek bahis mevzusu olmak aranılmak bahis konusu olmak söz konusu olmak zikri geçmek,"Üzerinde konuşulmak, adı geçmek",Statement,Statement
+TUR10-0928170,aklı yatmak kanaat getirmek,"Anlamaya başlamak, olacağına inanmak",Judgement,Coming_to_believe
+TUR10-0002890,acılaşmak acılanmak acımak,"Tadı bozulmak, acı duruma gelmek",Change_Of_Consistency,Perception_Body
+TUR10-0693500,silolamak,Tarım ürünlerini siloya koyup yığmak veya saklamak,Forward_Motion,Carry_Goods
+TUR10-0974620,boş oturmak aylak olmak,"Boşta olmak, yapacak bir işi olmamak",State_continue,Being_employed
+TUR10-1182910,yerinde olmak,"Tamam olmak, iyi durumda bulunmak",Experiencer_focused_emotion,Suitability
+TUR10-0286770,gecikmek,Bir taşıt zamanında kalkamamak veya zamanında varamamak,Hindering,Change_Event_Time
+TUR10-0734720,yaymak şümullendirmek,"Etkisini, çevresini, kapsamını genişletmek",Cause_expansion,Dispersal
+TUR10-0107980,birleşmek,Aynı amaç çevresinde toplanmak,Make_agreement_on_action,Collaboration
+TUR10-0118180,bozulaşmak,Develer bir arada bağırmak,Make_noise,Cause_motion
+TUR10-0989190,çeşni katmak,Değişik bir katkı yapmak,Giving,Cause_to_be_included
+TUR10-0942710,aşık oynamak aşık atmak,Çift tırnaklı hayvanların ön dizlerinde bulunan bir eklem kemiğiyle oyun oynamak,Game_Jargon,Moving_In_Place
+TUR10-0892510,çorbaya sinek düşmek,"İşin tadı kaçmak, yeteri kadar iyi ve güzel olmadığı anlaşılmak",Coming_to_believe,Stimulate_emotion
+TUR10-0943890,ateşe vurmak,Bir yemeği pişmek üzere ocağa koymak,Apply_Heat,Apply_Heat
+TUR10-0884770,akan sular durmak,"İtiraz edememek, söyleyecek sözü kalmamak",Silencing,Process_End
+TUR10-1133500,seyre çıkmak,"Eğlenmek üzere gözlemek, bakmak",Perception_Active,Perception_Active
+TUR10-0893700,elden çıkmak gitmek,"Malı olmaktan çıkmak, malı satılmak",Commerce_Sell,Commerce_Sell
+TUR10-0821910,vurmak,Amaçladığı şeye rast getirmek,Arriving,Shooting_Scenario
+TUR10-0804580,uzanmak,Vücudunu yöneltmek veya vücuduyla birlikte kolunu uzatmak,Body_movement,Body_movement
+TUR10-0773550,tıklamak,"Bir yere vurarak ""tık"" sesi çıkarmak",Make_noise,Electronic_Device
+TUR10-0479660,koyuvermek koyvermek şansa bırakmak,Oluruna bırakmak,Preventing_or_letting,Abandonment
+TUR10-1013180,dudağının ucuna gelmek,Hemen söyleyecek durumda olmak,Activity_prepare,Change_Of_Consistency
+TUR10-1098080,mesaj bırakmak,Yazı veya sözle bilgi vermek,Communication,Telling
+TUR10-0928090,aklını şaşırmak,"Yerinde olmayan bir iş yapmak, yersiz düşünmek",Expertise,Cogitation
+TUR10-0291130,gençleştirmek,Yeniden gençliğine ve dinçliğine kavuşturmak,Rejuvenation,Rejuvenation
+TUR10-1019780,el koymak zapt etmek,"Zorla almak, sahip olmak",Claim_Ownership,Procurance
+TUR10-0825950,yakalamak,Belirlemek; anlamak,Awareness,Cognitive_Comprehension
+TUR10-0834470,yapmak yerine getirmek ifa etmek,"Bir dileği, bir isteği uygulamak, gerçekleştirmek",Creating,Desiring
+TUR10-1161020,genişletmek tevsi etmek,Geniş duruma getirmek,Cause_expansion,Expansion
+TUR10-1159050,terakki etmek,İlerlemek,Process_continue,Change_Position_On_A_Scale
+TUR10-1005120,devreye sokmak,"İşin içine girdirmek, karıştırmak",Operating_a_system,Hindering
+TUR10-0133210,çene çalmak carlamak dökmek mavra sıkmak çok söylemek mavra atmak,Gevezelik etmek,Chatting,Make_noise
+TUR10-0971660,blok yapmak,"Voleybolda, file üstünde karşı oyuncunun topu sert vururken önünde iki veya üç kişi elleri ile perde oluşturmak",Sports_Jargon,Sports_Jargon
+TUR10-0450470,kırdırtmak,"Ticari bir senedi, süresi gelmeden düşük fiyatla birine devretmek veya satmak",Commerce_Sell,Commerce_Sell
+TUR10-1117480,parmak ısırmak,Büyük şaşkınlık duymak,Emotion_directed,Perception_Active
+TUR10-0185910,gelmek dayanmak muvasalat etmek dayamak,"Varmak, ulaşmak",Arriving,Arriving
+TUR10-0307210,göstermek,"Öğretmek, açıklamak",Education_teaching,Education_teaching
+TUR10-1035660,gözcülük etmek,"Kollamak, sağı solu kolaçan etmek",Scrutiny,Processing_Materials
+TUR10-0682580,sevmek,"Yerini, şartlarını uygun bulmak",Judgement,Experiencer_focused_emotion
+TUR10-0781250,toplamak,Hizmete çağırmak,Gathering_up,Come_together
+TUR10-0336970,hazırlanmak,"Hazır olmak, kendini hazırlamak",Activity_prepare,Activity_prepare
+TUR10-0943980,ateşi düşmek,Hastanın ateşi geçmek veya azalmak,Change_Of_Temperature,Experiencer_focused_emotion
+TUR10-1111890,oyun oynamak,"Birini aldatmak, kandırmak",Intentional_deception,Intentional_deception
+TUR10-1116660,para kesmek,Çok para kazanmak,Change_Of_Quantity_Of_Possession,Change_Of_Quantity_Of_Possession
+TUR10-1036120,göz gözü görmemek,"Yoğun sis, duman, toz vb. sebeplerle hiçbir şey görülememek",Perception_Experience,Absence
+TUR10-0232840,düzleşmek düzelmek yatmak aşınmak,"Çıkıntıları silinmek, düz bir duruma gelmek",Reshaping,Change_Of_Consistency
+TUR10-0781220,toplamak,Dağınıklıktan kurtarmak,Emptying,Emptying
+TUR10-0618990,patlatmak,Bir silahı veya patlayıcı bir maddeyi ateşlemek,Shooting_Scenario,Shooting_Scenario
+TUR10-0667150,sarmak,Dolayında yer almak,Participation,Moving_In_Place
+TUR10-1062000,işi bozulmak ayvayı yemek,"Yapmakta olduğu işten gereği kadar kazanç sağlayamaz olmak, kötü duruma düşmek",Earnings_And_Losses,Success_or_failure
+TUR10-0914085,tabanları yağlamak,"Hızlıca koşmak, kaçmak",Forward_Motion,Forward_Motion
+TUR10-1134620,sıkıya gelmek,Güç bir durumla karşılaşmak,Predicament,Tolerating
+TUR10-1005210,devriye gezmek karakol gezmek,Huzur ve güvenliği sağlamak amacıyla dolaşmak,Forward_Motion,Forward_Motion
+TUR10-0890730,hava atmak çalım satmak boy göstermek caka satmak caka yapmak cakalanmak dayılanmak fiyaka satmak fiyaka sökmek gösteriş yapmak racon kesmek azamet satmak böbürlenmek burnu büyümek burnu Kaf dağına çıkmak burnu kafdağı'na çıkmak burnu kafdağı'na varmak burnunun yeli harman savurmak burun şişirmek büyüklenmek büyüklük taslamak çağlamadan çatlamak hava basmak hava yapmak havaya girmek kibirlenmek tafra satmak hindi gibi kabarmak kabarmak şişinmek şişmek kasılmak kasınmak kurulmak kurum kurum kurulmak kurum kurum kurumlanmak kurum satmak kendini beğendirmek kendini beğenmek kurumlanmak mağrur olmak mağrurlanmak gurur duymak gurura kapılmak gururlanmak horozlanmak,"Başkalarına yüksekten bakar gibi bir tavır takınmak, kendini üstün görmeye çalışmak",Experiencer_focused_emotion,Commerce_Sell
+TUR10-1146260,şaşırıp kalmak,"Çok şaşırmak, büyük bir şaşkınlığa düşmek",Experiencer_focused_emotion,Stimulate_emotion
+TUR10-0150220,çapalamak,Çapa ile toprağı kabartmak,Hit_target,Processing_Materials
+TUR10-0797110,uğramak,Yaklaşmak,Visiting,Arriving
+TUR10-0907980,kıyamet kopmak kızılcakıyamet kopmak,Bir yerde çok gürültü ve telaş olmak,Stimulate_emotion,Make_noise
+TUR10-0945260,auta çıkmak,Top sahadan dışarı çıkmak,Sports_Jargon,Sports_Jargon
+TUR10-0594870,oturmak,Biriyle beraber yaşamak,Residence,Residence
+TUR10-1087720,kubur sıkmak silah atmak,Silahtan mermileri boşaltmak,Shooting_Scenario,Shooting_Scenario
+TUR10-1092880,lakırtıya tutmak,Konuşarak oyalamak,Chatting,Chatting
+TUR10-1154210,tatbik etmek,Uygulamak,Practice,Evaluative_comparison
+TUR10-1130530,sebil etmek,"Bol bol vermek, dağıtmak",Giving,Giving
+TUR10-1082160,kin gütmek,Öcünü alıncaya kadar kininden vazgeçmemek,Revenge,Tolerating
+TUR10-0752750,tavsamak,"Bir iş, bir durum vb. gücünü, hızını kaybetmek; yavaşlamak; gevşemek",Change_Event_Duration,Change_Event_Duration
+TUR10-0071550,bakakalmak,Şaşkınlığa uğrayıp ne yapacağını bilmez durumda kalmak,Stimulate_emotion,Stimulate_emotion
+TUR10-0410310,kanmak kanıvermek tav olmak,Tatlı sözlere aldanmak,Fall_for,Stimulate_emotion
+TUR10-0907190,kepaze etmek,Utanılacak bir duruma düşürmek,Stimulate_emotion,Stimulate_emotion
+TUR10-0994330,durumu düzelmek çulu düzeltmek çulu düzmek kendine gelmek,Maddi durumu iyileşmek,Cause_to_make_progress,Recovery
+TUR10-1180230,yatıp kalkmak,Gecelerini geçirmek,Activity_Ongoing,Change_posture
+TUR10-1160880,tevdi etmek,Vermek; bırakmak,Giving,Giving
+TUR10-0915770,tüy dikmek,Kötü bir durum almış bir işi büsbütün kötü bir duruma sokmak,Improvement_or_decline,Make_noise
+TUR10-0940320,arkası alınmak,Bir yerde durdurulmak; sona erdirilmek; bitirilmek,Process_stop,Process_End
+TUR10-0892950,eksik olmamak,Her vakit ve her fırsatta bulunmak,Existence,Intentionally_act
+TUR10-0715800,süngülemek,Süngü ile ateşi karıştırıp külün ızgaradan aşağı dökülmesini sağlamak,Cause_motion,Apply_Heat
+TUR10-0738790,tahtalaşmak,Tahta durumuna gelmek,Change_Of_Consistency,Change_Of_Consistency
+TUR10-0944220,ateş püskürmek ateş kesilmek,Çok kızgın davranışlarda bulunmak,Emotion_directed,Emotion_directed
+TUR10-1067980,kalıp gibi serilmek,Yorgunluktan upuzun yatmak,Change_posture,Biological_urge
+TUR10-1242400,baymak,"Can sıkıntısı vermek, sıkmak, bunaltmak",Stimulate_emotion,Stimulate_emotion
+TUR10-1080740,kışı geçirmek,Kış mevsimini bir yerde geçirmek,Using_resource,Living_conditions
+TUR10-1205970,hayranlıkla bakmak,Çok beğenerek bakmak,Perception_Active,Perception_Active
+TUR10-1135180,sırası gelmek,Bir başkasından sonra sıra birinin veya bir şeyin olmak,Relative_time,Arranging
+TUR10-0503830,küsmek,"Bir madde, herhangi bir sebeple istenilen niteliğini yitirmek",Change_Of_Quantity_Of_Possession,Cause_change
+TUR10-1149100,tadada çıkmak,Yoklamaya katılmak üzere toplanmak,Forward_Motion,Departing
+TUR10-0865760,yükselmek,Aşaması artmak,Change_Position_On_A_Scale,Change_Position_On_A_Scale
+TUR10-0123060,bulaşmak,İstemeden veya rastlantı sonucu bir işe karışmak,Participation,Encounter
+TUR10-0618900,patlamak,"Çok sıkılmak, sıkıntı ve sabırsızlığını belli etmek",Stimulate_emotion,Emotion_directed
+TUR10-0812800,vahvahlanmak acınmak,Acıma işine konu olmak,Others_situation_as_stimulus,Experiencer_focused_emotion
+TUR10-0182200,damgalamak,"Bir kimseye, gerçeğe dayanmadan herhangi bir özellik veya nitelik yüklemek",Labeling,Affirm_or_deny
+TUR10-0856440,yıvışmak,Teklifsiz ve laubali olmak,Social_interaction_evaluation,Becoming
+TUR10-1242500,dönmek,Kendi ekseni üzerinde hareket etmek,Motion_directional,Change_Direction
+TUR10-1133170,sevgi beslemek,Sevgi duymak; sevmek,Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-1107840,nüfuz etmek,Etkili olmak,Being_in_control,Cause_Benefit_Or_Detriment
+TUR10-0245010,emanet etmek ısmarlamak,"Bir şeyin, bir kimsenin bakılmasını, korunmasını birine veya birinin gözetilmesine bırakmak",Giving,Protecting
+TUR10-1010080,dizgine gelmek,"Düzelmek, belli bir disipline ve sisteme girmek",Resolve_problem,Arranging
+TUR10-1061770,iş edinmek,"Bir şeyi görev, meslek olarak kabul etmek",Purpose,Activity_Start
+TUR10-0912770,poker çevirmek,Poker oynamak,Competition,Game_Jargon
+TUR10-0146350,çakmak,Parıldamak; ışık vermek,Location_of_light,Light_movement
+TUR10-0718630,sürünmek,"Kendi üzerine koku, krem vb. sürmek",Using,Grooming
+TUR10-1094660,makaraya almak makaraya sarmak,Bir kimseyle alay etmek,Judgement_Communication,Judgement_Communication
+TUR10-1149490,tahakküm etmek zorbalık etmek,"Baskı yapmak, zorba gibi davranmak",Treating_and_mistreating,Conduct
+TUR10-0288660,geçmek,,Accomplishment,Traversing
+TUR10-0305620,görmek yaşamak başından geçmek,Belirli bir zamanın içinde bir olayı deneyimlemek; bir duruma uğramış olmak,Perception_Experience,Perception
+TUR10-1061980,işi azıtmak,Yanlış ve aşırı yollara sapmak,Misdeed,Causation
+TUR10-0903060,iki seksen uzanmak,"Bir çarpma, vurma sonucu boylu boyunca serilmek",Change_posture,Sports_Jargon
+TUR10-0626770,pırpırlamak,Yanıp sönmek,Light_movement,Cause_to_fragment
+TUR10-0232950,düzmek,Bir gereksinimi karşılamak amacıyla birçok şeyi birbirini tamamlayacak biçimde bir araya getirmek,Assemble,Amalgamation
+TUR10-0773430,tıkışmak,Birlikte bir yere tıkılmak,Placing,Attaching
+TUR10-0451370,kırıştırmak,Karşı cinsten biriyle yakın ilişkide bulunmak; flört etmek,Personal_relationship,Personal_relationship
+TUR10-0812410,vadetmek,Bir işi yerine getireceğine söz vermek,Commitment,Commitment
+TUR10-1154280,tatil etmek,"Başka bir güne, zamana erteleyerek çalışmaya ara vermek",Activity_Pause,Activity_Pause
+TUR10-0413340,kapılmak,Bir şeyin veya kimsenin güçlü etkisinde kalmak,Experiencer_focused_emotion,Objective_influence
+TUR10-1206960,borcu olmak,Birine veya bir yere karşı bir şeyi yerine getirme veya para vb. verme yükümlülüğü olmak,Lending,Lending
+TUR10-0413330,kapılmak,"Bir kimseye tutulmak, bağlanmak, aşırı sevgi duymak",Experiencer_focused_emotion,Experiencer_focused_emotion
+TUR10-1104360,ateşine yanmak nârına yanmak nâra yanmak,Bir kimse yüzünden zarara uğramak,Earnings_And_Losses,Cause_harm
+TUR10-0223490,dövmek,Ezmek,Grinding,Perception_Active
+TUR10-0981490,canını acıtmak,Birine acı vermek,Emotion_directed,Cause_harm
+TUR10-1021440,entrikaya kurban gitmek,"Hileli, dalavereli bir iş sonunda zarara uğramak",Catastrophe,Death
+TUR10-0908257,kol gezmek,Kötü durum ve davranışlar çokça olmak,Abundance,Becoming
+TUR10-0905260,yazıya geçirmek kâğıda dökmek zapt etmek,Yazılı duruma getirmek; yazmak,Text_creation,Text_creation
+TUR10-1107500,not düşmek,Not yazmak,Text_creation,Departing
+TUR10-1145690,şakaya vurmak şakaya sığınmak,Ciddi bir söz veya davranışı şaka yoluyla üstünde durmadan savmak,Prevarication,Chatting
+TUR10-1179090,yarım kulak dinlemek,"Umursamadan, önem vermeden dinlemek",Perception_Active,Perception_Active
+TUR10-0277310,fokurdamak,Fokur fokur ses çıkararak kaynamak,Fluidic_motion,Cause_To_Burn
+TUR10-1199430,yanlış bilgi vermek yanlış yönlendirmek,Birine bir konuda yanlış veya yanıltıcı bilgi vermek,Manipulate_into_doing,Manipulate_into_doing
+TUR10-1007870,dili tutulmak,"Sevinç, korku, şaşkınlık vb. sebeplerle birdenbire söz söyleyemez olmak",Silencing,Stimulate_emotion
+TUR10-0225770,durmak,Kalmak,Temporary_stay,Processing_Materials
+TUR10-1000110,anlamına gelmek demek olmak manasına gelmek mana çıkmak manası çıkmak,"Bir anlam bildirmek , ... anlamını taşımak",Being_in_category,Manipulate_into_doing
+TUR10-1016930,edememek,Yeterli olmamak,Sufficiency,Sufficiency
+TUR10-0583940,okşamak,Hafifçe dövmek,Cause_harm,Self_motion
+TUR10-1157860,tembih etmek tembihlemek,"Bir şeyin belli biçimde ve yolla yapılmasını istemek, söylemek, uyarmak",Judgement_Direct_Address,Request
+TUR10-0898820,hacet kalmamak,Gereği olmamak,Being_necessary,Emotion_directed
+TUR10-1200160,ses çıkarmak,Ağzıyla herhangi bir ses çıkarmak (anlamlı kelimeler olması şart değil),Make_noise,Make_noise
+TUR10-1137200,siniri tutmak,Birdenbire sinirlenmek veya davranışlarını denetleyememek,Emotion_directed,Emotion_directed
+TUR10-1157700,telmih etmek,"Üstü kapalı, imalı bir biçimde anlatmak",Telling,Telling
+TUR10-1242890,bakmak,Bir konuyu belli bir bakış açısıyla değerlendirmek,Judgement,Perception_Active

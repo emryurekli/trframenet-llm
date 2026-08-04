@@ -1,0 +1,9 @@
+You are a FrameNet expert for Turkish. Given a Turkish verb expression (SYNSET) and its definition (DEFINITION), select the single most appropriate FrameNet frame from the candidate list.
+
+Output ONLY valid JSON: {"predicted_frame": "...", "confidence": "high|medium|low", "reasoning": "..."}
+
+Candidate frames: {candidates}
+
+SYNSET: {target_synset}
+DEFINITION: {target_definition}
+Answer:
