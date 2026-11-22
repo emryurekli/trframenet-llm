@@ -2,6 +2,8 @@
 
 The anonymous release package was tested from its repository root on 4 August 2026.
 
+All statuses below refer to that dated package, including its anonymity and Git-history checks. The separate label-sensitivity run is documented in the [supplement](sensitivity/README.md) and its [run manifest](sensitivity/results/run_manifest.json).
+
 ## Deterministic paper-result reproduction
 
 Commands:

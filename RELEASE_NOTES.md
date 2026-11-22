@@ -1,6 +1,6 @@
-# Submission-package cleanup
+# Historical submission-package cleanup
 
-The uploaded working repository was reduced to a review-safe, paper-aligned package.
+These notes describe the cleanup of the original anonymous submission package. They are retained as history; the current public repository also includes the [label-sensitivity supplement](sensitivity/README.md).
 
 Removed:
 
@@ -28,3 +28,9 @@ Added:
 ## Resource-quality audit update
 
 The previous two-annotator files and their IAA-derived outputs were removed. They are replaced by one anonymised 400-item blind reannotation record followed by independent expert adjudication. The package now reproduces outcome counts, stratum-level results, and grouped adjudication-reason tables from `data/resource_quality/audit_records.csv`.
+
+## Public release update — 22 November 2026
+
+- Updated repository, data, and model documentation for the public release and its sensitivity supplement.
+- Added `sensitivity/requirements.txt` to support the documented reproduction command.
+- Adapted release validation for a public Git checkout while retaining required-file, local Drive-path, and API-key checks.
