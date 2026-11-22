@@ -1,0 +1,98 @@
+{
+  "source_policy": "Frozen predictions and evaluation functions from the directory supplied by --repo; exact input bytes are identified by SHA-256.",
+  "run_created_at_utc": "2026-11-22T11:37:08.379648+00:00",
+  "repository": {
+    "source_kind": "git_checkout",
+    "git_commit": "aa6ad459dd3c706006baf8bdf881e54e06456108",
+    "git_remote_origin": "https://github.com/emryurekli/trframenet-llm",
+    "tracked_worktree_clean": true,
+    "note": "Metadata describes the supplied local directory. Input hashes below identify the exact bytes used; this command does not fetch a remote."
+  },
+  "runner_sha256": "794f4d83f218b14ef5a3a12fb0afef65df436477ef8d6faf70963c35c4a96d3b",
+  "comparison_rule": "Exact string equality, unchanged from repository evaluator.",
+  "gold_policy": "Only New label accepted decisions for held-out test IDs replace gold in a separate sensitivity series; all predictions and training labels remain frozen.",
+  "n_boot": 5000,
+  "seed": 42,
+  "counts": {
+    "audit_total": 400,
+    "audit_train": 330,
+    "audit_test": 70,
+    "accepted_total": 101,
+    "accepted_train": 86,
+    "accepted_test": 15,
+    "literal_test_label_changes": 14,
+    "accepted_test_noops": 1,
+    "unchanged_audit_records_outside_101": 299
+  },
+  "original_metrics_reproduced_for_models": 13,
+  "full_test_ranking_unchanged": true,
+  "full_test_order_original": [
+    "Qwen2.5-7B, unconstrained",
+    "Qwen2.5-7B, candidate-conditioned",
+    "Gemini 2.5 Flash, few-shot",
+    "mMPNET + LinearSVC",
+    "GPT-4o-mini, few-shot",
+    "Gemma-3-12B",
+    "LLaMA-3-8B",
+    "GPT-4o-mini, zero-shot",
+    "Qwen2.5-7B",
+    "BM25",
+    "Turkish cosine mMPNET",
+    "English cosine MPNet",
+    "FrameNet-definition embedding"
+  ],
+  "full_test_order_revised": [
+    "Qwen2.5-7B, unconstrained",
+    "Qwen2.5-7B, candidate-conditioned",
+    "Gemini 2.5 Flash, few-shot",
+    "mMPNET + LinearSVC",
+    "GPT-4o-mini, few-shot",
+    "Gemma-3-12B",
+    "LLaMA-3-8B",
+    "GPT-4o-mini, zero-shot",
+    "Qwen2.5-7B",
+    "BM25",
+    "Turkish cosine mMPNET",
+    "English cosine MPNet",
+    "FrameNet-definition embedding"
+  ],
+  "omitted_metrics": "Conditional retrieval accuracy and Recall@k are not recomputed from stale original-gold flags.",
+  "interpretation": "The 70-item audited subset is diagnostic and not representative of the full test distribution. Full-test sensitivity changes only the audited accepted test labels, not all latent annotation errors. No retraining effect is measured.",
+  "inputs": [
+    {
+      "file": "results/primary/primary_predictions.csv",
+      "sha256": "2f87577e65522f10d5ab1a28408c5ef3ee3f1a3c7200b13d6374888c4c92a52e",
+      "bytes": 611920
+    },
+    {
+      "file": "data/lexicon/train.csv",
+      "sha256": "98df2e7bf639f75c85f7ebf92c4d295a9c05b7b17a9ebe21442037cc5d18c379",
+      "bytes": 1104016
+    },
+    {
+      "file": "data/lexicon/test.csv",
+      "sha256": "9b31bf6180d6994610ed171f9430f4e9f4a453baab07deedf18d7bdba6016521",
+      "bytes": 268705
+    },
+    {
+      "file": "data/resource_quality/audit_records.csv",
+      "sha256": "49f94f972e8e1a4a017f558bbfe5d563a7ad5a6cb5398ea0f5238e6ab908e2c2",
+      "bytes": 98682
+    },
+    {
+      "file": "sensitivity/data/audit_400_crosswalk.csv",
+      "sha256": "0bfe74083b3c6122a85eb4595a71fb232f738c20f42430bf68bd62eb8332903c",
+      "bytes": 77268
+    },
+    {
+      "file": "scripts/evaluate_primary.py",
+      "sha256": "90fd4cf531d328e9e0cced9556d6fe61f52a0731d7c22bee39a84cc5de1db2f7",
+      "bytes": 6719
+    },
+    {
+      "file": "src/trframenet_revision/metrics.py",
+      "sha256": "f920f2c0211741b9777d3d2c3b1fec4446fb0296935300d94307b57a7862842a",
+      "bytes": 2491
+    }
+  ]
+}
